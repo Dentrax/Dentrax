@@ -1,3 +1,5 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/furkanturkaI?style=flat-square)](https://twitter.com/furkanturkaI)
+
 ### 📈 &nbsp;Analytics
 
 <p align="center">
