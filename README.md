@@ -1,4 +1,8 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/furkanturkaI?style=flat-square)](https://twitter.com/furkanturkaI)
+<p align="center">
+  <a href="http://twitter.com/furkanturkaI">
+    <img src="https://img.shields.io/twitter/follow/furkanturkaI?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
 
 ### 📈 &nbsp;Analytics
 
