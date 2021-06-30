@@ -22,4 +22,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#453](https://github.com/falcosecurity/falco-website/issues/453) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. 🗣 Commented on [#1063](https://github.com/google/go-containerregistry/issues/1063) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 💪 Opened PR [#1063](https://github.com/google/go-containerregistry/pull/1063) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#1062](https://github.com/google/go-containerregistry/issues/1062) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. ❗️ Opened issue [#1062](https://github.com/google/go-containerregistry/issues/1062) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
