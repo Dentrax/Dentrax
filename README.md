@@ -18,3 +18,8 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dentrax&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
   </a>
 </p>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
