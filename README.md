@@ -22,9 +22,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#476](https://github.com/falcosecurity/falco-website/pull/476) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#398](https://github.com/sigstore/cosign/issues/398) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1062](https://github.com/google/go-containerregistry/issues/1062) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 🗣 Commented on [#1062](https://github.com/google/go-containerregistry/issues/1062) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. 🗣 Commented on [#453](https://github.com/falcosecurity/falco-website/issues/453) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. ❗️ Opened issue [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+2. ❗️ Opened issue [#409](https://github.com/sigstore/cosign/issues/409) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#476](https://github.com/falcosecurity/falco-website/pull/476) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#398](https://github.com/sigstore/cosign/issues/398) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1062](https://github.com/google/go-containerregistry/issues/1062) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
