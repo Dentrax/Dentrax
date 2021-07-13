@@ -22,9 +22,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5201](https://github.com/hlissner/doom-emacs/issues/5201) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
-2. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. ❗️ Opened issue [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. ❗️ Opened issue [#409](https://github.com/sigstore/cosign/issues/409) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#476](https://github.com/falcosecurity/falco-website/pull/476) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. ❗️ Opened issue [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+2. 🗣 Commented on [#5201](https://github.com/hlissner/doom-emacs/issues/5201) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
+3. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. ❗️ Opened issue [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+5. ❗️ Opened issue [#409](https://github.com/sigstore/cosign/issues/409) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
