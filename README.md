@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
-2. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-3. ❗️ Opened issue [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
-4. ❗️ Opened issue [#434](https://github.com/sigstore/cosign/issues/434) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#433](https://github.com/sigstore/cosign/pull/433) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#47618](https://github.com/godotengine/godot/issues/47618) in [godotengine/godot](https://github.com/godotengine/godot)
-7. ❗️ Opened issue [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-8. 🗣 Commented on [#5201](https://github.com/hlissner/doom-emacs/issues/5201) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
-9. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-10. ❗️ Opened issue [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+1. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+2. 🗣 Commented on [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
+3. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+4. ❗️ Opened issue [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
+5. ❗️ Opened issue [#434](https://github.com/sigstore/cosign/issues/434) in [sigstore/cosign](https://github.com/sigstore/cosign)
+6. 💪 Opened PR [#433](https://github.com/sigstore/cosign/pull/433) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#47618](https://github.com/godotengine/godot/issues/47618) in [godotengine/godot](https://github.com/godotengine/godot)
+8. ❗️ Opened issue [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+9. 🗣 Commented on [#5201](https://github.com/hlissner/doom-emacs/issues/5201) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
+10. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
