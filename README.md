@@ -22,9 +22,4 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#434](https://github.com/sigstore/cosign/issues/434) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#433](https://github.com/sigstore/cosign/pull/433) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#47618](https://github.com/godotengine/godot/issues/47618) in [godotengine/godot](https://github.com/godotengine/godot)
-4. ❗️ Opened issue [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-5. 🗣 Commented on [#5201](https://github.com/hlissner/doom-emacs/issues/5201) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
 <!--END_SECTION:activity-->
