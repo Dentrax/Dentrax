@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Opened issue [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
-3. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-5. 🗣 Commented on [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
-6. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-7. ❗️ Opened issue [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
-8. ❗️ Opened issue [#434](https://github.com/sigstore/cosign/issues/434) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. 💪 Opened PR [#433](https://github.com/sigstore/cosign/pull/433) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#47618](https://github.com/godotengine/godot/issues/47618) in [godotengine/godot](https://github.com/godotengine/godot)
+2. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
+4. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+6. 🗣 Commented on [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
+7. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+8. ❗️ Opened issue [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
+9. ❗️ Opened issue [#434](https://github.com/sigstore/cosign/issues/434) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. 💪 Opened PR [#433](https://github.com/sigstore/cosign/pull/433) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
