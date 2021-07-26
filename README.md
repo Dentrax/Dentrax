@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#82](https://github.com/sbstp/kubie/issues/82) in [sbstp/kubie](https://github.com/sbstp/kubie)
-2. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#2368](https://github.com/goreleaser/goreleaser/issues/2368) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
+2. ❗️ Opened issue [#82](https://github.com/sbstp/kubie/issues/82) in [sbstp/kubie](https://github.com/sbstp/kubie)
+3. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#2368](https://github.com/goreleaser/goreleaser/issues/2368) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 5. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. ❗️ Opened issue [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
-7. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-9. 🗣 Commented on [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
-10. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+6. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. ❗️ Opened issue [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
+8. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#2526](https://github.com/kubernetes/kubeadm/issues/2526) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+10. 🗣 Commented on [#47187](https://github.com/golang/go/issues/47187) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
