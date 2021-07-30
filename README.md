@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1063](https://github.com/google/go-containerregistry/issues/1063) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1063](https://github.com/google/go-containerregistry/issues/1063) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 4. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
 5. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 💪 Opened PR [#491](https://github.com/sigstore/cosign/pull/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. ❗️ Opened issue [#174](https://github.com/faressoft/terminalizer/issues/174) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
-8. 🗣 Commented on [#891](https://github.com/asdf-vm/asdf/issues/891) in [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
-9. 🗣 Commented on [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
-10. ❗️ Opened issue [#82](https://github.com/sbstp/kubie/issues/82) in [sbstp/kubie](https://github.com/sbstp/kubie)
+6. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 💪 Opened PR [#491](https://github.com/sigstore/cosign/pull/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. ❗️ Opened issue [#174](https://github.com/faressoft/terminalizer/issues/174) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
+9. 🗣 Commented on [#891](https://github.com/asdf-vm/asdf/issues/891) in [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+10. 🗣 Commented on [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
 <!--END_SECTION:activity-->
