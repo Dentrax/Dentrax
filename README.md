@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5375](https://github.com/wallabag/wallabag/issues/5375) in [wallabag/wallabag](https://github.com/wallabag/wallabag)
-2. ❗️ Opened issue [#5375](https://github.com/wallabag/wallabag/issues/5375) in [wallabag/wallabag](https://github.com/wallabag/wallabag)
-3. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1063](https://github.com/google/go-containerregistry/issues/1063) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. ❗️ Closed issue [#5375](https://github.com/wallabag/wallabag/issues/5375) in [wallabag/wallabag](https://github.com/wallabag/wallabag)
+2. 🗣 Commented on [#5375](https://github.com/wallabag/wallabag/issues/5375) in [wallabag/wallabag](https://github.com/wallabag/wallabag)
+3. 🗣 Commented on [#5375](https://github.com/wallabag/wallabag/issues/5375) in [wallabag/wallabag](https://github.com/wallabag/wallabag)
+4. ❗️ Opened issue [#5375](https://github.com/wallabag/wallabag/issues/5375) in [wallabag/wallabag](https://github.com/wallabag/wallabag)
+5. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
 6. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#1063](https://github.com/google/go-containerregistry/issues/1063) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 8. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. 💪 Opened PR [#491](https://github.com/sigstore/cosign/pull/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. ❗️ Opened issue [#174](https://github.com/faressoft/terminalizer/issues/174) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
+9. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
