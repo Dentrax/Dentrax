@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#545](https://github.com/sigstore/cosign/issues/545) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-3. ❗️ Opened issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
-4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-5. 💪 Opened PR [#118](https://github.com/in-toto/in-toto-golang/pull/118) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-6. ❗️ Opened issue [#132](https://github.com/goodwithtech/dockle/issues/132) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
-7. 🗣 Commented on [#188](https://github.com/sigstore/cosign/issues/188) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 💪 Opened PR [#466](https://github.com/in-toto/in-toto/pull/466) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
-9. ❗️ Opened issue [#367](https://github.com/secure-systems-lab/securesystemslib/issues/367) in [secure-systems-lab/securesystemslib](https://github.com/secure-systems-lab/securesystemslib)
-10. ❗️ Opened issue [#465](https://github.com/in-toto/in-toto/issues/465) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
+1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+2. 🗣 Commented on [#545](https://github.com/sigstore/cosign/issues/545) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+4. ❗️ Opened issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
+5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+6. 💪 Opened PR [#118](https://github.com/in-toto/in-toto-golang/pull/118) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+7. ❗️ Opened issue [#132](https://github.com/goodwithtech/dockle/issues/132) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
+8. 🗣 Commented on [#188](https://github.com/sigstore/cosign/issues/188) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 💪 Opened PR [#466](https://github.com/in-toto/in-toto/pull/466) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
+10. ❗️ Opened issue [#367](https://github.com/secure-systems-lab/securesystemslib/issues/367) in [secure-systems-lab/securesystemslib](https://github.com/secure-systems-lab/securesystemslib)
 <!--END_SECTION:activity-->
