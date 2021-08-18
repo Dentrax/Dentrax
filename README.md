@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1873](https://github.com/kubernetes/perf-tests/issues/1873) in [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests)
-2. ❗️ Opened issue [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-3. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-4. 🗣 Commented on [#545](https://github.com/sigstore/cosign/issues/545) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-6. ❗️ Opened issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
-7. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-8. 💪 Opened PR [#118](https://github.com/in-toto/in-toto-golang/pull/118) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-9. ❗️ Opened issue [#132](https://github.com/goodwithtech/dockle/issues/132) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
-10. 🗣 Commented on [#188](https://github.com/sigstore/cosign/issues/188) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1873](https://github.com/kubernetes/perf-tests/issues/1873) in [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests)
+3. ❗️ Opened issue [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+5. 🗣 Commented on [#545](https://github.com/sigstore/cosign/issues/545) in [sigstore/cosign](https://github.com/sigstore/cosign)
+6. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+7. ❗️ Opened issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
+8. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+9. 💪 Opened PR [#118](https://github.com/in-toto/in-toto-golang/pull/118) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+10. ❗️ Opened issue [#132](https://github.com/goodwithtech/dockle/issues/132) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
 <!--END_SECTION:activity-->
