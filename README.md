@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2427](https://github.com/kubernetes-sigs/kind/pull/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-2. ❗️ Opened issue [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#5900](https://github.com/containerd/containerd/issues/5900) in [containerd/containerd](https://github.com/containerd/containerd)
+2. 💪 Opened PR [#2427](https://github.com/kubernetes-sigs/kind/pull/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+3. ❗️ Opened issue [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 4. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#1873](https://github.com/kubernetes/perf-tests/issues/1873) in [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests)
-6. ❗️ Opened issue [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-7. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-8. 🗣 Commented on [#545](https://github.com/sigstore/cosign/issues/545) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-10. ❗️ Opened issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
+5. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
+6. ❗️ Opened issue [#1873](https://github.com/kubernetes/perf-tests/issues/1873) in [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests)
+7. ❗️ Opened issue [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+8. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+9. 🗣 Commented on [#545](https://github.com/sigstore/cosign/issues/545) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 <!--END_SECTION:activity-->
