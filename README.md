@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-2. 🗣 Commented on [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-3. ❗️ Opened issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-4. ❗️ Opened issue [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
-5. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-7. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. ❗️ Opened issue [#5900](https://github.com/containerd/containerd/issues/5900) in [containerd/containerd](https://github.com/containerd/containerd)
-9. 💪 Opened PR [#2427](https://github.com/kubernetes-sigs/kind/pull/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-10. ❗️ Opened issue [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+1. ❗️ Opened issue [#2428](https://github.com/goreleaser/goreleaser/issues/2428) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❗️ Closed issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+3. 🗣 Commented on [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+4. ❗️ Opened issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+5. ❗️ Opened issue [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
+6. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+8. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. ❗️ Opened issue [#5900](https://github.com/containerd/containerd/issues/5900) in [containerd/containerd](https://github.com/containerd/containerd)
+10. 💪 Opened PR [#2427](https://github.com/kubernetes-sigs/kind/pull/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 <!--END_SECTION:activity-->
