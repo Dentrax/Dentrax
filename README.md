@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2429](https://github.com/goreleaser/goreleaser/pull/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❗️ Opened issue [#2428](https://github.com/goreleaser/goreleaser/issues/2428) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Closed issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-4. 🗣 Commented on [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-5. ❗️ Opened issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-6. ❗️ Opened issue [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
-7. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-9. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. ❗️ Opened issue [#5900](https://github.com/containerd/containerd/issues/5900) in [containerd/containerd](https://github.com/containerd/containerd)
+1. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 💪 Opened PR [#2429](https://github.com/goreleaser/goreleaser/pull/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗️ Opened issue [#2428](https://github.com/goreleaser/goreleaser/issues/2428) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❗️ Closed issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+5. 🗣 Commented on [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+6. ❗️ Opened issue [#4112](https://github.com/Checkmarx/kics/issues/4112) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+7. ❗️ Opened issue [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
+8. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+10. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
