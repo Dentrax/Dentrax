@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Opened issue [#5900](https://github.com/containerd/containerd/issues/5900) in [containerd/containerd](https://github.com/containerd/containerd)
-5. 💪 Opened PR [#2427](https://github.com/kubernetes-sigs/kind/pull/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-6. ❗️ Opened issue [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-7. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
+2. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. ❗️ Opened issue [#5900](https://github.com/containerd/containerd/issues/5900) in [containerd/containerd](https://github.com/containerd/containerd)
+6. 💪 Opened PR [#2427](https://github.com/kubernetes-sigs/kind/pull/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+7. ❗️ Opened issue [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 8. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. ❗️ Opened issue [#1873](https://github.com/kubernetes/perf-tests/issues/1873) in [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests)
-10. ❗️ Opened issue [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. 🗣 Commented on [#547](https://github.com/sigstore/cosign/issues/547) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. ❗️ Opened issue [#1873](https://github.com/kubernetes/perf-tests/issues/1873) in [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests)
 <!--END_SECTION:activity-->
