@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-2. 🗣 Commented on [#491](https://github.com/sigstore/cosign/issues/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#608](https://github.com/sigstore/cosign/issues/608) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+3. 🗣 Commented on [#491](https://github.com/sigstore/cosign/issues/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#608](https://github.com/sigstore/cosign/issues/608) in [sigstore/cosign](https://github.com/sigstore/cosign)
 5. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 6. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-7. 🗣 Commented on [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
-8. 💪 Opened PR [#175](https://github.com/goharbor/community/pull/175) in [goharbor/community](https://github.com/goharbor/community)
-9. ❗️ Closed issue [#21](https://github.com/andreazorzetto/yh/issues/21) in [andreazorzetto/yh](https://github.com/andreazorzetto/yh)
-10. 🗣 Commented on [#21](https://github.com/andreazorzetto/yh/issues/21) in [andreazorzetto/yh](https://github.com/andreazorzetto/yh)
+7. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+8. 🗣 Commented on [#15489](https://github.com/goharbor/harbor/issues/15489) in [goharbor/harbor](https://github.com/goharbor/harbor)
+9. 💪 Opened PR [#175](https://github.com/goharbor/community/pull/175) in [goharbor/community](https://github.com/goharbor/community)
+10. ❗️ Closed issue [#21](https://github.com/andreazorzetto/yh/issues/21) in [andreazorzetto/yh](https://github.com/andreazorzetto/yh)
 <!--END_SECTION:activity-->
