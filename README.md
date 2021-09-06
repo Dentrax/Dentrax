@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#4](https://github.com/svartalf/rust-battop/issues/4) in [svartalf/rust-battop](https://github.com/svartalf/rust-battop)
-3. ❗️ Opened issue [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
-4. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-6. 🗣 Commented on [#491](https://github.com/sigstore/cosign/issues/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. ❗️ Opened issue [#608](https://github.com/sigstore/cosign/issues/608) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. ❗️ Opened issue [#610](https://github.com/insanum/gcalcli/issues/610) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
+2. ❗️ Opened issue [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 🗣 Commented on [#4](https://github.com/svartalf/rust-battop/issues/4) in [svartalf/rust-battop](https://github.com/svartalf/rust-battop)
+4. ❗️ Opened issue [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
+5. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+6. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+7. 🗣 Commented on [#491](https://github.com/sigstore/cosign/issues/491) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. ❗️ Opened issue [#608](https://github.com/sigstore/cosign/issues/608) in [sigstore/cosign](https://github.com/sigstore/cosign)
 9. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 10. 🗣 Commented on [#2429](https://github.com/goreleaser/goreleaser/issues/2429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
