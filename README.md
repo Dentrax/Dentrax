@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
-2. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+1. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+2. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
 3. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-4. ❗️ Opened issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-5. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
+4. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+5. ❗️ Opened issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
 6. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
-7. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#2463](https://github.com/goreleaser/goreleaser/issues/2463) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-9. ❗️ Opened issue [#610](https://github.com/insanum/gcalcli/issues/610) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
-10. ❗️ Opened issue [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+7. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
+8. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#2463](https://github.com/goreleaser/goreleaser/issues/2463) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+10. ❗️ Opened issue [#610](https://github.com/insanum/gcalcli/issues/610) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
 <!--END_SECTION:activity-->
