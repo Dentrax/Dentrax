@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-3. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
-4. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+1. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+2. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+4. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
 5. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-6. ❗️ Opened issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-7. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
+6. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+7. ❗️ Opened issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
 8. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
-9. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#2463](https://github.com/goreleaser/goreleaser/issues/2463) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+9. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
+10. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
