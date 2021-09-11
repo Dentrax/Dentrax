@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-3. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-5. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
+1. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. 💪 Opened PR [#597](https://github.com/jaegertracing/jaeger-client-go/pull/597) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+3. 🗣 Commented on [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+5. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
 6. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-7. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-8. ❗️ Opened issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-9. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
-10. 🗣 Commented on [#599](https://github.com/docker/buildx/issues/599) in [docker/buildx](https://github.com/docker/buildx)
+7. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
+8. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+9. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+10. ❗️ Opened issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
