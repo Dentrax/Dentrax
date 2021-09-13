@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#55](https://github.com/medyo/hackertab.dev/issues/55) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-2. ❗️ Opened issue [#653](https://github.com/sigstore/cosign/issues/653) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#598](https://github.com/jaegertracing/jaeger-client-go/issues/598) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-4. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-5. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-6. 💪 Opened PR [#597](https://github.com/jaegertracing/jaeger-client-go/pull/597) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-7. 🗣 Commented on [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-8. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-9. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
+1. ❗️ Opened issue [#56](https://github.com/medyo/hackertab.dev/issues/56) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+2. ❗️ Opened issue [#55](https://github.com/medyo/hackertab.dev/issues/55) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+3. ❗️ Opened issue [#653](https://github.com/sigstore/cosign/issues/653) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#598](https://github.com/jaegertracing/jaeger-client-go/issues/598) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+5. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+6. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+7. 💪 Opened PR [#597](https://github.com/jaegertracing/jaeger-client-go/pull/597) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+8. 🗣 Commented on [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+9. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+10. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
