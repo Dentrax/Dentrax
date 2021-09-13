@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#598](https://github.com/jaegertracing/jaeger-client-go/issues/598) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-2. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-4. 💪 Opened PR [#597](https://github.com/jaegertracing/jaeger-client-go/pull/597) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-5. 🗣 Commented on [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-6. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-7. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
-9. 💪 Opened PR [#199](https://github.com/cue-lang/cuelang.org/pull/199) in [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
+1. ❗️ Opened issue [#55](https://github.com/medyo/hackertab.dev/issues/55) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+2. ❗️ Opened issue [#653](https://github.com/sigstore/cosign/issues/653) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#598](https://github.com/jaegertracing/jaeger-client-go/issues/598) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+4. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. 💪 Opened PR [#597](https://github.com/jaegertracing/jaeger-client-go/pull/597) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+7. 🗣 Commented on [#1117](https://github.com/google/go-containerregistry/issues/1117) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+8. ❗️ Opened issue [#596](https://github.com/jaegertracing/jaeger-client-go/issues/596) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+9. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
 10. 🗣 Commented on [#761](https://github.com/docker/buildx/issues/761) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
