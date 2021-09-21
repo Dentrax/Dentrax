@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#29](https://github.com/in-toto/ITE/pull/29) in [in-toto/ITE](https://github.com/in-toto/ITE)
-3. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 💪 Opened PR [#2492](https://github.com/goreleaser/goreleaser/pull/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Opened issue [#56](https://github.com/medyo/hackertab.dev/issues/56) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-6. ❗️ Opened issue [#55](https://github.com/medyo/hackertab.dev/issues/55) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-7. ❗️ Opened issue [#653](https://github.com/sigstore/cosign/issues/653) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. ❗️ Opened issue [#598](https://github.com/jaegertracing/jaeger-client-go/issues/598) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-9. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-10. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+1. 🗣 Commented on [#3909](https://github.com/fluent/fluent-bit/issues/3909) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+2. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#29](https://github.com/in-toto/ITE/pull/29) in [in-toto/ITE](https://github.com/in-toto/ITE)
+4. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 💪 Opened PR [#2492](https://github.com/goreleaser/goreleaser/pull/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+6. ❗️ Opened issue [#56](https://github.com/medyo/hackertab.dev/issues/56) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+7. ❗️ Opened issue [#55](https://github.com/medyo/hackertab.dev/issues/55) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+8. ❗️ Opened issue [#653](https://github.com/sigstore/cosign/issues/653) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. ❗️ Opened issue [#598](https://github.com/jaegertracing/jaeger-client-go/issues/598) in [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
+10. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/kind/issues/2427) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 <!--END_SECTION:activity-->
