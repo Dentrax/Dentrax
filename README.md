@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-2. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
-4. 💪 Opened PR [#14](https://github.com/GoTurkiye/training/pull/14) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-5. ❗️ Opened issue [#10332](https://github.com/postmanlabs/postman-app-support/issues/10332) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-6. 🗣 Commented on [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
-7. ❗️ Opened issue [#37](https://github.com/thanos-io/thanosbench/issues/37) in [thanos-io/thanosbench](https://github.com/thanos-io/thanosbench)
-8. 🗣 Commented on [#3909](https://github.com/fluent/fluent-bit/issues/3909) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 💪 Opened PR [#29](https://github.com/in-toto/ITE/pull/29) in [in-toto/ITE](https://github.com/in-toto/ITE)
+1. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+3. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
+5. 💪 Opened PR [#14](https://github.com/GoTurkiye/training/pull/14) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+6. ❗️ Opened issue [#10332](https://github.com/postmanlabs/postman-app-support/issues/10332) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+7. 🗣 Commented on [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
+8. ❗️ Opened issue [#37](https://github.com/thanos-io/thanosbench/issues/37) in [thanos-io/thanosbench](https://github.com/thanos-io/thanosbench)
+9. 🗣 Commented on [#3909](https://github.com/fluent/fluent-bit/issues/3909) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
