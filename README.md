@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. ❗️ Opened issue [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 💪 Opened PR [#6803](https://github.com/tldr-pages/tldr/pull/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. ❗️ Opened issue [#6802](https://github.com/tldr-pages/tldr/issues/6802) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-7. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-8. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
-9. 💪 Opened PR [#14](https://github.com/GoTurkiye/training/pull/14) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-10. ❗️ Opened issue [#10332](https://github.com/postmanlabs/postman-app-support/issues/10332) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+2. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+3. ❗️ Opened issue [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#6803](https://github.com/tldr-pages/tldr/pull/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+5. ❗️ Opened issue [#6802](https://github.com/tldr-pages/tldr/issues/6802) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+6. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+8. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+9. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
+10. 💪 Opened PR [#14](https://github.com/GoTurkiye/training/pull/14) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
 <!--END_SECTION:activity-->
