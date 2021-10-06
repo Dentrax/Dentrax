@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 3. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. ❗️ Opened issue [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#6803](https://github.com/tldr-pages/tldr/pull/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-6. ❗️ Opened issue [#6802](https://github.com/tldr-pages/tldr/issues/6802) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-7. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-9. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-10. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
+4. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+5. ❗️ Opened issue [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+6. 💪 Opened PR [#6803](https://github.com/tldr-pages/tldr/pull/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+7. ❗️ Opened issue [#6802](https://github.com/tldr-pages/tldr/issues/6802) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+8. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+10. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
