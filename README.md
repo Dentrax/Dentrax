@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. 🗣 Commented on [#2563](https://github.com/goreleaser/goreleaser/issues/2563) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 2. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-3. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+3. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+4. 🗣 Commented on [#81](https://github.com/sigstore/sigstore/issues/81) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 5. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-6. ❗️ Opened issue [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-7. 💪 Opened PR [#6803](https://github.com/tldr-pages/tldr/pull/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-8. ❗️ Opened issue [#6802](https://github.com/tldr-pages/tldr/issues/6802) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-9. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#12](https://github.com/GoTurkiye/training/issues/12) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+6. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+7. ❗️ Opened issue [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+8. 💪 Opened PR [#6803](https://github.com/tldr-pages/tldr/pull/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+9. ❗️ Opened issue [#6802](https://github.com/tldr-pages/tldr/issues/6802) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+10. ❗️ Opened issue [#838](https://github.com/sigstore/cosign/issues/838) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
