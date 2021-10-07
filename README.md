@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9473](https://github.com/prometheus/prometheus/issues/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-2. ❗️ Opened issue [#4751](https://github.com/thanos-io/thanos/issues/4751) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-3. 💪 Opened PR [#9473](https://github.com/prometheus/prometheus/pull/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-4. ❗️ Opened issue [#9472](https://github.com/prometheus/prometheus/issues/9472) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-6. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-7. ❗️ Opened issue [#9471](https://github.com/prometheus/prometheus/issues/9471) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-8. 💪 Opened PR [#9470](https://github.com/prometheus/prometheus/pull/9470) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-9. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-10. 💪 Opened PR [#4749](https://github.com/thanos-io/thanos/pull/4749) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. ❗️ Opened issue [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. 🗣 Commented on [#9473](https://github.com/prometheus/prometheus/issues/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+3. ❗️ Opened issue [#4751](https://github.com/thanos-io/thanos/issues/4751) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+4. 💪 Opened PR [#9473](https://github.com/prometheus/prometheus/pull/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+5. ❗️ Opened issue [#9472](https://github.com/prometheus/prometheus/issues/9472) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+7. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+8. ❗️ Opened issue [#9471](https://github.com/prometheus/prometheus/issues/9471) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. 💪 Opened PR [#9470](https://github.com/prometheus/prometheus/pull/9470) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+10. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
