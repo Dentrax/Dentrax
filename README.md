@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
-2. ❗️ Opened issue [#582](https://github.com/nginxinc/docker-nginx/issues/582) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
-3. ❗️ Opened issue [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-4. 🗣 Commented on [#9473](https://github.com/prometheus/prometheus/issues/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. ❗️ Opened issue [#4751](https://github.com/thanos-io/thanos/issues/4751) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-6. 💪 Opened PR [#9473](https://github.com/prometheus/prometheus/pull/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-7. ❗️ Opened issue [#9472](https://github.com/prometheus/prometheus/issues/9472) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-8. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-9. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-10. ❗️ Opened issue [#9471](https://github.com/prometheus/prometheus/issues/9471) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+1. ❗️ Opened issue [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
+2. ❗️ Opened issue [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
+3. ❗️ Opened issue [#582](https://github.com/nginxinc/docker-nginx/issues/582) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
+4. ❗️ Opened issue [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+5. 🗣 Commented on [#9473](https://github.com/prometheus/prometheus/issues/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. ❗️ Opened issue [#4751](https://github.com/thanos-io/thanos/issues/4751) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+7. 💪 Opened PR [#9473](https://github.com/prometheus/prometheus/pull/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+8. ❗️ Opened issue [#9472](https://github.com/prometheus/prometheus/issues/9472) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+10. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--END_SECTION:activity-->
