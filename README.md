@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#466](https://github.com/in-toto/in-toto/issues/466) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
-2. 🗣 Commented on [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
-3. ❗️ Opened issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-4. ❗️ Opened issue [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
-5. ❗️ Opened issue [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
-6. ❗️ Opened issue [#582](https://github.com/nginxinc/docker-nginx/issues/582) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
-7. ❗️ Opened issue [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-8. 🗣 Commented on [#9473](https://github.com/prometheus/prometheus/issues/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-9. ❗️ Opened issue [#4751](https://github.com/thanos-io/thanos/issues/4751) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-10. 💪 Opened PR [#9473](https://github.com/prometheus/prometheus/pull/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+1. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 🗣 Commented on [#466](https://github.com/in-toto/in-toto/issues/466) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
+3. 🗣 Commented on [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
+4. ❗️ Opened issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+5. ❗️ Opened issue [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
+6. ❗️ Opened issue [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
+7. ❗️ Opened issue [#582](https://github.com/nginxinc/docker-nginx/issues/582) in [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
+8. ❗️ Opened issue [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. 🗣 Commented on [#9473](https://github.com/prometheus/prometheus/issues/9473) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+10. ❗️ Opened issue [#4751](https://github.com/thanos-io/thanos/issues/4751) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
 <!--END_SECTION:activity-->
