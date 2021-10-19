@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/mikefarah/yq/issues/485) in [mikefarah/yq](https://github.com/mikefarah/yq)
-2. ❗️ Closed issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-3. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-4. 🗣 Commented on [#25991](https://github.com/istio/istio/issues/25991) in [istio/istio](https://github.com/istio/istio)
-5. ❗️ Opened issue [#666](https://github.com/zricethezav/gitleaks/issues/666) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-6. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-7. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-8. 🗣 Commented on [#466](https://github.com/in-toto/in-toto/issues/466) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
-9. 🗣 Commented on [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
-10. ❗️ Opened issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+1. ❗️ Opened issue [#1038](https://github.com/qax-os/excelize/issues/1038) in [qax-os/excelize](https://github.com/qax-os/excelize)
+2. 🗣 Commented on [#485](https://github.com/mikefarah/yq/issues/485) in [mikefarah/yq](https://github.com/mikefarah/yq)
+3. ❗️ Closed issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+4. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+5. 🗣 Commented on [#25991](https://github.com/istio/istio/issues/25991) in [istio/istio](https://github.com/istio/istio)
+6. ❗️ Opened issue [#666](https://github.com/zricethezav/gitleaks/issues/666) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+7. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+8. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+9. 🗣 Commented on [#466](https://github.com/in-toto/in-toto/issues/466) in [in-toto/in-toto](https://github.com/in-toto/in-toto)
+10. 🗣 Commented on [#1635](https://github.com/python-gitlab/python-gitlab/issues/1635) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
 <!--END_SECTION:activity-->
