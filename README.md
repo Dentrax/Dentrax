@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. ❗️ Opened issue [#925](https://github.com/sigstore/cosign/issues/925) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#1038](https://github.com/qax-os/excelize/issues/1038) in [qax-os/excelize](https://github.com/qax-os/excelize)
-4. 🗣 Commented on [#485](https://github.com/mikefarah/yq/issues/485) in [mikefarah/yq](https://github.com/mikefarah/yq)
-5. ❗️ Closed issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-6. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-7. 🗣 Commented on [#25991](https://github.com/istio/istio/issues/25991) in [istio/istio](https://github.com/istio/istio)
-8. ❗️ Opened issue [#666](https://github.com/zricethezav/gitleaks/issues/666) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-9. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-10. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+3. ❗️ Opened issue [#925](https://github.com/sigstore/cosign/issues/925) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#1038](https://github.com/qax-os/excelize/issues/1038) in [qax-os/excelize](https://github.com/qax-os/excelize)
+5. 🗣 Commented on [#485](https://github.com/mikefarah/yq/issues/485) in [mikefarah/yq](https://github.com/mikefarah/yq)
+6. ❗️ Closed issue [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+7. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+8. 🗣 Commented on [#25991](https://github.com/istio/istio/issues/25991) in [istio/istio](https://github.com/istio/istio)
+9. ❗️ Opened issue [#666](https://github.com/zricethezav/gitleaks/issues/666) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+10. 🗣 Commented on [#663](https://github.com/zricethezav/gitleaks/issues/663) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
 <!--END_SECTION:activity-->
