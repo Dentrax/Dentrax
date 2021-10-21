@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/sigstore/sget/pull/26) in [sigstore/sget](https://github.com/sigstore/sget)
-2. 🗣 Commented on [#1038](https://github.com/qax-os/excelize/issues/1038) in [qax-os/excelize](https://github.com/qax-os/excelize)
-3. 🗣 Commented on [#23](https://github.com/sigstore/sget/issues/23) in [sigstore/sget](https://github.com/sigstore/sget)
-4. 💪 Opened PR [#9558](https://github.com/prometheus/prometheus/pull/9558) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. 🗣 Commented on [#9470](https://github.com/prometheus/prometheus/issues/9470) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-6. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-7. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-8. ❗️ Opened issue [#925](https://github.com/sigstore/cosign/issues/925) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. ❗️ Opened issue [#1038](https://github.com/qax-os/excelize/issues/1038) in [qax-os/excelize](https://github.com/qax-os/excelize)
-10. 🗣 Commented on [#485](https://github.com/mikefarah/yq/issues/485) in [mikefarah/yq](https://github.com/mikefarah/yq)
+1. 🗣 Commented on [#26](https://github.com/sigstore/sget/issues/26) in [sigstore/sget](https://github.com/sigstore/sget)
+2. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
+3. 💪 Opened PR [#27](https://github.com/sigstore/sget/pull/27) in [sigstore/sget](https://github.com/sigstore/sget)
+4. 💪 Opened PR [#26](https://github.com/sigstore/sget/pull/26) in [sigstore/sget](https://github.com/sigstore/sget)
+5. 🗣 Commented on [#1038](https://github.com/qax-os/excelize/issues/1038) in [qax-os/excelize](https://github.com/qax-os/excelize)
+6. 🗣 Commented on [#23](https://github.com/sigstore/sget/issues/23) in [sigstore/sget](https://github.com/sigstore/sget)
+7. 💪 Opened PR [#9558](https://github.com/prometheus/prometheus/pull/9558) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+8. 🗣 Commented on [#9470](https://github.com/prometheus/prometheus/issues/9470) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+10. 🗣 Commented on [#6803](https://github.com/tldr-pages/tldr/issues/6803) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--END_SECTION:activity-->
