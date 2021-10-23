@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/ellie/atuin/issues/68) in [ellie/atuin](https://github.com/ellie/atuin)
-2. 💪 Opened PR [#8](https://github.com/jorgelbg/pinentry-touchid/pull/8) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-3. ❗️ Opened issue [#7](https://github.com/jorgelbg/pinentry-touchid/issues/7) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-4. 💪 Opened PR [#9570](https://github.com/prometheus/prometheus/pull/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. 💪 Opened PR [#9569](https://github.com/prometheus/prometheus/pull/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-6. 💪 Opened PR [#938](https://github.com/sigstore/cosign/pull/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#26](https://github.com/sigstore/sget/issues/26) in [sigstore/sget](https://github.com/sigstore/sget)
-8. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
-9. 💪 Opened PR [#27](https://github.com/sigstore/sget/pull/27) in [sigstore/sget](https://github.com/sigstore/sget)
-10. 💪 Opened PR [#26](https://github.com/sigstore/sget/pull/26) in [sigstore/sget](https://github.com/sigstore/sget)
+1. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. 🗣 Commented on [#68](https://github.com/ellie/atuin/issues/68) in [ellie/atuin](https://github.com/ellie/atuin)
+3. 💪 Opened PR [#8](https://github.com/jorgelbg/pinentry-touchid/pull/8) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+4. ❗️ Opened issue [#7](https://github.com/jorgelbg/pinentry-touchid/issues/7) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+5. 💪 Opened PR [#9570](https://github.com/prometheus/prometheus/pull/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. 💪 Opened PR [#9569](https://github.com/prometheus/prometheus/pull/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+7. 💪 Opened PR [#938](https://github.com/sigstore/cosign/pull/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#26](https://github.com/sigstore/sget/issues/26) in [sigstore/sget](https://github.com/sigstore/sget)
+9. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
+10. 💪 Opened PR [#27](https://github.com/sigstore/sget/pull/27) in [sigstore/sget](https://github.com/sigstore/sget)
 <!--END_SECTION:activity-->
