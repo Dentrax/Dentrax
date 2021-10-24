@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-2. 🗣 Commented on [#690](https://github.com/open-policy-agent/gatekeeper/issues/690) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. ❗️ Closed issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
+2. 🗣 Commented on [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
 3. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-4. 🗣 Commented on [#68](https://github.com/ellie/atuin/issues/68) in [ellie/atuin](https://github.com/ellie/atuin)
-5. 💪 Opened PR [#8](https://github.com/jorgelbg/pinentry-touchid/pull/8) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-6. ❗️ Opened issue [#7](https://github.com/jorgelbg/pinentry-touchid/issues/7) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-7. 💪 Opened PR [#9570](https://github.com/prometheus/prometheus/pull/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-8. 💪 Opened PR [#9569](https://github.com/prometheus/prometheus/pull/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-9. 💪 Opened PR [#938](https://github.com/sigstore/cosign/pull/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#26](https://github.com/sigstore/sget/issues/26) in [sigstore/sget](https://github.com/sigstore/sget)
+4. ❗️ Opened issue [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+5. 🗣 Commented on [#690](https://github.com/open-policy-agent/gatekeeper/issues/690) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+6. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+7. 🗣 Commented on [#68](https://github.com/ellie/atuin/issues/68) in [ellie/atuin](https://github.com/ellie/atuin)
+8. 💪 Opened PR [#8](https://github.com/jorgelbg/pinentry-touchid/pull/8) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+9. ❗️ Opened issue [#7](https://github.com/jorgelbg/pinentry-touchid/issues/7) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+10. 💪 Opened PR [#9570](https://github.com/prometheus/prometheus/pull/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
 <!--END_SECTION:activity-->
