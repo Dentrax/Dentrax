@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-2. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-3. 🗣 Commented on [#938](https://github.com/sigstore/cosign/issues/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. ❗️ Closed issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-6. 🗣 Commented on [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-7. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-8. ❗️ Opened issue [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-9. 🗣 Commented on [#690](https://github.com/open-policy-agent/gatekeeper/issues/690) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-10. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+1. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
+2. 🗣 Commented on [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+3. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+4. 🗣 Commented on [#938](https://github.com/sigstore/cosign/issues/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. ❗️ Closed issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
+7. 🗣 Commented on [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
+8. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. ❗️ Opened issue [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+10. 🗣 Commented on [#690](https://github.com/open-policy-agent/gatekeeper/issues/690) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 <!--END_SECTION:activity-->
