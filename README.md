@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
-2. 🗣 Commented on [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+1. ❗️ Opened issue [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+2. ❗️ Closed issue [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
 3. 🗣 Commented on [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
-4. ❗️ Opened issue [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
-5. 🗣 Commented on [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-6. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
-7. 🗣 Commented on [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-8. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-9. 🗣 Commented on [#938](https://github.com/sigstore/cosign/issues/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+4. 🗣 Commented on [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+5. ❗️ Opened issue [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+6. 🗣 Commented on [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+7. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
+8. 🗣 Commented on [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+9. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+10. 🗣 Commented on [#938](https://github.com/sigstore/cosign/issues/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
