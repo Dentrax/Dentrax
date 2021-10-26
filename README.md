@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
-3. 🗣 Commented on [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-4. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. 🗣 Commented on [#938](https://github.com/sigstore/cosign/issues/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-7. ❗️ Closed issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-8. 🗣 Commented on [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
-9. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-10. ❗️ Opened issue [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+1. ❗️ Opened issue [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+2. 🗣 Commented on [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#27](https://github.com/sigstore/sget/issues/27) in [sigstore/sget](https://github.com/sigstore/sget)
+4. 🗣 Commented on [#9474](https://github.com/prometheus/prometheus/issues/9474) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+5. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. 🗣 Commented on [#938](https://github.com/sigstore/cosign/issues/938) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+8. ❗️ Closed issue [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
+9. 🗣 Commented on [#760](https://github.com/docker/buildx/issues/760) in [docker/buildx](https://github.com/docker/buildx)
+10. 🗣 Commented on [#9569](https://github.com/prometheus/prometheus/issues/9569) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
 <!--END_SECTION:activity-->
