@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/docker-credential-magic/docker-credential-magic/issues/39) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-2. ❗️ Opened issue [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-3. ❗️ Opened issue [#29](https://github.com/vmware-tanzu/carvel-kwt/issues/29) in [vmware-tanzu/carvel-kwt](https://github.com/vmware-tanzu/carvel-kwt)
-4. ❗️ Opened issue [#184](https://github.com/vmware-tanzu/carvel-kbld/issues/184) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
-5. ❗️ Opened issue [#4512](https://github.com/meshery/meshery/issues/4512) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
+1. ❗️ Opened issue [#2](https://github.com/Vinum-Security/kubernetes-security-checklist/issues/2) in [Vinum-Security/kubernetes-security-checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
+2. ❗️ Opened issue [#39](https://github.com/docker-credential-magic/docker-credential-magic/issues/39) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
+3. ❗️ Opened issue [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+4. ❗️ Opened issue [#29](https://github.com/vmware-tanzu/carvel-kwt/issues/29) in [vmware-tanzu/carvel-kwt](https://github.com/vmware-tanzu/carvel-kwt)
+5. ❗️ Opened issue [#184](https://github.com/vmware-tanzu/carvel-kbld/issues/184) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
+6. ❗️ Opened issue [#4512](https://github.com/meshery/meshery/issues/4512) in [meshery/meshery](https://github.com/meshery/meshery)
 7. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
-8. ❗️ Opened issue [#4240](https://github.com/fluent/fluent-bit/issues/4240) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. ❗️ Opened issue [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-10. ❗️ Closed issue [#840](https://github.com/prometheus/blackbox_exporter/issues/840) in [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+8. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
+9. ❗️ Opened issue [#4240](https://github.com/fluent/fluent-bit/issues/4240) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. ❗️ Opened issue [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
 <!--END_SECTION:activity-->
