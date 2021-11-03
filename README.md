@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/medyo/hackertab.dev/issues/68) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-2. ❗️ Opened issue [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. ❗️ Opened issue [#7376](https://github.com/tldr-pages/tldr/issues/7376) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. ❗️ Opened issue [#7375](https://github.com/tldr-pages/tldr/issues/7375) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. 🗣 Commented on [#2622](https://github.com/goreleaser/goreleaser/issues/2622) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-6. ❗️ Opened issue [#2625](https://github.com/goreleaser/goreleaser/issues/2625) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-7. 💪 Opened PR [#2623](https://github.com/goreleaser/goreleaser/pull/2623) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-8. ❗️ Opened issue [#36](https://github.com/vmware-tanzu/k-bench/issues/36) in [vmware-tanzu/k-bench](https://github.com/vmware-tanzu/k-bench)
-9. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-10. ❗️ Opened issue [#70](https://github.com/medyo/hackertab.dev/issues/70) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+1. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#70](https://github.com/medyo/hackertab.dev/issues/70) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+3. 🗣 Commented on [#68](https://github.com/medyo/hackertab.dev/issues/68) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+4. ❗️ Opened issue [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. ❗️ Opened issue [#7376](https://github.com/tldr-pages/tldr/issues/7376) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+6. ❗️ Opened issue [#7375](https://github.com/tldr-pages/tldr/issues/7375) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+7. 🗣 Commented on [#2622](https://github.com/goreleaser/goreleaser/issues/2622) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+8. ❗️ Opened issue [#2625](https://github.com/goreleaser/goreleaser/issues/2625) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+9. 💪 Opened PR [#2623](https://github.com/goreleaser/goreleaser/pull/2623) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+10. ❗️ Opened issue [#36](https://github.com/vmware-tanzu/k-bench/issues/36) in [vmware-tanzu/k-bench](https://github.com/vmware-tanzu/k-bench)
 <!--END_SECTION:activity-->
