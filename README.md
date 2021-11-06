@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1173](https://github.com/instaloader/instaloader/issues/1173) in [instaloader/instaloader](https://github.com/instaloader/instaloader)
-2. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
-3. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-4. ❗️ Opened issue [#67](https://github.com/fregante/github-issue-link-status/issues/67) in [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status)
-5. ❗️ Opened issue [#63](https://github.com/tldr-pages/tldr-c-client/issues/63) in [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client)
-6. ❗️ Opened issue [#62](https://github.com/tldr-pages/tldr-c-client/issues/62) in [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client)
-7. 🗣 Commented on [#36](https://github.com/vmware-tanzu/k-bench/issues/36) in [vmware-tanzu/k-bench](https://github.com/vmware-tanzu/k-bench)
-8. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-9. 🗣 Commented on [#70](https://github.com/medyo/hackertab.dev/issues/70) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-10. 🗣 Commented on [#68](https://github.com/medyo/hackertab.dev/issues/68) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+1. ❗️ Opened issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#1173](https://github.com/instaloader/instaloader/issues/1173) in [instaloader/instaloader](https://github.com/instaloader/instaloader)
+3. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
+4. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+5. ❗️ Opened issue [#67](https://github.com/fregante/github-issue-link-status/issues/67) in [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status)
+6. ❗️ Opened issue [#63](https://github.com/tldr-pages/tldr-c-client/issues/63) in [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client)
+7. ❗️ Opened issue [#62](https://github.com/tldr-pages/tldr-c-client/issues/62) in [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client)
+8. 🗣 Commented on [#36](https://github.com/vmware-tanzu/k-bench/issues/36) in [vmware-tanzu/k-bench](https://github.com/vmware-tanzu/k-bench)
+9. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+10. 🗣 Commented on [#70](https://github.com/medyo/hackertab.dev/issues/70) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
 <!--END_SECTION:activity-->
