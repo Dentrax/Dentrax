@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2637](https://github.com/goreleaser/goreleaser/issues/2637) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Closed issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-4. 🗣 Commented on [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-5. ❗️ Opened issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-6. 🗣 Commented on [#1173](https://github.com/instaloader/instaloader/issues/1173) in [instaloader/instaloader](https://github.com/instaloader/instaloader)
-7. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
-8. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-9. ❗️ Opened issue [#67](https://github.com/fregante/github-issue-link-status/issues/67) in [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status)
-10. ❗️ Opened issue [#63](https://github.com/tldr-pages/tldr-c-client/issues/63) in [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client)
+1. 🗣 Commented on [#4746](https://github.com/operator-framework/operator-sdk/issues/4746) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+2. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2637](https://github.com/goreleaser/goreleaser/issues/2637) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❗️ Closed issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+5. 🗣 Commented on [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+6. ❗️ Opened issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+7. 🗣 Commented on [#1173](https://github.com/instaloader/instaloader/issues/1173) in [instaloader/instaloader](https://github.com/instaloader/instaloader)
+8. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
+9. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+10. ❗️ Opened issue [#67](https://github.com/fregante/github-issue-link-status/issues/67) in [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status)
 <!--END_SECTION:activity-->
