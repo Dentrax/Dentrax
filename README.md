@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#4746](https://github.com/operator-framework/operator-sdk/issues/4746) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-3. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#2637](https://github.com/goreleaser/goreleaser/issues/2637) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Closed issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-6. 🗣 Commented on [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-7. ❗️ Opened issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-8. 🗣 Commented on [#1173](https://github.com/instaloader/instaloader/issues/1173) in [instaloader/instaloader](https://github.com/instaloader/instaloader)
-9. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
-10. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+1. ❗️ Opened issue [#66](https://github.com/gabeduke/kubectl-iexec/issues/66) in [gabeduke/kubectl-iexec](https://github.com/gabeduke/kubectl-iexec)
+2. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#4746](https://github.com/operator-framework/operator-sdk/issues/4746) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+4. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#2637](https://github.com/goreleaser/goreleaser/issues/2637) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+6. ❗️ Closed issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+7. 🗣 Commented on [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+8. ❗️ Opened issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+9. 🗣 Commented on [#1173](https://github.com/instaloader/instaloader/issues/1173) in [instaloader/instaloader](https://github.com/instaloader/instaloader)
+10. 🗣 Commented on [#35751](https://github.com/istio/istio/issues/35751) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
