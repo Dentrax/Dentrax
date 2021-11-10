@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+1. ❗️ Opened issue [#2657](https://github.com/goreleaser/goreleaser/issues/2657) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 2. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-3. ❗️ Opened issue [#2651](https://github.com/goreleaser/goreleaser/issues/2651) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❗️ Opened issue [#66](https://github.com/gabeduke/kubectl-iexec/issues/66) in [gabeduke/kubectl-iexec](https://github.com/gabeduke/kubectl-iexec)
-5. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#4746](https://github.com/operator-framework/operator-sdk/issues/4746) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-7. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-8. 🗣 Commented on [#2637](https://github.com/goreleaser/goreleaser/issues/2637) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-9. ❗️ Closed issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
-10. 🗣 Commented on [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
+3. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+4. ❗️ Opened issue [#2651](https://github.com/goreleaser/goreleaser/issues/2651) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❗️ Opened issue [#66](https://github.com/gabeduke/kubectl-iexec/issues/66) in [gabeduke/kubectl-iexec](https://github.com/gabeduke/kubectl-iexec)
+6. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#4746](https://github.com/operator-framework/operator-sdk/issues/4746) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+8. 🗣 Commented on [#2492](https://github.com/goreleaser/goreleaser/issues/2492) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+9. 🗣 Commented on [#2637](https://github.com/goreleaser/goreleaser/issues/2637) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+10. ❗️ Closed issue [#49410](https://github.com/golang/go/issues/49410) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
