@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4712](https://github.com/cli/cli/issues/4712) in [cli/cli](https://github.com/cli/cli)
-2. ❗️ Opened issue [#4711](https://github.com/cli/cli/issues/4711) in [cli/cli](https://github.com/cli/cli)
-3. 🗣 Commented on [#936](https://github.com/sigstore/cosign/issues/936) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Opened issue [#2657](https://github.com/goreleaser/goreleaser/issues/2657) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-6. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-7. ❗️ Opened issue [#2651](https://github.com/goreleaser/goreleaser/issues/2651) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-8. ❗️ Opened issue [#66](https://github.com/gabeduke/kubectl-iexec/issues/66) in [gabeduke/kubectl-iexec](https://github.com/gabeduke/kubectl-iexec)
-9. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#4746](https://github.com/operator-framework/operator-sdk/issues/4746) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+1. 🗣 Commented on [#1018](https://github.com/sigstore/cosign/issues/1018) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#498](https://github.com/google/ko/pull/498) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❗️ Opened issue [#4712](https://github.com/cli/cli/issues/4712) in [cli/cli](https://github.com/cli/cli)
+5. ❗️ Opened issue [#4711](https://github.com/cli/cli/issues/4711) in [cli/cli](https://github.com/cli/cli)
+6. 🗣 Commented on [#936](https://github.com/sigstore/cosign/issues/936) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. ❗️ Opened issue [#2657](https://github.com/goreleaser/goreleaser/issues/2657) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+8. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+9. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+10. ❗️ Opened issue [#2651](https://github.com/goreleaser/goreleaser/issues/2651) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
