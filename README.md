@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#486](https://github.com/sigstore/rekor/issues/486) in [sigstore/rekor](https://github.com/sigstore/rekor)
-2. 🗣 Commented on [#1018](https://github.com/sigstore/cosign/issues/1018) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#498](https://github.com/google/ko/pull/498) in [google/ko](https://github.com/google/ko)
-4. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Opened issue [#4712](https://github.com/cli/cli/issues/4712) in [cli/cli](https://github.com/cli/cli)
-6. ❗️ Opened issue [#4711](https://github.com/cli/cli/issues/4711) in [cli/cli](https://github.com/cli/cli)
-7. 🗣 Commented on [#936](https://github.com/sigstore/cosign/issues/936) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. ❗️ Opened issue [#2657](https://github.com/goreleaser/goreleaser/issues/2657) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-9. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+2. ❗️ Opened issue [#486](https://github.com/sigstore/rekor/issues/486) in [sigstore/rekor](https://github.com/sigstore/rekor)
+3. 🗣 Commented on [#1018](https://github.com/sigstore/cosign/issues/1018) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#498](https://github.com/google/ko/pull/498) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+6. ❗️ Opened issue [#4712](https://github.com/cli/cli/issues/4712) in [cli/cli](https://github.com/cli/cli)
+7. ❗️ Opened issue [#4711](https://github.com/cli/cli/issues/4711) in [cli/cli](https://github.com/cli/cli)
+8. 🗣 Commented on [#936](https://github.com/sigstore/cosign/issues/936) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. ❗️ Opened issue [#2657](https://github.com/goreleaser/goreleaser/issues/2657) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 10. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
