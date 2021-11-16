@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1059](https://github.com/sigstore/cosign/issues/1059) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Opened issue [#67](https://github.com/imjasonh/kontain.me/issues/67) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-3. ❗️ Opened issue [#66](https://github.com/imjasonh/kontain.me/issues/66) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-4. ❗️ Opened issue [#65](https://github.com/imjasonh/kontain.me/issues/65) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-5. 🗣 Commented on [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-8. ❗️ Opened issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-9. ❗️ Closed issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
-10. 🗣 Commented on [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
+1. ❗️ Opened issue [#1060](https://github.com/sigstore/cosign/issues/1060) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1059](https://github.com/sigstore/cosign/issues/1059) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#67](https://github.com/imjasonh/kontain.me/issues/67) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
+4. ❗️ Opened issue [#66](https://github.com/imjasonh/kontain.me/issues/66) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
+5. ❗️ Opened issue [#65](https://github.com/imjasonh/kontain.me/issues/65) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
+6. 🗣 Commented on [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+9. ❗️ Opened issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+10. ❗️ Closed issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
 <!--END_SECTION:activity-->
