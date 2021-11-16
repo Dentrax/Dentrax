@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Opened issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❗️ Closed issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
-5. 🗣 Commented on [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
-6. 🗣 Commented on [#1027](https://github.com/sigstore/cosign/issues/1027) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. ❗️ Opened issue [#1027](https://github.com/sigstore/cosign/issues/1027) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#483](https://github.com/manosim/gitify/issues/483) in [manosim/gitify](https://github.com/manosim/gitify)
-9. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-10. ❗️ Opened issue [#74](https://github.com/medyo/hackertab.dev/issues/74) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+1. 🗣 Commented on [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❗️ Opened issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❗️ Closed issue [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
+6. 🗣 Commented on [#2202](https://github.com/kubernetes/release/issues/2202) in [kubernetes/release](https://github.com/kubernetes/release)
+7. 🗣 Commented on [#1027](https://github.com/sigstore/cosign/issues/1027) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. ❗️ Opened issue [#1027](https://github.com/sigstore/cosign/issues/1027) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#483](https://github.com/manosim/gitify/issues/483) in [manosim/gitify](https://github.com/manosim/gitify)
+10. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
