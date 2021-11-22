@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1672](https://github.com/open-policy-agent/gatekeeper/issues/1672) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-2. 🗣 Commented on [#1](https://github.com/opsgenie/kubernetes-event-exporter/issues/1) in [opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)
-3. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-4. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-5. 💪 Opened PR [#1066](https://github.com/sigstore/cosign/pull/1066) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#66](https://github.com/imjasonh/kontain.me/issues/66) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-7. 🗣 Commented on [#3909](https://github.com/fluent/fluent-bit/issues/3909) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-8. 🗣 Commented on [#4264](https://github.com/fluent/fluent-bit/issues/4264) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. 🗣 Commented on [#3](https://github.com/Dentrax/Z00bfuscator/issues/3) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-10. ❗️ Opened issue [#1060](https://github.com/sigstore/cosign/issues/1060) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1091](https://github.com/sigstore/cosign/issues/1091) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#1091](https://github.com/sigstore/cosign/pull/1091) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#1672](https://github.com/open-policy-agent/gatekeeper/issues/1672) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 🗣 Commented on [#1](https://github.com/opsgenie/kubernetes-event-exporter/issues/1) in [opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)
+5. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+6. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+7. 💪 Opened PR [#1066](https://github.com/sigstore/cosign/pull/1066) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#66](https://github.com/imjasonh/kontain.me/issues/66) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
+9. 🗣 Commented on [#3909](https://github.com/fluent/fluent-bit/issues/3909) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. 🗣 Commented on [#4264](https://github.com/fluent/fluent-bit/issues/4264) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!--END_SECTION:activity-->
