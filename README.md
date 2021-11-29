@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-2. ❗️ Opened issue [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-3. 🗣 Commented on [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-4. ❗️ Opened issue [#9](https://github.com/secure-systems-lab/go-securesystemslib/issues/9) in [secure-systems-lab/go-securesystemslib](https://github.com/secure-systems-lab/go-securesystemslib)
-5. ❗️ Opened issue [#1695](https://github.com/open-policy-agent/gatekeeper/issues/1695) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-6. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-7. ❗️ Opened issue [#1691](https://github.com/open-policy-agent/gatekeeper/issues/1691) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-8. 🗣 Commented on [#1091](https://github.com/sigstore/cosign/issues/1091) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. 💪 Opened PR [#1091](https://github.com/sigstore/cosign/pull/1091) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. ❗️ Opened issue [#1672](https://github.com/open-policy-agent/gatekeeper/issues/1672) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. ❗️ Opened issue [#1109](https://github.com/sigstore/cosign/issues/1109) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+3. ❗️ Opened issue [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+4. 🗣 Commented on [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+5. ❗️ Opened issue [#9](https://github.com/secure-systems-lab/go-securesystemslib/issues/9) in [secure-systems-lab/go-securesystemslib](https://github.com/secure-systems-lab/go-securesystemslib)
+6. ❗️ Opened issue [#1695](https://github.com/open-policy-agent/gatekeeper/issues/1695) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+7. 🗣 Commented on [#1138](https://github.com/kubernetes/kubectl/issues/1138) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+8. ❗️ Opened issue [#1691](https://github.com/open-policy-agent/gatekeeper/issues/1691) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+9. 🗣 Commented on [#1091](https://github.com/sigstore/cosign/issues/1091) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. 💪 Opened PR [#1091](https://github.com/sigstore/cosign/pull/1091) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
