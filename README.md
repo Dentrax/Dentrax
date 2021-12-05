@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1109](https://github.com/sigstore/cosign/issues/1109) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2711](https://github.com/goreleaser/goreleaser/issues/2711) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 💪 Opened PR [#1120](https://github.com/sigstore/cosign/pull/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-5. 🗣 Commented on [#1](https://github.com/TheRawMeatball/meme-cli/issues/1) in [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli)
-6. 🗣 Commented on [#628](https://github.com/falcosecurity/falco/issues/628) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-7. 🗣 Commented on [#1](https://github.com/TheRawMeatball/meme-cli/issues/1) in [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli)
-8. 🗣 Commented on [#3974](https://github.com/containerd/containerd/issues/3974) in [containerd/containerd](https://github.com/containerd/containerd)
-9. 🗣 Commented on [#367](https://github.com/wagoodman/dive/issues/367) in [wagoodman/dive](https://github.com/wagoodman/dive)
-10. ❗️ Opened issue [#2494](https://github.com/moby/buildkit/issues/2494) in [moby/buildkit](https://github.com/moby/buildkit)
+1. 🗣 Commented on [#485](https://github.com/kube-rs/kube-rs/issues/485) in [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)
+2. 🗣 Commented on [#1109](https://github.com/sigstore/cosign/issues/1109) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#2711](https://github.com/goreleaser/goreleaser/issues/2711) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#1120](https://github.com/sigstore/cosign/pull/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+6. 🗣 Commented on [#1](https://github.com/TheRawMeatball/meme-cli/issues/1) in [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli)
+7. 🗣 Commented on [#628](https://github.com/falcosecurity/falco/issues/628) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+8. 🗣 Commented on [#1](https://github.com/TheRawMeatball/meme-cli/issues/1) in [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli)
+9. 🗣 Commented on [#3974](https://github.com/containerd/containerd/issues/3974) in [containerd/containerd](https://github.com/containerd/containerd)
+10. 🗣 Commented on [#367](https://github.com/wagoodman/dive/issues/367) in [wagoodman/dive](https://github.com/wagoodman/dive)
 <!--END_SECTION:activity-->
