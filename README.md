@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
+1. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
 2. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
-3. ❗️ Opened issue [#10437](https://github.com/helm/helm/issues/10437) in [helm/helm](https://github.com/helm/helm)
-4. ❗️ Opened issue [#10436](https://github.com/helm/helm/issues/10436) in [helm/helm](https://github.com/helm/helm)
-5. ❗️ Opened issue [#3307](https://github.com/opencontainers/runc/issues/3307) in [opencontainers/runc](https://github.com/opencontainers/runc)
-6. ❗️ Opened issue [#518](https://github.com/containers/youki/issues/518) in [containers/youki](https://github.com/containers/youki)
-7. 🗣 Commented on [#485](https://github.com/kube-rs/kube-rs/issues/485) in [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)
-8. 🗣 Commented on [#1109](https://github.com/sigstore/cosign/issues/1109) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. 🗣 Commented on [#2711](https://github.com/goreleaser/goreleaser/issues/2711) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-10. 💪 Opened PR [#1120](https://github.com/sigstore/cosign/pull/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
+4. ❗️ Opened issue [#10437](https://github.com/helm/helm/issues/10437) in [helm/helm](https://github.com/helm/helm)
+5. ❗️ Opened issue [#10436](https://github.com/helm/helm/issues/10436) in [helm/helm](https://github.com/helm/helm)
+6. ❗️ Opened issue [#3307](https://github.com/opencontainers/runc/issues/3307) in [opencontainers/runc](https://github.com/opencontainers/runc)
+7. ❗️ Opened issue [#518](https://github.com/containers/youki/issues/518) in [containers/youki](https://github.com/containers/youki)
+8. 🗣 Commented on [#485](https://github.com/kube-rs/kube-rs/issues/485) in [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)
+9. 🗣 Commented on [#1109](https://github.com/sigstore/cosign/issues/1109) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. 🗣 Commented on [#2711](https://github.com/goreleaser/goreleaser/issues/2711) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
