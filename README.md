@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
-3. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
+1. ❗️ Opened issue [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
+2. ❗️ Opened issue [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
 4. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
-5. ❗️ Opened issue [#10437](https://github.com/helm/helm/issues/10437) in [helm/helm](https://github.com/helm/helm)
-6. ❗️ Opened issue [#10436](https://github.com/helm/helm/issues/10436) in [helm/helm](https://github.com/helm/helm)
-7. ❗️ Opened issue [#3307](https://github.com/opencontainers/runc/issues/3307) in [opencontainers/runc](https://github.com/opencontainers/runc)
-8. ❗️ Opened issue [#518](https://github.com/containers/youki/issues/518) in [containers/youki](https://github.com/containers/youki)
-9. 🗣 Commented on [#485](https://github.com/kube-rs/kube-rs/issues/485) in [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)
-10. 🗣 Commented on [#1109](https://github.com/sigstore/cosign/issues/1109) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
+6. ❗️ Opened issue [#10437](https://github.com/helm/helm/issues/10437) in [helm/helm](https://github.com/helm/helm)
+7. ❗️ Opened issue [#10436](https://github.com/helm/helm/issues/10436) in [helm/helm](https://github.com/helm/helm)
+8. ❗️ Opened issue [#3307](https://github.com/opencontainers/runc/issues/3307) in [opencontainers/runc](https://github.com/opencontainers/runc)
+9. ❗️ Opened issue [#518](https://github.com/containers/youki/issues/518) in [containers/youki](https://github.com/containers/youki)
+10. 🗣 Commented on [#485](https://github.com/kube-rs/kube-rs/issues/485) in [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)
 <!--END_SECTION:activity-->
