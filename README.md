@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
-2. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
+1. 🗣 Commented on [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
 3. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
 4. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
-5. ❗️ Opened issue [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
-6. ❗️ Opened issue [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-7. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
-8. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
+5. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
+6. ❗️ Opened issue [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
+7. ❗️ Opened issue [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
 9. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
-10. ❗️ Opened issue [#10437](https://github.com/helm/helm/issues/10437) in [helm/helm](https://github.com/helm/helm)
+10. 🗣 Commented on [#1882](https://github.com/ElrondNetwork/elrond-go/issues/1882) in [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go)
 <!--END_SECTION:activity-->
