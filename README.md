@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
-2. ❗️ Opened issue [#10459](https://github.com/helm/helm/issues/10459) in [helm/helm](https://github.com/helm/helm)
-3. 🗣 Commented on [#5168](https://github.com/refined-github/refined-github/issues/5168) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
+2. ❗️ Opened issue [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
+3. ❗️ Opened issue [#10459](https://github.com/helm/helm/issues/10459) in [helm/helm](https://github.com/helm/helm)
 4. 🗣 Commented on [#5168](https://github.com/refined-github/refined-github/issues/5168) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-6. 🗣 Commented on [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-7. 🗣 Commented on [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
-8. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#5168](https://github.com/refined-github/refined-github/issues/5168) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+6. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+7. 🗣 Commented on [#5160](https://github.com/refined-github/refined-github/issues/5160) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. 🗣 Commented on [#812](https://github.com/hashicorp/terraform-plugin-sdk/issues/812) in [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk)
 9. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
 10. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
