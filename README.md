@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#177](https://github.com/spiffe/go-spiffe/issues/177) in [spiffe/go-spiffe](https://github.com/spiffe/go-spiffe)
-2. ❗️ Opened issue [#436](https://github.com/chartmuseum/storage/issues/436) in [chartmuseum/storage](https://github.com/chartmuseum/storage)
-3. ❗️ Opened issue [#2660](https://github.com/spiffe/spire/issues/2660) in [spiffe/spire](https://github.com/spiffe/spire)
-4. ❗️ Opened issue [#2659](https://github.com/spiffe/spire/issues/2659) in [spiffe/spire](https://github.com/spiffe/spire)
-5. ❗️ Opened issue [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
-6. 🗣 Commented on [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
-7. ❗️ Opened issue [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
-8. ❗️ Opened issue [#10459](https://github.com/helm/helm/issues/10459) in [helm/helm](https://github.com/helm/helm)
-9. 🗣 Commented on [#5168](https://github.com/refined-github/refined-github/issues/5168) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. ❗️ Opened issue [#30396](https://github.com/ytdl-org/youtube-dl/issues/30396) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+2. ❗️ Opened issue [#177](https://github.com/spiffe/go-spiffe/issues/177) in [spiffe/go-spiffe](https://github.com/spiffe/go-spiffe)
+3. ❗️ Opened issue [#436](https://github.com/chartmuseum/storage/issues/436) in [chartmuseum/storage](https://github.com/chartmuseum/storage)
+4. ❗️ Opened issue [#2660](https://github.com/spiffe/spire/issues/2660) in [spiffe/spire](https://github.com/spiffe/spire)
+5. ❗️ Opened issue [#2659](https://github.com/spiffe/spire/issues/2659) in [spiffe/spire](https://github.com/spiffe/spire)
+6. ❗️ Opened issue [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+7. 🗣 Commented on [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
+8. ❗️ Opened issue [#532](https://github.com/sigstore/rekor/issues/532) in [sigstore/rekor](https://github.com/sigstore/rekor)
+9. ❗️ Opened issue [#10459](https://github.com/helm/helm/issues/10459) in [helm/helm](https://github.com/helm/helm)
 10. 🗣 Commented on [#5168](https://github.com/refined-github/refined-github/issues/5168) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
