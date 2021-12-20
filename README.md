@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/fkautz/zt.dev/issues/21) in [fkautz/zt.dev](https://github.com/fkautz/zt.dev)
-2. 🗣 Commented on [#96](https://github.com/ellie/atuin/issues/96) in [ellie/atuin](https://github.com/ellie/atuin)
-3. ❗️ Opened issue [#91649](https://github.com/Homebrew/homebrew-core/issues/91649) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 🗣 Commented on [#2625](https://github.com/starship/starship/issues/2625) in [starship/starship](https://github.com/starship/starship)
-5. 🗣 Commented on [#30396](https://github.com/ytdl-org/youtube-dl/issues/30396) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-6. ❗️ Opened issue [#30396](https://github.com/ytdl-org/youtube-dl/issues/30396) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-7. ❗️ Opened issue [#177](https://github.com/spiffe/go-spiffe/issues/177) in [spiffe/go-spiffe](https://github.com/spiffe/go-spiffe)
-8. ❗️ Opened issue [#436](https://github.com/chartmuseum/storage/issues/436) in [chartmuseum/storage](https://github.com/chartmuseum/storage)
-9. ❗️ Opened issue [#2660](https://github.com/spiffe/spire/issues/2660) in [spiffe/spire](https://github.com/spiffe/spire)
-10. ❗️ Opened issue [#2659](https://github.com/spiffe/spire/issues/2659) in [spiffe/spire](https://github.com/spiffe/spire)
+1. ❗️ Opened issue [#3250](https://github.com/LonamiWebs/Telethon/issues/3250) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+2. ❗️ Opened issue [#21](https://github.com/fkautz/zt.dev/issues/21) in [fkautz/zt.dev](https://github.com/fkautz/zt.dev)
+3. 🗣 Commented on [#96](https://github.com/ellie/atuin/issues/96) in [ellie/atuin](https://github.com/ellie/atuin)
+4. ❗️ Opened issue [#91649](https://github.com/Homebrew/homebrew-core/issues/91649) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🗣 Commented on [#2625](https://github.com/starship/starship/issues/2625) in [starship/starship](https://github.com/starship/starship)
+6. 🗣 Commented on [#30396](https://github.com/ytdl-org/youtube-dl/issues/30396) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+7. ❗️ Opened issue [#30396](https://github.com/ytdl-org/youtube-dl/issues/30396) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+8. ❗️ Opened issue [#177](https://github.com/spiffe/go-spiffe/issues/177) in [spiffe/go-spiffe](https://github.com/spiffe/go-spiffe)
+9. ❗️ Opened issue [#436](https://github.com/chartmuseum/storage/issues/436) in [chartmuseum/storage](https://github.com/chartmuseum/storage)
+10. ❗️ Opened issue [#2660](https://github.com/spiffe/spire/issues/2660) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
