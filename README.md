@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
-2. ❗️ Opened issue [#188](https://github.com/mintel/dex-k8s-authenticator/issues/188) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
-3. ❗️ Opened issue [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
-4. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 💪 Opened PR [#1408](https://github.com/ossf/scorecard/pull/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
-6. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-7. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
-8. 🗣 Commented on [#3250](https://github.com/LonamiWebs/Telethon/issues/3250) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
-9. ❗️ Opened issue [#1406](https://github.com/ossf/scorecard/issues/1406) in [ossf/scorecard](https://github.com/ossf/scorecard)
-10. ❗️ Opened issue [#709](https://github.com/anchore/syft/issues/709) in [anchore/syft](https://github.com/anchore/syft)
+1. ❗️ Opened issue [#5241](https://github.com/refined-github/refined-github/issues/5241) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
+3. ❗️ Opened issue [#188](https://github.com/mintel/dex-k8s-authenticator/issues/188) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
+4. ❗️ Opened issue [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
+5. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
+6. 💪 Opened PR [#1408](https://github.com/ossf/scorecard/pull/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
+7. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+8. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
+9. 🗣 Commented on [#3250](https://github.com/LonamiWebs/Telethon/issues/3250) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+10. ❗️ Opened issue [#1406](https://github.com/ossf/scorecard/issues/1406) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
