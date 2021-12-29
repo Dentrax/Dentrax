@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6360](https://github.com/containerd/containerd/issues/6360) in [containerd/containerd](https://github.com/containerd/containerd)
-2. 🗣 Commented on [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
-3. ❗️ Opened issue [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
-4. ❗️ Opened issue [#7570](https://github.com/tldr-pages/tldr/issues/7570) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. ❗️ Opened issue [#5241](https://github.com/refined-github/refined-github/issues/5241) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-6. 🗣 Commented on [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
-7. ❗️ Opened issue [#188](https://github.com/mintel/dex-k8s-authenticator/issues/188) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
-8. ❗️ Opened issue [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
-9. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
-10. 💪 Opened PR [#1408](https://github.com/ossf/scorecard/pull/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🗣 Commented on [#764](https://github.com/anuraghazra/github-readme-stats/issues/764) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#6360](https://github.com/containerd/containerd/issues/6360) in [containerd/containerd](https://github.com/containerd/containerd)
+3. 🗣 Commented on [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
+4. ❗️ Opened issue [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
+5. ❗️ Opened issue [#7570](https://github.com/tldr-pages/tldr/issues/7570) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+6. ❗️ Opened issue [#5241](https://github.com/refined-github/refined-github/issues/5241) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+7. 🗣 Commented on [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
+8. ❗️ Opened issue [#188](https://github.com/mintel/dex-k8s-authenticator/issues/188) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
+9. ❗️ Opened issue [#187](https://github.com/mintel/dex-k8s-authenticator/issues/187) in [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator)
+10. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
