@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-2. 🗣 Commented on [#1262](https://github.com/sigstore/cosign/issues/1262) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#321](https://github.com/IvanMathy/Boop/issues/321) in [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
-4. ❗️ Opened issue [#320](https://github.com/IvanMathy/Boop/issues/320) in [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
-5. 🗣 Commented on [#2793](https://github.com/goreleaser/goreleaser/issues/2793) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-6. 🗣 Commented on [#764](https://github.com/anuraghazra/github-readme-stats/issues/764) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-7. 🗣 Commented on [#6360](https://github.com/containerd/containerd/issues/6360) in [containerd/containerd](https://github.com/containerd/containerd)
-8. 🗣 Commented on [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
-9. ❗️ Opened issue [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
-10. ❗️ Opened issue [#7570](https://github.com/tldr-pages/tldr/issues/7570) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. ❗️ Opened issue [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+2. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+3. 🗣 Commented on [#1262](https://github.com/sigstore/cosign/issues/1262) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#321](https://github.com/IvanMathy/Boop/issues/321) in [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
+5. ❗️ Opened issue [#320](https://github.com/IvanMathy/Boop/issues/320) in [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
+6. 🗣 Commented on [#2793](https://github.com/goreleaser/goreleaser/issues/2793) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+7. 🗣 Commented on [#764](https://github.com/anuraghazra/github-readme-stats/issues/764) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+8. 🗣 Commented on [#6360](https://github.com/containerd/containerd/issues/6360) in [containerd/containerd](https://github.com/containerd/containerd)
+9. 🗣 Commented on [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
+10. ❗️ Opened issue [#66](https://github.com/HewlettPackard/netperf/issues/66) in [HewlettPackard/netperf](https://github.com/HewlettPackard/netperf)
 <!--END_SECTION:activity-->
