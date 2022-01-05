@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1674](https://github.com/prometheus-community/helm-charts/pull/1674) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-2. ❗️ Opened issue [#562](https://github.com/google/ko/issues/562) in [google/ko](https://github.com/google/ko)
-3. ❗️ Opened issue [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-4. ❗️ Opened issue [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-5. ❗️ Opened issue [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
-6. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-7. 🗣 Commented on [#1262](https://github.com/sigstore/cosign/issues/1262) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. ❗️ Opened issue [#321](https://github.com/IvanMathy/Boop/issues/321) in [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
-9. ❗️ Opened issue [#320](https://github.com/IvanMathy/Boop/issues/320) in [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
-10. 🗣 Commented on [#2793](https://github.com/goreleaser/goreleaser/issues/2793) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+2. 🗣 Commented on [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+3. ❗️ Opened issue [#4663](https://github.com/Checkmarx/kics/issues/4663) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+4. 💪 Opened PR [#1674](https://github.com/prometheus-community/helm-charts/pull/1674) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+5. ❗️ Opened issue [#562](https://github.com/google/ko/issues/562) in [google/ko](https://github.com/google/ko)
+6. ❗️ Opened issue [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+7. ❗️ Opened issue [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+8. ❗️ Opened issue [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+9. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+10. 🗣 Commented on [#1262](https://github.com/sigstore/cosign/issues/1262) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
