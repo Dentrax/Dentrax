@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-2. 🗣 Commented on [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+1. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 🗣 Commented on [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 3. 🗣 Commented on [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-4. 🗣 Commented on [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-5. ❗️ Opened issue [#4663](https://github.com/Checkmarx/kics/issues/4663) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-6. 💪 Opened PR [#1674](https://github.com/prometheus-community/helm-charts/pull/1674) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-7. ❗️ Opened issue [#562](https://github.com/google/ko/issues/562) in [google/ko](https://github.com/google/ko)
-8. ❗️ Opened issue [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-9. ❗️ Opened issue [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-10. ❗️ Opened issue [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+4. 🗣 Commented on [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+5. 🗣 Commented on [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+6. ❗️ Opened issue [#4663](https://github.com/Checkmarx/kics/issues/4663) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+7. 💪 Opened PR [#1674](https://github.com/prometheus-community/helm-charts/pull/1674) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+8. ❗️ Opened issue [#562](https://github.com/google/ko/issues/562) in [google/ko](https://github.com/google/ko)
+9. ❗️ Opened issue [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+10. ❗️ Opened issue [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 <!--END_SECTION:activity-->
