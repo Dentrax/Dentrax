@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/vladimirvivien/ktop/issues/11) in [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)
-2. 🗣 Commented on [#9](https://github.com/vladimirvivien/ktop/issues/9) in [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)
-3. 🗣 Commented on [#679](https://github.com/kubernetes-sigs/descheduler/issues/679) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. ❗️ Opened issue [#2465](https://github.com/golangci/golangci-lint/issues/2465) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+1. 🗣 Commented on [#2659](https://github.com/spiffe/spire/issues/2659) in [spiffe/spire](https://github.com/spiffe/spire)
+2. 🗣 Commented on [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+3. ❗️ Opened issue [#11](https://github.com/vladimirvivien/ktop/issues/11) in [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)
+4. 🗣 Commented on [#9](https://github.com/vladimirvivien/ktop/issues/9) in [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)
 5. 🗣 Commented on [#679](https://github.com/kubernetes-sigs/descheduler/issues/679) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-6. ❗️ Opened issue [#527](https://github.com/falcosecurity/falco-website/issues/527) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-7. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-8. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-9. 🗣 Commented on [#23440](https://github.com/MarlinFirmware/Marlin/issues/23440) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-10. 🗣 Commented on [#23441](https://github.com/MarlinFirmware/Marlin/issues/23441) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+6. ❗️ Opened issue [#2465](https://github.com/golangci/golangci-lint/issues/2465) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+7. 🗣 Commented on [#679](https://github.com/kubernetes-sigs/descheduler/issues/679) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+8. ❗️ Opened issue [#527](https://github.com/falcosecurity/falco-website/issues/527) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+9. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
