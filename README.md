@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. ❗️ Opened issue [#1](https://github.com/developer-guy/buildkit-machine/issues/1) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-3. 🗣 Commented on [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. ❗️ Opened issue [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 🗣 Commented on [#3](https://github.com/cugu/gocap/issues/3) in [cugu/gocap](https://github.com/cugu/gocap)
-6. ❗️ Opened issue [#4](https://github.com/cugu/gocap/issues/4) in [cugu/gocap](https://github.com/cugu/gocap)
-7. ❗️ Opened issue [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
-8. ❗️ Opened issue [#168](https://github.com/nickgerace/gfold/issues/168) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
-9. 🗣 Commented on [#156](https://github.com/containers/netavark/issues/156) in [containers/netavark](https://github.com/containers/netavark)
-10. ❗️ Opened issue [#1565](https://github.com/aquasecurity/trivy/issues/1565) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+1. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. ❗️ Opened issue [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. ❗️ Opened issue [#1](https://github.com/developer-guy/buildkit-machine/issues/1) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+4. 🗣 Commented on [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. ❗️ Opened issue [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
+6. 🗣 Commented on [#3](https://github.com/cugu/gocap/issues/3) in [cugu/gocap](https://github.com/cugu/gocap)
+7. ❗️ Opened issue [#4](https://github.com/cugu/gocap/issues/4) in [cugu/gocap](https://github.com/cugu/gocap)
+8. ❗️ Opened issue [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+9. ❗️ Opened issue [#168](https://github.com/nickgerace/gfold/issues/168) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+10. 🗣 Commented on [#156](https://github.com/containers/netavark/issues/156) in [containers/netavark](https://github.com/containers/netavark)
 <!--END_SECTION:activity-->
