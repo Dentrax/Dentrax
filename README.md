@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/containers/netavark/issues/156) in [containers/netavark](https://github.com/containers/netavark)
-2. ❗️ Opened issue [#1565](https://github.com/aquasecurity/trivy/issues/1565) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. ❗️ Opened issue [#156](https://github.com/containers/netavark/issues/156) in [containers/netavark](https://github.com/containers/netavark)
-4. 🗣 Commented on [#9](https://github.com/ArthurSonzogni/json-tui/issues/9) in [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)
-5. ❗️ Opened issue [#10](https://github.com/ArthurSonzogni/json-tui/issues/10) in [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)
-6. ❗️ Opened issue [#9](https://github.com/ArthurSonzogni/json-tui/issues/9) in [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)
-7. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-8. 🗣 Commented on [#2659](https://github.com/spiffe/spire/issues/2659) in [spiffe/spire](https://github.com/spiffe/spire)
-9. 🗣 Commented on [#677](https://github.com/zricethezav/gitleaks/issues/677) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-10. ❗️ Opened issue [#11](https://github.com/vladimirvivien/ktop/issues/11) in [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)
+1. ❗️ Opened issue [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+2. ❗️ Opened issue [#168](https://github.com/nickgerace/gfold/issues/168) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+3. 🗣 Commented on [#156](https://github.com/containers/netavark/issues/156) in [containers/netavark](https://github.com/containers/netavark)
+4. ❗️ Opened issue [#1565](https://github.com/aquasecurity/trivy/issues/1565) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. ❗️ Opened issue [#156](https://github.com/containers/netavark/issues/156) in [containers/netavark](https://github.com/containers/netavark)
+6. 🗣 Commented on [#9](https://github.com/ArthurSonzogni/json-tui/issues/9) in [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)
+7. ❗️ Opened issue [#10](https://github.com/ArthurSonzogni/json-tui/issues/10) in [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)
+8. ❗️ Opened issue [#9](https://github.com/ArthurSonzogni/json-tui/issues/9) in [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui)
+9. 🗣 Commented on [#78](https://github.com/medyo/hackertab.dev/issues/78) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+10. 🗣 Commented on [#2659](https://github.com/spiffe/spire/issues/2659) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
