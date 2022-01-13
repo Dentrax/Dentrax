@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/developer-guy/buildkit-machine/issues/2) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-2. 🗣 Commented on [#3](https://github.com/cugu/gocap/issues/3) in [cugu/gocap](https://github.com/cugu/gocap)
+1. 🎉 Merged PR [#5](https://github.com/awesomeSBOM/awesome-sbom/pull/5) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🗣 Commented on [#5](https://github.com/awesomeSBOM/awesome-sbom/issues/5) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 3. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-4. ❗️ Opened issue [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. ❗️ Opened issue [#1](https://github.com/developer-guy/buildkit-machine/issues/1) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-6. 🗣 Commented on [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
-7. ❗️ Opened issue [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
-8. 🗣 Commented on [#3](https://github.com/cugu/gocap/issues/3) in [cugu/gocap](https://github.com/cugu/gocap)
-9. ❗️ Opened issue [#4](https://github.com/cugu/gocap/issues/4) in [cugu/gocap](https://github.com/cugu/gocap)
-10. ❗️ Opened issue [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+4. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 🗣 Commented on [#2](https://github.com/developer-guy/buildkit-machine/issues/2) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+6. 🗣 Commented on [#3](https://github.com/cugu/gocap/issues/3) in [cugu/gocap](https://github.com/cugu/gocap)
+7. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. ❗️ Opened issue [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+9. ❗️ Opened issue [#1](https://github.com/developer-guy/buildkit-machine/issues/1) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+10. 🗣 Commented on [#546](https://github.com/lima-vm/lima/issues/546) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
