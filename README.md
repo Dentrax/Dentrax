@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-2. ❗️ Opened issue [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-3. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-4. 🎉 Merged PR [#5](https://github.com/awesomeSBOM/awesome-sbom/pull/5) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 🗣 Commented on [#5](https://github.com/awesomeSBOM/awesome-sbom/issues/5) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-6. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-7. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-8. 🗣 Commented on [#2](https://github.com/developer-guy/buildkit-machine/issues/2) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-9. 🗣 Commented on [#3](https://github.com/cugu/gocap/issues/3) in [cugu/gocap](https://github.com/cugu/gocap)
+1. ❗️ Opened issue [#5307](https://github.com/refined-github/refined-github/issues/5307) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. ❗️ Opened issue [#5306](https://github.com/refined-github/refined-github/issues/5306) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. ❗️ Opened issue [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+6. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+7. 🎉 Merged PR [#5](https://github.com/awesomeSBOM/awesome-sbom/pull/5) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+8. 🗣 Commented on [#5](https://github.com/awesomeSBOM/awesome-sbom/issues/5) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+9. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 10. 🗣 Commented on [#5293](https://github.com/refined-github/refined-github/issues/5293) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
