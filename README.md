@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1395](https://github.com/bitwarden/web/issues/1395) in [bitwarden/web](https://github.com/bitwarden/web)
-2. 🗣 Commented on [#34174](https://github.com/golang/go/issues/34174) in [golang/go](https://github.com/golang/go)
-3. 🗣 Commented on [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
-4. 🗣 Commented on [#168](https://github.com/nickgerace/gfold/issues/168) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
-5. 🗣 Commented on [#5307](https://github.com/refined-github/refined-github/issues/5307) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-6. ❗️ Opened issue [#5307](https://github.com/refined-github/refined-github/issues/5307) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-7. ❗️ Opened issue [#5306](https://github.com/refined-github/refined-github/issues/5306) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-8. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-9. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-10. ❗️ Opened issue [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 🗣 Commented on [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+2. ❗️ Opened issue [#1395](https://github.com/bitwarden/web/issues/1395) in [bitwarden/web](https://github.com/bitwarden/web)
+3. 🗣 Commented on [#34174](https://github.com/golang/go/issues/34174) in [golang/go](https://github.com/golang/go)
+4. 🗣 Commented on [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+5. 🗣 Commented on [#168](https://github.com/nickgerace/gfold/issues/168) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+6. 🗣 Commented on [#5307](https://github.com/refined-github/refined-github/issues/5307) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+7. ❗️ Opened issue [#5307](https://github.com/refined-github/refined-github/issues/5307) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. ❗️ Opened issue [#5306](https://github.com/refined-github/refined-github/issues/5306) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+9. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
