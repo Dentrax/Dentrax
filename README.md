@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#234](https://github.com/grafana/cortex-tools/issues/234) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-2. ❗️ Opened issue [#321](https://github.com/armosec/kubescape/issues/321) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Opened issue [#320](https://github.com/armosec/kubescape/issues/320) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. ❗️ Opened issue [#190](https://github.com/paulrberg/create-eth-app/issues/190) in [paulrberg/create-eth-app](https://github.com/paulrberg/create-eth-app)
-5. 💪 Opened PR [#4](https://github.com/developer-guy/buildkit-machine/pull/4) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-6. 🗣 Commented on [#82](https://github.com/medyo/hackertab.dev/issues/82) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-7. 🗣 Commented on [#3](https://github.com/developer-guy/buildkit-machine/issues/3) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-8. 💪 Opened PR [#3](https://github.com/developer-guy/buildkit-machine/pull/3) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-9. 🗣 Commented on [#82](https://github.com/medyo/hackertab.dev/issues/82) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-10. 🗣 Commented on [#169](https://github.com/nickgerace/gfold/issues/169) in [nickgerace/gfold](https://github.com/nickgerace/gfold)
+1. 💪 Opened PR [#235](https://github.com/grafana/cortex-tools/pull/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
+2. ❗️ Opened issue [#234](https://github.com/grafana/cortex-tools/issues/234) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
+3. ❗️ Opened issue [#321](https://github.com/armosec/kubescape/issues/321) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. ❗️ Opened issue [#320](https://github.com/armosec/kubescape/issues/320) in [armosec/kubescape](https://github.com/armosec/kubescape)
+5. ❗️ Opened issue [#190](https://github.com/paulrberg/create-eth-app/issues/190) in [paulrberg/create-eth-app](https://github.com/paulrberg/create-eth-app)
+6. 💪 Opened PR [#4](https://github.com/developer-guy/buildkit-machine/pull/4) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+7. 🗣 Commented on [#82](https://github.com/medyo/hackertab.dev/issues/82) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+8. 🗣 Commented on [#3](https://github.com/developer-guy/buildkit-machine/issues/3) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+9. 💪 Opened PR [#3](https://github.com/developer-guy/buildkit-machine/pull/3) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+10. 🗣 Commented on [#82](https://github.com/medyo/hackertab.dev/issues/82) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
 <!--END_SECTION:activity-->
