@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/ipfs/go-ipfs/issues/696) in [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)
-2. 🗣 Commented on [#157](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/157) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
-3. ❗️ Opened issue [#157](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/157) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
-4. ❗️ Opened issue [#155](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/155) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
-5. ❗️ Opened issue [#154](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/154) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
-6. 🗣 Commented on [#7](https://github.com/developer-guy/buildkit-machine/issues/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-7. 💪 Opened PR [#237](https://github.com/grafana/cortex-tools/pull/237) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-8. 🗣 Commented on [#488](https://github.com/kubernetes-sigs/descheduler/issues/488) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-9. ❗️ Opened issue [#236](https://github.com/grafana/cortex-tools/issues/236) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-10. ❗️ Opened issue [#16](https://github.com/chenjiandongx/kubectl-images/issues/16) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+1. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. 🗣 Commented on [#696](https://github.com/ipfs/go-ipfs/issues/696) in [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)
+3. 🗣 Commented on [#157](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/157) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
+4. ❗️ Opened issue [#157](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/157) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
+5. ❗️ Opened issue [#155](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/155) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
+6. ❗️ Opened issue [#154](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins/issues/154) in [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins)
+7. 🗣 Commented on [#7](https://github.com/developer-guy/buildkit-machine/issues/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+8. 💪 Opened PR [#237](https://github.com/grafana/cortex-tools/pull/237) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
+9. 🗣 Commented on [#488](https://github.com/kubernetes-sigs/descheduler/issues/488) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. ❗️ Opened issue [#236](https://github.com/grafana/cortex-tools/issues/236) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
 <!--END_SECTION:activity-->
