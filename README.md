@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#639](https://github.com/ninoseki/mitaka/issues/639) in [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
-2. 🗣 Commented on [#19](https://github.com/jondot/goweight/issues/19) in [jondot/goweight](https://github.com/jondot/goweight)
-3. ❗️ Opened issue [#1278](https://github.com/google/go-containerregistry/issues/1278) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. ❗️ Opened issue [#8708](https://github.com/ipfs/go-ipfs/issues/8708) in [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)
-5. ❗️ Opened issue [#1106](https://github.com/balancer-labs/balancer-v2-monorepo/issues/1106) in [balancer-labs/balancer-v2-monorepo](https://github.com/balancer-labs/balancer-v2-monorepo)
-6. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
-7. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
-8. ❗️ Opened issue [#3149](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/3149) in [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-9. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. 🗣 Commented on [#703](https://github.com/kubernetes-sigs/descheduler/issues/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 🗣 Commented on [#7](https://github.com/Dentrax/MMM-ArduPort/issues/7) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+2. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. ❗️ Opened issue [#639](https://github.com/ninoseki/mitaka/issues/639) in [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
+4. 🗣 Commented on [#19](https://github.com/jondot/goweight/issues/19) in [jondot/goweight](https://github.com/jondot/goweight)
+5. ❗️ Opened issue [#1278](https://github.com/google/go-containerregistry/issues/1278) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+6. ❗️ Opened issue [#8708](https://github.com/ipfs/go-ipfs/issues/8708) in [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)
+7. ❗️ Opened issue [#1106](https://github.com/balancer-labs/balancer-v2-monorepo/issues/1106) in [balancer-labs/balancer-v2-monorepo](https://github.com/balancer-labs/balancer-v2-monorepo)
+8. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+9. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+10. ❗️ Opened issue [#3149](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/3149) in [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 <!--END_SECTION:activity-->
