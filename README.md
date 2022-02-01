@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1278](https://github.com/google/go-containerregistry/issues/1278) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. ❗️ Opened issue [#8708](https://github.com/ipfs/go-ipfs/issues/8708) in [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)
-3. ❗️ Opened issue [#1106](https://github.com/balancer-labs/balancer-v2-monorepo/issues/1106) in [balancer-labs/balancer-v2-monorepo](https://github.com/balancer-labs/balancer-v2-monorepo)
-4. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+1. 🗣 Commented on [#19](https://github.com/jondot/goweight/issues/19) in [jondot/goweight](https://github.com/jondot/goweight)
+2. ❗️ Opened issue [#1278](https://github.com/google/go-containerregistry/issues/1278) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. ❗️ Opened issue [#8708](https://github.com/ipfs/go-ipfs/issues/8708) in [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)
+4. ❗️ Opened issue [#1106](https://github.com/balancer-labs/balancer-v2-monorepo/issues/1106) in [balancer-labs/balancer-v2-monorepo](https://github.com/balancer-labs/balancer-v2-monorepo)
 5. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
-6. ❗️ Opened issue [#3149](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/3149) in [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-7. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. 🗣 Commented on [#703](https://github.com/kubernetes-sigs/descheduler/issues/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-9. ❗️ Opened issue [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
-10. 🗣 Commented on [#321](https://github.com/armosec/kubescape/issues/321) in [armosec/kubescape](https://github.com/armosec/kubescape)
+6. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+7. ❗️ Opened issue [#3149](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/3149) in [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+8. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+9. 🗣 Commented on [#703](https://github.com/kubernetes-sigs/descheduler/issues/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. ❗️ Opened issue [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
