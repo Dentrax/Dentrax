@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/falcosecurity/plugins/issues/63) in [falcosecurity/plugins](https://github.com/falcosecurity/plugins)
-2. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#639](https://github.com/ninoseki/mitaka/issues/639) in [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
-4. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-6. 🗣 Commented on [#7](https://github.com/Dentrax/MMM-ArduPort/issues/7) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
-7. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
-8. ❗️ Opened issue [#639](https://github.com/ninoseki/mitaka/issues/639) in [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
-9. 🗣 Commented on [#19](https://github.com/jondot/goweight/issues/19) in [jondot/goweight](https://github.com/jondot/goweight)
-10. ❗️ Opened issue [#1278](https://github.com/google/go-containerregistry/issues/1278) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. ❗️ Opened issue [#3553](https://github.com/starship/starship/issues/3553) in [starship/starship](https://github.com/starship/starship)
+2. ❗️ Opened issue [#63](https://github.com/falcosecurity/plugins/issues/63) in [falcosecurity/plugins](https://github.com/falcosecurity/plugins)
+3. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#639](https://github.com/ninoseki/mitaka/issues/639) in [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
+5. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+6. ❗️ Opened issue [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+7. 🗣 Commented on [#7](https://github.com/Dentrax/MMM-ArduPort/issues/7) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+8. 🗣 Commented on [#1408](https://github.com/ossf/scorecard/issues/1408) in [ossf/scorecard](https://github.com/ossf/scorecard)
+9. ❗️ Opened issue [#639](https://github.com/ninoseki/mitaka/issues/639) in [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
+10. 🗣 Commented on [#19](https://github.com/jondot/goweight/issues/19) in [jondot/goweight](https://github.com/jondot/goweight)
 <!--END_SECTION:activity-->
