@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#636](https://github.com/lima-vm/lima/issues/636) in [lima-vm/lima](https://github.com/lima-vm/lima)
-2. ❗️ Opened issue [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
-3. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. ❗️ Opened issue [#94](https://github.com/cgewecke/hardhat-gas-reporter/issues/94) in [cgewecke/hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter)
-5. 🗣 Commented on [#2339](https://github.com/nomiclabs/hardhat/issues/2339) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
-6. ❗️ Opened issue [#2339](https://github.com/nomiclabs/hardhat/issues/2339) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
-7. 🗣 Commented on [#271](https://github.com/wighawag/hardhat-deploy/issues/271) in [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
-8. ❗️ Opened issue [#271](https://github.com/wighawag/hardhat-deploy/issues/271) in [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
-9. ❗️ Opened issue [#270](https://github.com/wighawag/hardhat-deploy/issues/270) in [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
-10. 🗣 Commented on [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
+1. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. ❗️ Opened issue [#636](https://github.com/lima-vm/lima/issues/636) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. ❗️ Opened issue [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
+4. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. ❗️ Opened issue [#94](https://github.com/cgewecke/hardhat-gas-reporter/issues/94) in [cgewecke/hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter)
+6. 🗣 Commented on [#2339](https://github.com/nomiclabs/hardhat/issues/2339) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
+7. ❗️ Opened issue [#2339](https://github.com/nomiclabs/hardhat/issues/2339) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
+8. 🗣 Commented on [#271](https://github.com/wighawag/hardhat-deploy/issues/271) in [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
+9. ❗️ Opened issue [#271](https://github.com/wighawag/hardhat-deploy/issues/271) in [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
+10. ❗️ Opened issue [#270](https://github.com/wighawag/hardhat-deploy/issues/270) in [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
 <!--END_SECTION:activity-->
