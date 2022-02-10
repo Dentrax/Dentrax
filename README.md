@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#590](https://github.com/google/ko/issues/590) in [google/ko](https://github.com/google/ko)
-2. ❗️ Opened issue [#589](https://github.com/google/ko/issues/589) in [google/ko](https://github.com/google/ko)
-3. 🗣 Commented on [#2621](https://github.com/kubernetes-sigs/kind/issues/2621) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-5. ❗️ Opened issue [#2358](https://github.com/nomiclabs/hardhat/issues/2358) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
-6. 💪 Opened PR [#5363](https://github.com/ethereum/ethereum-org-website/pull/5363) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
-7. 🗣 Commented on [#1963](https://github.com/ipfs/ipfs-desktop/issues/1963) in [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop)
-8. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
-9. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. ❗️ Opened issue [#636](https://github.com/lima-vm/lima/issues/636) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. ❗️ Opened issue [#2626](https://github.com/kubernetes-sigs/kind/issues/2626) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+2. ❗️ Opened issue [#590](https://github.com/google/ko/issues/590) in [google/ko](https://github.com/google/ko)
+3. ❗️ Opened issue [#589](https://github.com/google/ko/issues/589) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#2621](https://github.com/kubernetes-sigs/kind/issues/2621) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+6. ❗️ Opened issue [#2358](https://github.com/nomiclabs/hardhat/issues/2358) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
+7. 💪 Opened PR [#5363](https://github.com/ethereum/ethereum-org-website/pull/5363) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+8. 🗣 Commented on [#1963](https://github.com/ipfs/ipfs-desktop/issues/1963) in [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop)
+9. 🗣 Commented on [#522](https://github.com/anchore/grype/issues/522) in [anchore/grype](https://github.com/anchore/grype)
+10. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
