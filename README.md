@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
-3. ❗️ Opened issue [#2626](https://github.com/kubernetes-sigs/kind/issues/2626) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. ❗️ Opened issue [#590](https://github.com/google/ko/issues/590) in [google/ko](https://github.com/google/ko)
-5. ❗️ Opened issue [#589](https://github.com/google/ko/issues/589) in [google/ko](https://github.com/google/ko)
-6. 🗣 Commented on [#2621](https://github.com/kubernetes-sigs/kind/issues/2621) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-7. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-8. ❗️ Opened issue [#2358](https://github.com/nomiclabs/hardhat/issues/2358) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
-9. 💪 Opened PR [#5363](https://github.com/ethereum/ethereum-org-website/pull/5363) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
-10. 🗣 Commented on [#1963](https://github.com/ipfs/ipfs-desktop/issues/1963) in [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop)
+1. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+2. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
+4. ❗️ Opened issue [#2626](https://github.com/kubernetes-sigs/kind/issues/2626) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. ❗️ Opened issue [#590](https://github.com/google/ko/issues/590) in [google/ko](https://github.com/google/ko)
+6. ❗️ Opened issue [#589](https://github.com/google/ko/issues/589) in [google/ko](https://github.com/google/ko)
+7. 🗣 Commented on [#2621](https://github.com/kubernetes-sigs/kind/issues/2621) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+8. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+9. ❗️ Opened issue [#2358](https://github.com/nomiclabs/hardhat/issues/2358) in [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat)
+10. 💪 Opened PR [#5363](https://github.com/ethereum/ethereum-org-website/pull/5363) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
 <!--END_SECTION:activity-->
