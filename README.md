@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5363](https://github.com/ethereum/ethereum-org-website/issues/5363) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
-2. ❗️ Opened issue [#720](https://github.com/kubernetes-sigs/descheduler/issues/720) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-3. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
-6. ❗️ Opened issue [#2626](https://github.com/kubernetes-sigs/kind/issues/2626) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-7. ❗️ Opened issue [#590](https://github.com/google/ko/issues/590) in [google/ko](https://github.com/google/ko)
-8. ❗️ Opened issue [#589](https://github.com/google/ko/issues/589) in [google/ko](https://github.com/google/ko)
-9. 🗣 Commented on [#2621](https://github.com/kubernetes-sigs/kind/issues/2621) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-10. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+1. 💪 Opened PR [#722](https://github.com/kubernetes-sigs/descheduler/pull/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. 🗣 Commented on [#5363](https://github.com/ethereum/ethereum-org-website/issues/5363) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+3. ❗️ Opened issue [#720](https://github.com/kubernetes-sigs/descheduler/issues/720) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+6. 🗣 Commented on [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
+7. ❗️ Opened issue [#2626](https://github.com/kubernetes-sigs/kind/issues/2626) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+8. ❗️ Opened issue [#590](https://github.com/google/ko/issues/590) in [google/ko](https://github.com/google/ko)
+9. ❗️ Opened issue [#589](https://github.com/google/ko/issues/589) in [google/ko](https://github.com/google/ko)
+10. 🗣 Commented on [#2621](https://github.com/kubernetes-sigs/kind/issues/2621) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 <!--END_SECTION:activity-->
