@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#278](https://github.com/sigstore/sigstore/pull/278) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 💪 Opened PR [#277](https://github.com/sigstore/sigstore/pull/277) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. 💪 Opened PR [#1475](https://github.com/sigstore/cosign/pull/1475) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. ❗️ Opened issue [#773](https://github.com/hadolint/hadolint/issues/773) in [hadolint/hadolint](https://github.com/hadolint/hadolint)
-6. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-7. 💪 Opened PR [#1464](https://github.com/sigstore/cosign/pull/1464) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#170](https://github.com/goodwithtech/dockle/issues/170) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
-9. ❗️ Opened issue [#170](https://github.com/goodwithtech/dockle/issues/170) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
-10. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#603](https://github.com/google/ko/issues/603) in [google/ko](https://github.com/google/ko)
+2. 💪 Opened PR [#278](https://github.com/sigstore/sigstore/pull/278) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+3. 💪 Opened PR [#277](https://github.com/sigstore/sigstore/pull/277) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. 💪 Opened PR [#1475](https://github.com/sigstore/cosign/pull/1475) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. ❗️ Opened issue [#773](https://github.com/hadolint/hadolint/issues/773) in [hadolint/hadolint](https://github.com/hadolint/hadolint)
+7. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+8. 💪 Opened PR [#1464](https://github.com/sigstore/cosign/pull/1464) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#170](https://github.com/goodwithtech/dockle/issues/170) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
+10. ❗️ Opened issue [#170](https://github.com/goodwithtech/dockle/issues/170) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
 <!--END_SECTION:activity-->
