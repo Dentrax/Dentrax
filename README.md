@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/chenjiandongx/kubectl-images/issues/16) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+1. ❗️ Opened issue [#3202](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/3202) in [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 2. 🗣 Commented on [#16](https://github.com/chenjiandongx/kubectl-images/issues/16) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
 3. 🗣 Commented on [#16](https://github.com/chenjiandongx/kubectl-images/issues/16) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
-4. 🗣 Commented on [#2](https://github.com/developer-guy/rekor-falco/issues/2) in [developer-guy/rekor-falco](https://github.com/developer-guy/rekor-falco)
-5. 🎉 Merged PR [#2](https://github.com/developer-guy/rekor-falco/pull/2) in [developer-guy/rekor-falco](https://github.com/developer-guy/rekor-falco)
-6. ❗️ Opened issue [#603](https://github.com/google/ko/issues/603) in [google/ko](https://github.com/google/ko)
-7. 💪 Opened PR [#278](https://github.com/sigstore/sigstore/pull/278) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-8. 💪 Opened PR [#277](https://github.com/sigstore/sigstore/pull/277) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-9. 💪 Opened PR [#1475](https://github.com/sigstore/cosign/pull/1475) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+4. 🗣 Commented on [#16](https://github.com/chenjiandongx/kubectl-images/issues/16) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+5. 🗣 Commented on [#2](https://github.com/developer-guy/rekor-falco/issues/2) in [developer-guy/rekor-falco](https://github.com/developer-guy/rekor-falco)
+6. 🎉 Merged PR [#2](https://github.com/developer-guy/rekor-falco/pull/2) in [developer-guy/rekor-falco](https://github.com/developer-guy/rekor-falco)
+7. ❗️ Opened issue [#603](https://github.com/google/ko/issues/603) in [google/ko](https://github.com/google/ko)
+8. 💪 Opened PR [#278](https://github.com/sigstore/sigstore/pull/278) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+9. 💪 Opened PR [#277](https://github.com/sigstore/sigstore/pull/277) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+10. 💪 Opened PR [#1475](https://github.com/sigstore/cosign/pull/1475) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
