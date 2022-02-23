@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-2. 🗣 Commented on [#6901](https://github.com/helm/helm/issues/6901) in [helm/helm](https://github.com/helm/helm)
-3. 🗣 Commented on [#1492](https://github.com/sigstore/cosign/issues/1492) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Opened issue [#11](https://github.com/jchip/optional-require/issues/11) in [jchip/optional-require](https://github.com/jchip/optional-require)
-5. ❗️ Opened issue [#2408](https://github.com/NomicFoundation/hardhat/issues/2408) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
-6. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+1. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+2. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+3. 🗣 Commented on [#6901](https://github.com/helm/helm/issues/6901) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#1492](https://github.com/sigstore/cosign/issues/1492) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. ❗️ Opened issue [#11](https://github.com/jchip/optional-require/issues/11) in [jchip/optional-require](https://github.com/jchip/optional-require)
+6. ❗️ Opened issue [#2408](https://github.com/NomicFoundation/hardhat/issues/2408) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
 7. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
-8. 🗣 Commented on [#722](https://github.com/kubernetes-sigs/descheduler/issues/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-9. 🗣 Commented on [#269](https://github.com/docker/roadmap/issues/269) in [docker/roadmap](https://github.com/docker/roadmap)
-10. 🗣 Commented on [#16](https://github.com/chenjiandongx/kubectl-images/issues/16) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+8. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+9. 🗣 Commented on [#722](https://github.com/kubernetes-sigs/descheduler/issues/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. 🗣 Commented on [#269](https://github.com/docker/roadmap/issues/269) in [docker/roadmap](https://github.com/docker/roadmap)
 <!--END_SECTION:activity-->
