@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#1522](https://github.com/sigstore/cosign/issues/1522) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1773](https://github.com/aquasecurity/trivy/issues/1773) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. ❗️ Closed issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-5. 🗣 Commented on [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-6. 💪 Opened PR [#1522](https://github.com/sigstore/cosign/pull/1522) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. ❗️ Opened issue [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
-8. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
-9. ❗️ Opened issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-10. 🗣 Commented on [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
+1. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. 🗣 Commented on [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#1522](https://github.com/sigstore/cosign/issues/1522) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1773](https://github.com/aquasecurity/trivy/issues/1773) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. ❗️ Closed issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+6. 🗣 Commented on [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+7. 💪 Opened PR [#1522](https://github.com/sigstore/cosign/pull/1522) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. ❗️ Opened issue [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
+9. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
+10. ❗️ Opened issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 <!--END_SECTION:activity-->
