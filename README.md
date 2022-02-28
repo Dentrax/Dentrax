@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-2. 🗣 Commented on [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-3. 💪 Opened PR [#1522](https://github.com/sigstore/cosign/pull/1522) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Opened issue [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
-6. ❗️ Opened issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-7. 🗣 Commented on [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
-8. ❗️ Opened issue [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-9. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-10. ❗️ Opened issue [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
+1. 🗣 Commented on [#1773](https://github.com/aquasecurity/trivy/issues/1773) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. ❗️ Closed issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+3. 🗣 Commented on [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+4. 💪 Opened PR [#1522](https://github.com/sigstore/cosign/pull/1522) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. ❗️ Opened issue [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
+6. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
+7. ❗️ Opened issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+8. 🗣 Commented on [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
+9. ❗️ Opened issue [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+10. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
