@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-2. 🗣 Commented on [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
-3. ❗️ Opened issue [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-4. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. ❗️ Opened issue [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
-6. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-7. 🗣 Commented on [#13443](https://github.com/MetaMask/metamask-extension/issues/13443) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-8. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-9. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. 🗣 Commented on [#6901](https://github.com/helm/helm/issues/6901) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
+2. ❗️ Opened issue [#356](https://github.com/ajeetdsouza/zoxide/issues/356) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+3. 🗣 Commented on [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
+4. ❗️ Opened issue [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+5. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+6. ❗️ Opened issue [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
+7. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+8. 🗣 Commented on [#13443](https://github.com/MetaMask/metamask-extension/issues/13443) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+9. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+10. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
