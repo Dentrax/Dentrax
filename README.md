@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
-2. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-3. 🗣 Commented on [#13443](https://github.com/MetaMask/metamask-extension/issues/13443) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-4. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-5. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-6. 🗣 Commented on [#6901](https://github.com/helm/helm/issues/6901) in [helm/helm](https://github.com/helm/helm)
-7. 🗣 Commented on [#1492](https://github.com/sigstore/cosign/issues/1492) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. ❗️ Opened issue [#11](https://github.com/jchip/optional-require/issues/11) in [jchip/optional-require](https://github.com/jchip/optional-require)
-9. ❗️ Opened issue [#2408](https://github.com/NomicFoundation/hardhat/issues/2408) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
-10. 🗣 Commented on [#4](https://github.com/Dentrax/MMM-ArduPort/issues/4) in [Dentrax/MMM-ArduPort](https://github.com/Dentrax/MMM-ArduPort)
+1. ❗️ Opened issue [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+2. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. ❗️ Opened issue [#2745](https://github.com/junegunn/fzf/issues/2745) in [junegunn/fzf](https://github.com/junegunn/fzf)
+4. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+5. 🗣 Commented on [#13443](https://github.com/MetaMask/metamask-extension/issues/13443) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+6. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+7. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+8. 🗣 Commented on [#6901](https://github.com/helm/helm/issues/6901) in [helm/helm](https://github.com/helm/helm)
+9. 🗣 Commented on [#1492](https://github.com/sigstore/cosign/issues/1492) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. ❗️ Opened issue [#11](https://github.com/jchip/optional-require/issues/11) in [jchip/optional-require](https://github.com/jchip/optional-require)
 <!--END_SECTION:activity-->
