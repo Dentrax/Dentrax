@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-2. ❗️ Opened issue [#1532](https://github.com/sigstore/cosign/issues/1532) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#2670](https://github.com/emotion-js/emotion/issues/2670) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
-4. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-5. 🗣 Commented on [#1381](https://github.com/sigstore/cosign/issues/1381) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#614](https://github.com/anchore/grype/issues/614) in [anchore/grype](https://github.com/anchore/grype)
-7. 🗣 Commented on [#235](https://github.com/grafana/cortex-tools/issues/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-8. 🗣 Commented on [#237](https://github.com/grafana/cortex-tools/issues/237) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-9. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-10. 🗣 Commented on [#622](https://github.com/google/ko/issues/622) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+3. ❗️ Opened issue [#1532](https://github.com/sigstore/cosign/issues/1532) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#2670](https://github.com/emotion-js/emotion/issues/2670) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
+5. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+6. 🗣 Commented on [#1381](https://github.com/sigstore/cosign/issues/1381) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#614](https://github.com/anchore/grype/issues/614) in [anchore/grype](https://github.com/anchore/grype)
+8. 🗣 Commented on [#235](https://github.com/grafana/cortex-tools/issues/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
+9. 🗣 Commented on [#237](https://github.com/grafana/cortex-tools/issues/237) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
+10. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
