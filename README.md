@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-5. ❗️ Opened issue [#1532](https://github.com/sigstore/cosign/issues/1532) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. ❗️ Opened issue [#2670](https://github.com/emotion-js/emotion/issues/2670) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
-7. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-8. 🗣 Commented on [#1381](https://github.com/sigstore/cosign/issues/1381) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. 🗣 Commented on [#614](https://github.com/anchore/grype/issues/614) in [anchore/grype](https://github.com/anchore/grype)
-10. 🗣 Commented on [#235](https://github.com/grafana/cortex-tools/issues/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
+1. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+2. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+3. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+4. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+6. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+7. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+8. ❗️ Opened issue [#1532](https://github.com/sigstore/cosign/issues/1532) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. ❗️ Opened issue [#2670](https://github.com/emotion-js/emotion/issues/2670) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
+10. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
