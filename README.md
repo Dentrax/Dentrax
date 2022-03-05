@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
-2. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-3. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-4. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-5. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-6. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-7. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-9. ❗️ Opened issue [#1532](https://github.com/sigstore/cosign/issues/1532) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. ❗️ Opened issue [#2670](https://github.com/emotion-js/emotion/issues/2670) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
+1. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
+3. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+4. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+5. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+6. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+7. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+8. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+9. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+10. ❗️ Opened issue [#1532](https://github.com/sigstore/cosign/issues/1532) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
