@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
-4. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-5. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-6. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-7. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-8. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-9. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. ❗️ Opened issue [#127](https://github.com/sigstore/sigstore-website/issues/127) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+2. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
+5. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+6. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+7. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+8. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+9. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+10. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
