@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#337](https://github.com/protofire/solhint/issues/337) in [protofire/solhint](https://github.com/protofire/solhint)
-2. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. 💪 Opened PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#337](https://github.com/protofire/solhint/issues/337) in [protofire/solhint](https://github.com/protofire/solhint)
 3. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
-6. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-7. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-8. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
-9. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-10. ❗️ Opened issue [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+6. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
+7. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+8. 🗣 Commented on [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+9. ❗️ Opened issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+10. 🗣 Commented on [#1313](https://github.com/google/go-containerregistry/issues/1313) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
