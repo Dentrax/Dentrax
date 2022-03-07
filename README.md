@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1556](https://github.com/sigstore/cosign/issues/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Closed issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 💪 Opened PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#337](https://github.com/protofire/solhint/issues/337) in [protofire/solhint](https://github.com/protofire/solhint)
-6. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. 🗣 Commented on [#13898](https://github.com/mui/material-ui/issues/13898) in [mui/material-ui](https://github.com/mui/material-ui)
+2. 🗣 Commented on [#1556](https://github.com/sigstore/cosign/issues/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Closed issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. 💪 Opened PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
+6. ❗️ Opened issue [#337](https://github.com/protofire/solhint/issues/337) in [protofire/solhint](https://github.com/protofire/solhint)
 7. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-8. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-9. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
-10. ❗️ Closed issue [#206](https://github.com/mvdan/gofumpt/issues/206) in [mvdan/gofumpt](https://github.com/mvdan/gofumpt)
+8. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+9. ❗️ Opened issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+10. ❗️ Opened issue [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
