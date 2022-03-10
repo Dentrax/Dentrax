@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#304](https://github.com/anchore/grype/issues/304) in [anchore/grype](https://github.com/anchore/grype)
-3. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. 💪 Opened PR [#1808](https://github.com/aquasecurity/trivy/pull/1808) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. 🗣 Commented on [#13898](https://github.com/mui/material-ui/issues/13898) in [mui/material-ui](https://github.com/mui/material-ui)
-6. 🗣 Commented on [#1556](https://github.com/sigstore/cosign/issues/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. ❗️ Closed issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-8. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-9. 💪 Opened PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. ❗️ Opened issue [#337](https://github.com/protofire/solhint/issues/337) in [protofire/solhint](https://github.com/protofire/solhint)
+1. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. ❌ Closed PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#304](https://github.com/anchore/grype/issues/304) in [anchore/grype](https://github.com/anchore/grype)
+4. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. 💪 Opened PR [#1808](https://github.com/aquasecurity/trivy/pull/1808) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+6. 🗣 Commented on [#13898](https://github.com/mui/material-ui/issues/13898) in [mui/material-ui](https://github.com/mui/material-ui)
+7. 🗣 Commented on [#1556](https://github.com/sigstore/cosign/issues/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. ❗️ Closed issue [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+9. 🗣 Commented on [#1314](https://github.com/google/go-containerregistry/issues/1314) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+10. 💪 Opened PR [#1556](https://github.com/sigstore/cosign/pull/1556) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
