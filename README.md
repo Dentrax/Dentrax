@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10468](https://github.com/prometheus/prometheus/issues/10468) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-2. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-3. 💪 Opened PR [#124](https://github.com/chainguard-dev/apko/pull/124) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-4. ❗️ Opened issue [#1753](https://github.com/ossf/scorecard/issues/1753) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. ❗️ Opened issue [#1752](https://github.com/ossf/scorecard/issues/1752) in [ossf/scorecard](https://github.com/ossf/scorecard)
-6. 🗣 Commented on [#722](https://github.com/kubernetes-sigs/descheduler/issues/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-7. 🗣 Commented on [#1808](https://github.com/aquasecurity/trivy/issues/1808) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-8. ❗️ Opened issue [#5077](https://github.com/fluent/fluent-bit/issues/5077) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. ❗️ Opened issue [#5075](https://github.com/fluent/fluent-bit/issues/5075) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-10. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#1949](https://github.com/falcosecurity/falco/pull/1949) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. ❗️ Opened issue [#10468](https://github.com/prometheus/prometheus/issues/10468) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+3. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+4. 💪 Opened PR [#124](https://github.com/chainguard-dev/apko/pull/124) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+5. ❗️ Opened issue [#1753](https://github.com/ossf/scorecard/issues/1753) in [ossf/scorecard](https://github.com/ossf/scorecard)
+6. ❗️ Opened issue [#1752](https://github.com/ossf/scorecard/issues/1752) in [ossf/scorecard](https://github.com/ossf/scorecard)
+7. 🗣 Commented on [#722](https://github.com/kubernetes-sigs/descheduler/issues/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+8. 🗣 Commented on [#1808](https://github.com/aquasecurity/trivy/issues/1808) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+9. ❗️ Opened issue [#5077](https://github.com/fluent/fluent-bit/issues/5077) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. ❗️ Opened issue [#5075](https://github.com/fluent/fluent-bit/issues/5075) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!--END_SECTION:activity-->
