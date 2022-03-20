@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1949](https://github.com/falcosecurity/falco/pull/1949) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-2. ❗️ Opened issue [#10468](https://github.com/prometheus/prometheus/issues/10468) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-3. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-4. 💪 Opened PR [#124](https://github.com/chainguard-dev/apko/pull/124) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-5. ❗️ Opened issue [#1753](https://github.com/ossf/scorecard/issues/1753) in [ossf/scorecard](https://github.com/ossf/scorecard)
-6. ❗️ Opened issue [#1752](https://github.com/ossf/scorecard/issues/1752) in [ossf/scorecard](https://github.com/ossf/scorecard)
-7. 🗣 Commented on [#722](https://github.com/kubernetes-sigs/descheduler/issues/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. 🗣 Commented on [#1808](https://github.com/aquasecurity/trivy/issues/1808) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-9. ❗️ Opened issue [#5077](https://github.com/fluent/fluent-bit/issues/5077) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-10. ❗️ Opened issue [#5075](https://github.com/fluent/fluent-bit/issues/5075) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+1. 💪 Opened PR [#758](https://github.com/fluent/fluent-bit-docs/pull/758) in [fluent/fluent-bit-docs](https://github.com/fluent/fluent-bit-docs)
+2. 💪 Opened PR [#757](https://github.com/fluent/fluent-bit-docs/pull/757) in [fluent/fluent-bit-docs](https://github.com/fluent/fluent-bit-docs)
+3. 💪 Opened PR [#1949](https://github.com/falcosecurity/falco/pull/1949) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+4. ❗️ Opened issue [#10468](https://github.com/prometheus/prometheus/issues/10468) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+5. 🗣 Commented on [#9570](https://github.com/prometheus/prometheus/issues/9570) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+6. 💪 Opened PR [#124](https://github.com/chainguard-dev/apko/pull/124) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+7. ❗️ Opened issue [#1753](https://github.com/ossf/scorecard/issues/1753) in [ossf/scorecard](https://github.com/ossf/scorecard)
+8. ❗️ Opened issue [#1752](https://github.com/ossf/scorecard/issues/1752) in [ossf/scorecard](https://github.com/ossf/scorecard)
+9. 🗣 Commented on [#722](https://github.com/kubernetes-sigs/descheduler/issues/722) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. 🗣 Commented on [#1808](https://github.com/aquasecurity/trivy/issues/1808) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
