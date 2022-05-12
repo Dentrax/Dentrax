@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1691](https://github.com/sigstore/cosign/issues/1691) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Opened issue [#167](https://github.com/docker/extensions-sdk/issues/167) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-3. 💪 Opened PR [#166](https://github.com/docker/extensions-sdk/pull/166) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-4. 💪 Opened PR [#165](https://github.com/docker/extensions-sdk/pull/165) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-5. 🗣 Commented on [#60](https://github.com/bwplotka/mdox/issues/60) in [bwplotka/mdox](https://github.com/bwplotka/mdox)
-6. ❗️ Opened issue [#249](https://github.com/rikatz/kubepug/issues/249) in [rikatz/kubepug](https://github.com/rikatz/kubepug)
-7. 🗣 Commented on [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
-8. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-9. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-10. 🗣 Commented on [#278](https://github.com/sigstore/sigstore/issues/278) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+1. 🗣 Commented on [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
+2. 🗣 Commented on [#1691](https://github.com/sigstore/cosign/issues/1691) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#167](https://github.com/docker/extensions-sdk/issues/167) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+4. 💪 Opened PR [#166](https://github.com/docker/extensions-sdk/pull/166) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+5. 💪 Opened PR [#165](https://github.com/docker/extensions-sdk/pull/165) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+6. 🗣 Commented on [#60](https://github.com/bwplotka/mdox/issues/60) in [bwplotka/mdox](https://github.com/bwplotka/mdox)
+7. ❗️ Opened issue [#249](https://github.com/rikatz/kubepug/issues/249) in [rikatz/kubepug](https://github.com/rikatz/kubepug)
+8. 🗣 Commented on [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
+9. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+10. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!--END_SECTION:activity-->
