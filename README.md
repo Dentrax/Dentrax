@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#396](https://github.com/asciinema/asciinema-server/issues/396) in [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server)
-2. ❗️ Opened issue [#175](https://github.com/docker/extensions-sdk/issues/175) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-3. ❗️ Opened issue [#13](https://github.com/sigstore/.github/issues/13) in [sigstore/.github](https://github.com/sigstore/.github)
-4. 💪 Opened PR [#174](https://github.com/docker/extensions-sdk/pull/174) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-5. 💪 Opened PR [#173](https://github.com/docker/extensions-sdk/pull/173) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-6. ❗️ Opened issue [#171](https://github.com/docker/extensions-sdk/issues/171) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-7. ❗️ Opened issue [#169](https://github.com/docker/extensions-sdk/issues/169) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-8. ❗️ Opened issue [#168](https://github.com/docker/extensions-sdk/issues/168) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-9. ❗️ Opened issue [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-10. 🗣 Commented on [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
+1. ❗️ Opened issue [#6](https://github.com/sethvargo/ratchet/issues/6) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+2. ❗️ Opened issue [#396](https://github.com/asciinema/asciinema-server/issues/396) in [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server)
+3. ❗️ Opened issue [#175](https://github.com/docker/extensions-sdk/issues/175) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+4. ❗️ Opened issue [#13](https://github.com/sigstore/.github/issues/13) in [sigstore/.github](https://github.com/sigstore/.github)
+5. 💪 Opened PR [#174](https://github.com/docker/extensions-sdk/pull/174) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+6. 💪 Opened PR [#173](https://github.com/docker/extensions-sdk/pull/173) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+7. ❗️ Opened issue [#171](https://github.com/docker/extensions-sdk/issues/171) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+8. ❗️ Opened issue [#169](https://github.com/docker/extensions-sdk/issues/169) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+9. ❗️ Opened issue [#168](https://github.com/docker/extensions-sdk/issues/168) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+10. ❗️ Opened issue [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
 <!--END_SECTION:activity-->
