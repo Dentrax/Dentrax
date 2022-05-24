@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#544](https://github.com/bincode-org/bincode/issues/544) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
-2. 🗣 Commented on [#544](https://github.com/bincode-org/bincode/issues/544) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
-3. ❗️ Opened issue [#53048](https://github.com/golang/go/issues/53048) in [golang/go](https://github.com/golang/go)
-4. 🗣 Commented on [#5286](https://github.com/Checkmarx/kics/issues/5286) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-5. ❗️ Opened issue [#1217](https://github.com/kubernetes/kubectl/issues/1217) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-6. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-7. 🗣 Commented on [#545](https://github.com/bincode-org/bincode/issues/545) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
-8. ❗️ Opened issue [#545](https://github.com/bincode-org/bincode/issues/545) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
-9. 🗣 Commented on [#3863](https://github.com/starship/starship/issues/3863) in [starship/starship](https://github.com/starship/starship)
-10. 🗣 Commented on [#544](https://github.com/bincode-org/bincode/issues/544) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
+1. ❗️ Closed issue [#259](https://github.com/sharksforarms/deku/issues/259) in [sharksforarms/deku](https://github.com/sharksforarms/deku)
+2. 🗣 Commented on [#259](https://github.com/sharksforarms/deku/issues/259) in [sharksforarms/deku](https://github.com/sharksforarms/deku)
+3. ❗️ Opened issue [#259](https://github.com/sharksforarms/deku/issues/259) in [sharksforarms/deku](https://github.com/sharksforarms/deku)
+4. ❗️ Closed issue [#544](https://github.com/bincode-org/bincode/issues/544) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
+5. 🗣 Commented on [#544](https://github.com/bincode-org/bincode/issues/544) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
+6. ❗️ Opened issue [#53048](https://github.com/golang/go/issues/53048) in [golang/go](https://github.com/golang/go)
+7. 🗣 Commented on [#5286](https://github.com/Checkmarx/kics/issues/5286) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+8. ❗️ Opened issue [#1217](https://github.com/kubernetes/kubectl/issues/1217) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+9. 🗣 Commented on [#3145](https://github.com/kyverno/kyverno/issues/3145) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+10. 🗣 Commented on [#545](https://github.com/bincode-org/bincode/issues/545) in [bincode-org/bincode](https://github.com/bincode-org/bincode)
 <!--END_SECTION:activity-->
