@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#188](https://github.com/docker/extensions-sdk/issues/188) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-2. ❗️ Opened issue [#187](https://github.com/docker/extensions-sdk/issues/187) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-3. ❗️ Opened issue [#622](https://github.com/crazy-max/diun/issues/622) in [crazy-max/diun](https://github.com/crazy-max/diun)
-4. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
-5. 🗣 Commented on [#175](https://github.com/docker/extensions-sdk/issues/175) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-6. ❗️ Closed issue [#175](https://github.com/docker/extensions-sdk/issues/175) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-7. ❗️ Opened issue [#11](https://github.com/kyverno/grafana-dashboard/issues/11) in [kyverno/grafana-dashboard](https://github.com/kyverno/grafana-dashboard)
-8. 🗣 Commented on [#16397](https://github.com/goharbor/harbor/issues/16397) in [goharbor/harbor](https://github.com/goharbor/harbor)
-9. 💪 Opened PR [#197](https://github.com/goharbor/community/pull/197) in [goharbor/community](https://github.com/goharbor/community)
-10. 🗣 Commented on [#16397](https://github.com/goharbor/harbor/issues/16397) in [goharbor/harbor](https://github.com/goharbor/harbor)
+1. 🗣 Commented on [#188](https://github.com/docker/extensions-sdk/issues/188) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+2. ❗️ Opened issue [#188](https://github.com/docker/extensions-sdk/issues/188) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+3. ❗️ Opened issue [#187](https://github.com/docker/extensions-sdk/issues/187) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+4. ❗️ Opened issue [#622](https://github.com/crazy-max/diun/issues/622) in [crazy-max/diun](https://github.com/crazy-max/diun)
+5. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+6. 🗣 Commented on [#175](https://github.com/docker/extensions-sdk/issues/175) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+7. ❗️ Closed issue [#175](https://github.com/docker/extensions-sdk/issues/175) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+8. ❗️ Opened issue [#11](https://github.com/kyverno/grafana-dashboard/issues/11) in [kyverno/grafana-dashboard](https://github.com/kyverno/grafana-dashboard)
+9. 🗣 Commented on [#16397](https://github.com/goharbor/harbor/issues/16397) in [goharbor/harbor](https://github.com/goharbor/harbor)
+10. 💪 Opened PR [#197](https://github.com/goharbor/community/pull/197) in [goharbor/community](https://github.com/goharbor/community)
 <!--END_SECTION:activity-->
