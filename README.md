@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-2. 🗣 Commented on [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-3. 💪 Opened PR [#29](https://github.com/sethvargo/ratchet/pull/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-4. ❗️ Opened issue [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-5. ❗️ Opened issue [#2800](https://github.com/bitwarden/clients/issues/2800) in [bitwarden/clients](https://github.com/bitwarden/clients)
-6. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
+1. ❗️ Opened issue [#406](https://github.com/wagoodman/dive/issues/406) in [wagoodman/dive](https://github.com/wagoodman/dive)
+2. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+3. 🗣 Commented on [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+4. 💪 Opened PR [#29](https://github.com/sethvargo/ratchet/pull/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+5. ❗️ Opened issue [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+6. ❗️ Opened issue [#2800](https://github.com/bitwarden/clients/issues/2800) in [bitwarden/clients](https://github.com/bitwarden/clients)
 7. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
-8. ❗️ Opened issue [#109](https://github.com/ckotzbauer/sbom-operator/issues/109) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
-9. 🗣 Commented on [#188](https://github.com/docker/extensions-sdk/issues/188) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-10. ❗️ Opened issue [#188](https://github.com/docker/extensions-sdk/issues/188) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+8. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
+9. ❗️ Opened issue [#109](https://github.com/ckotzbauer/sbom-operator/issues/109) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+10. 🗣 Commented on [#188](https://github.com/docker/extensions-sdk/issues/188) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
 <!--END_SECTION:activity-->
