@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-2. 🗣 Commented on [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-3. ❗️ Opened issue [#92](https://github.com/orhun/git-cliff/issues/92) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-4. ❗️ Opened issue [#192](https://github.com/docker/extensions-sdk/issues/192) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-5. ❗️ Opened issue [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-6. ❗️ Opened issue [#406](https://github.com/wagoodman/dive/issues/406) in [wagoodman/dive](https://github.com/wagoodman/dive)
-7. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-8. 🗣 Commented on [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-9. 💪 Opened PR [#29](https://github.com/sethvargo/ratchet/pull/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-10. ❗️ Opened issue [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+1. 💪 Opened PR [#4848](https://github.com/prometheus-operator/prometheus-operator/pull/4848) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+2. ❗️ Closed issue [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+3. 🗣 Commented on [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+4. ❗️ Opened issue [#92](https://github.com/orhun/git-cliff/issues/92) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+5. ❗️ Opened issue [#192](https://github.com/docker/extensions-sdk/issues/192) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+6. ❗️ Opened issue [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+7. ❗️ Opened issue [#406](https://github.com/wagoodman/dive/issues/406) in [wagoodman/dive](https://github.com/wagoodman/dive)
+8. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+9. 🗣 Commented on [#28](https://github.com/sethvargo/ratchet/issues/28) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+10. 💪 Opened PR [#29](https://github.com/sethvargo/ratchet/pull/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
 <!--END_SECTION:activity-->
