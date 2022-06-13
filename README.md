@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
-2. 🗣 Commented on [#4102](https://github.com/kyverno/kyverno/issues/4102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#4102](https://github.com/kyverno/kyverno/issues/4102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#17](https://github.com/sigstore/cosign-gatekeeper-provider/pull/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-5. 🗣 Commented on [#5075](https://github.com/fluent/fluent-bit/issues/5075) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-6. 💪 Opened PR [#4848](https://github.com/prometheus-operator/prometheus-operator/pull/4848) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-7. ❗️ Closed issue [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-8. 🗣 Commented on [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
-9. ❗️ Opened issue [#92](https://github.com/orhun/git-cliff/issues/92) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-10. ❗️ Opened issue [#192](https://github.com/docker/extensions-sdk/issues/192) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+1. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#4102](https://github.com/kyverno/kyverno/issues/4102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#4102](https://github.com/kyverno/kyverno/issues/4102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+6. 💪 Opened PR [#17](https://github.com/sigstore/cosign-gatekeeper-provider/pull/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+7. 🗣 Commented on [#5075](https://github.com/fluent/fluent-bit/issues/5075) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+8. 💪 Opened PR [#4848](https://github.com/prometheus-operator/prometheus-operator/pull/4848) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+9. ❗️ Closed issue [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
+10. 🗣 Commented on [#191](https://github.com/docker/extensions-sdk/issues/191) in [docker/extensions-sdk](https://github.com/docker/extensions-sdk)
 <!--END_SECTION:activity-->
