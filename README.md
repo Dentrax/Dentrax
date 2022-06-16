@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-2. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-3. ❗️ Opened issue [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-4. 🗣 Commented on [#4117](https://github.com/kyverno/kyverno/issues/4117) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
-6. 🗣 Commented on [#6](https://github.com/Dentrax/Z00bfuscator/issues/6) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-7. 🎉 Merged PR [#6](https://github.com/Dentrax/Z00bfuscator/pull/6) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-8. 💪 Opened PR [#4117](https://github.com/kyverno/kyverno/pull/4117) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-9. 🗣 Commented on [#19](https://github.com/vladimirvivien/ktop/issues/19) in [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop)
-10. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. ❗️ Closed issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+2. 🗣 Commented on [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+3. ❗️ Opened issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+4. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+5. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+6. ❗️ Opened issue [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+7. 🗣 Commented on [#4117](https://github.com/kyverno/kyverno/issues/4117) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+8. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
+9. 🗣 Commented on [#6](https://github.com/Dentrax/Z00bfuscator/issues/6) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+10. 🎉 Merged PR [#6](https://github.com/Dentrax/Z00bfuscator/pull/6) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
 <!--END_SECTION:activity-->
