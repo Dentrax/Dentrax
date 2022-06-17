@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2002](https://github.com/sigstore/cosign/issues/2002) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-3. 🗣 Commented on [#286](https://github.com/google/go-tpm/issues/286) in [google/go-tpm](https://github.com/google/go-tpm)
-4. ❗️ Opened issue [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-5. ❗️ Opened issue [#465](https://github.com/pixie-io/pixie/issues/465) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-6. ❌ Closed PR [#703](https://github.com/kubernetes-sigs/descheduler/pull/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-7. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. ❗️ Opened issue [#17015](https://github.com/goharbor/harbor/issues/17015) in [goharbor/harbor](https://github.com/goharbor/harbor)
-9. ❗️ Closed issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-10. 🗣 Commented on [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+1. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+2. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+3. 🗣 Commented on [#5286](https://github.com/Checkmarx/kics/issues/5286) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+4. ❗️ Opened issue [#2002](https://github.com/sigstore/cosign/issues/2002) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+6. 🗣 Commented on [#286](https://github.com/google/go-tpm/issues/286) in [google/go-tpm](https://github.com/google/go-tpm)
+7. ❗️ Opened issue [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+8. ❗️ Opened issue [#465](https://github.com/pixie-io/pixie/issues/465) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+9. ❌ Closed PR [#703](https://github.com/kubernetes-sigs/descheduler/pull/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
