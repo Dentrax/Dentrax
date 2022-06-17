@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#465](https://github.com/pixie-io/pixie/issues/465) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-2. ❌ Closed PR [#703](https://github.com/kubernetes-sigs/descheduler/pull/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-3. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. ❗️ Opened issue [#17015](https://github.com/goharbor/harbor/issues/17015) in [goharbor/harbor](https://github.com/goharbor/harbor)
-5. ❗️ Closed issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-6. 🗣 Commented on [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-7. ❗️ Opened issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-8. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+1. ❗️ Opened issue [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+2. ❗️ Opened issue [#465](https://github.com/pixie-io/pixie/issues/465) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+3. ❌ Closed PR [#703](https://github.com/kubernetes-sigs/descheduler/pull/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. ❗️ Opened issue [#17015](https://github.com/goharbor/harbor/issues/17015) in [goharbor/harbor](https://github.com/goharbor/harbor)
+6. ❗️ Closed issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+7. 🗣 Commented on [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+8. ❗️ Opened issue [#156](https://github.com/kyverno/policy-reporter/issues/156) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
 9. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-10. ❗️ Opened issue [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+10. 🗣 Commented on [#155](https://github.com/kyverno/policy-reporter/issues/155) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
 <!--END_SECTION:activity-->
