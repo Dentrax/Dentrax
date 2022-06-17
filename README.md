@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
-2. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-3. 🗣 Commented on [#5286](https://github.com/Checkmarx/kics/issues/5286) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-4. ❗️ Opened issue [#2002](https://github.com/sigstore/cosign/issues/2002) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-6. 🗣 Commented on [#286](https://github.com/google/go-tpm/issues/286) in [google/go-tpm](https://github.com/google/go-tpm)
-7. ❗️ Opened issue [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-8. ❗️ Opened issue [#465](https://github.com/pixie-io/pixie/issues/465) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-9. ❌ Closed PR [#703](https://github.com/kubernetes-sigs/descheduler/pull/703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 🗣 Commented on [#17](https://github.com/sigstore/cosign-gatekeeper-provider/issues/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+2. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
+3. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+4. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+5. 🗣 Commented on [#5286](https://github.com/Checkmarx/kics/issues/5286) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+6. ❗️ Opened issue [#2002](https://github.com/sigstore/cosign/issues/2002) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+8. 🗣 Commented on [#286](https://github.com/google/go-tpm/issues/286) in [google/go-tpm](https://github.com/google/go-tpm)
+9. ❗️ Opened issue [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+10. ❗️ Opened issue [#465](https://github.com/pixie-io/pixie/issues/465) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 <!--END_SECTION:activity-->
