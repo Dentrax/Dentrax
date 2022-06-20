@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#879](https://github.com/sigstore/rekor/issues/879) in [sigstore/rekor](https://github.com/sigstore/rekor)
-2. ❗️ Opened issue [#36](https://github.com/iam4x/zsh-iterm-touchbar/issues/36) in [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar)
-3. 🗣 Commented on [#2005](https://github.com/sigstore/cosign/issues/2005) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#3543](https://github.com/openebs/openebs/pull/3543) in [openebs/openebs](https://github.com/openebs/openebs)
-5. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. ❗️ Opened issue [#2006](https://github.com/sigstore/cosign/issues/2006) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#17](https://github.com/sigstore/cosign-gatekeeper-provider/issues/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-8. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
-9. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
-10. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. ❗️ Opened issue [#654](https://github.com/sigstore/fulcio/issues/654) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
+2. ❗️ Opened issue [#879](https://github.com/sigstore/rekor/issues/879) in [sigstore/rekor](https://github.com/sigstore/rekor)
+3. ❗️ Opened issue [#36](https://github.com/iam4x/zsh-iterm-touchbar/issues/36) in [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar)
+4. 🗣 Commented on [#2005](https://github.com/sigstore/cosign/issues/2005) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#3543](https://github.com/openebs/openebs/pull/3543) in [openebs/openebs](https://github.com/openebs/openebs)
+6. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. ❗️ Opened issue [#2006](https://github.com/sigstore/cosign/issues/2006) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#17](https://github.com/sigstore/cosign-gatekeeper-provider/issues/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+9. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
+10. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
 <!--END_SECTION:activity-->
