@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-2. ❗️ Opened issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-3. ❗️ Opened issue [#9](https://github.com/NimbleArchitect/kubectl-ice/issues/9) in [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice)
-4. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+1. 💪 Opened PR [#5606](https://github.com/fluent/fluent-bit/pull/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+2. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+3. ❗️ Opened issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+4. ❗️ Opened issue [#9](https://github.com/NimbleArchitect/kubectl-ice/issues/9) in [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice)
 5. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-6. 💪 Opened PR [#515](https://github.com/sigstore/sigstore/pull/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-7. 🗣 Commented on [#17015](https://github.com/goharbor/harbor/issues/17015) in [goharbor/harbor](https://github.com/goharbor/harbor)
-8. 🗣 Commented on [#17001](https://github.com/goharbor/harbor/issues/17001) in [goharbor/harbor](https://github.com/goharbor/harbor)
-9. ❗️ Opened issue [#654](https://github.com/sigstore/fulcio/issues/654) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
-10. ❗️ Opened issue [#879](https://github.com/sigstore/rekor/issues/879) in [sigstore/rekor](https://github.com/sigstore/rekor)
+6. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+7. 💪 Opened PR [#515](https://github.com/sigstore/sigstore/pull/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+8. 🗣 Commented on [#17015](https://github.com/goharbor/harbor/issues/17015) in [goharbor/harbor](https://github.com/goharbor/harbor)
+9. 🗣 Commented on [#17001](https://github.com/goharbor/harbor/issues/17001) in [goharbor/harbor](https://github.com/goharbor/harbor)
+10. ❗️ Opened issue [#654](https://github.com/sigstore/fulcio/issues/654) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
 <!--END_SECTION:activity-->
