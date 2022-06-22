@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-3. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-4. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-5. 💪 Opened PR [#5606](https://github.com/fluent/fluent-bit/pull/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+1. ❗️ Opened issue [#6465](https://github.com/grafana/loki/issues/6465) in [grafana/loki](https://github.com/grafana/loki)
+2. 💪 Opened PR [#6464](https://github.com/grafana/loki/pull/6464) in [grafana/loki](https://github.com/grafana/loki)
+3. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
+4. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+5. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 6. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-7. ❗️ Opened issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-8. ❗️ Opened issue [#9](https://github.com/NimbleArchitect/kubectl-ice/issues/9) in [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice)
-9. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-10. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+7. 💪 Opened PR [#5606](https://github.com/fluent/fluent-bit/pull/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+8. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+9. ❗️ Opened issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+10. ❗️ Opened issue [#9](https://github.com/NimbleArchitect/kubectl-ice/issues/9) in [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice)
 <!--END_SECTION:activity-->
