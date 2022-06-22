@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6465](https://github.com/grafana/loki/issues/6465) in [grafana/loki](https://github.com/grafana/loki)
-2. ❗️ Opened issue [#6465](https://github.com/grafana/loki/issues/6465) in [grafana/loki](https://github.com/grafana/loki)
-3. 💪 Opened PR [#6464](https://github.com/grafana/loki/pull/6464) in [grafana/loki](https://github.com/grafana/loki)
-4. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
-5. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-6. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+1. 💪 Opened PR [#2016](https://github.com/sigstore/cosign/pull/2016) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#6465](https://github.com/grafana/loki/issues/6465) in [grafana/loki](https://github.com/grafana/loki)
+3. ❗️ Opened issue [#6465](https://github.com/grafana/loki/issues/6465) in [grafana/loki](https://github.com/grafana/loki)
+4. 💪 Opened PR [#6464](https://github.com/grafana/loki/pull/6464) in [grafana/loki](https://github.com/grafana/loki)
+5. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
+6. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
 7. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-8. 💪 Opened PR [#5606](https://github.com/fluent/fluent-bit/pull/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-10. ❗️ Opened issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+8. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+9. 💪 Opened PR [#5606](https://github.com/fluent/fluent-bit/pull/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!--END_SECTION:activity-->
