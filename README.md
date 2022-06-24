@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
-2. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-3. 🗣 Commented on [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
-4. ❗️ Opened issue [#1062](https://github.com/anchore/syft/issues/1062) in [anchore/syft](https://github.com/anchore/syft)
-5. 💪 Opened PR [#2024](https://github.com/sigstore/cosign/pull/2024) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. ❗️ Opened issue [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
-7. ❗️ Opened issue [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-8. 🗣 Commented on [#5606](https://github.com/fluent/fluent-bit/issues/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. ❗️ Opened issue [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
-10. 🗣 Commented on [#5077](https://github.com/fluent/fluent-bit/issues/5077) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+2. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
+3. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+4. 🗣 Commented on [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
+5. ❗️ Opened issue [#1062](https://github.com/anchore/syft/issues/1062) in [anchore/syft](https://github.com/anchore/syft)
+6. 💪 Opened PR [#2024](https://github.com/sigstore/cosign/pull/2024) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. ❗️ Opened issue [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
+8. ❗️ Opened issue [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+9. 🗣 Commented on [#5606](https://github.com/fluent/fluent-bit/issues/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. ❗️ Opened issue [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
 <!--END_SECTION:activity-->
