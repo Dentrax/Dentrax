@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-2. 🗣 Commented on [#5606](https://github.com/fluent/fluent-bit/issues/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-3. ❗️ Opened issue [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
-4. 🗣 Commented on [#5077](https://github.com/fluent/fluent-bit/issues/5077) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-5. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-6. 🗣 Commented on [#9](https://github.com/NimbleArchitect/kubectl-ice/issues/9) in [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice)
-7. 💪 Opened PR [#522](https://github.com/sigstore/sigstore/pull/522) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-8. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-9. 💪 Opened PR [#2016](https://github.com/sigstore/cosign/pull/2016) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#6465](https://github.com/grafana/loki/issues/6465) in [grafana/loki](https://github.com/grafana/loki)
+1. ❗️ Opened issue [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
+2. ❗️ Opened issue [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+3. 🗣 Commented on [#5606](https://github.com/fluent/fluent-bit/issues/5606) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+4. ❗️ Opened issue [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
+5. 🗣 Commented on [#5077](https://github.com/fluent/fluent-bit/issues/5077) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+6. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+7. 🗣 Commented on [#9](https://github.com/NimbleArchitect/kubectl-ice/issues/9) in [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice)
+8. 💪 Opened PR [#522](https://github.com/sigstore/sigstore/pull/522) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+9. 🗣 Commented on [#515](https://github.com/sigstore/sigstore/issues/515) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+10. 💪 Opened PR [#2016](https://github.com/sigstore/cosign/pull/2016) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
