@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#193](https://github.com/aquasecurity/trivy-operator/issues/193) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-2. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+1. 🗣 Commented on [#5491](https://github.com/Checkmarx/kics/issues/5491) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+2. ❗️ Opened issue [#193](https://github.com/aquasecurity/trivy-operator/issues/193) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
 3. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-4. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
+4. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
 5. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
-6. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-7. 🗣 Commented on [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
-8. ❗️ Opened issue [#1062](https://github.com/anchore/syft/issues/1062) in [anchore/syft](https://github.com/anchore/syft)
-9. 💪 Opened PR [#2024](https://github.com/sigstore/cosign/pull/2024) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. ❗️ Opened issue [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
+6. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
+7. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+8. 🗣 Commented on [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
+9. ❗️ Opened issue [#1062](https://github.com/anchore/syft/issues/1062) in [anchore/syft](https://github.com/anchore/syft)
+10. 💪 Opened PR [#2024](https://github.com/sigstore/cosign/pull/2024) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
