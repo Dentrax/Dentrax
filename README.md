@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#196](https://github.com/aquasecurity/trivy-operator/issues/196) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-2. 💪 Opened PR [#195](https://github.com/aquasecurity/trivy-operator/pull/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-3. ❗️ Opened issue [#194](https://github.com/aquasecurity/trivy-operator/issues/194) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-4. 🗣 Commented on [#5491](https://github.com/Checkmarx/kics/issues/5491) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
-5. ❗️ Opened issue [#193](https://github.com/aquasecurity/trivy-operator/issues/193) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-6. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-7. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-8. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
-9. 🗣 Commented on [#1689](https://github.com/containers/skopeo/issues/1689) in [containers/skopeo](https://github.com/containers/skopeo)
-10. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+1. ❗️ Closed issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+2. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+3. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+4. ❗️ Opened issue [#196](https://github.com/aquasecurity/trivy-operator/issues/196) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+5. 💪 Opened PR [#195](https://github.com/aquasecurity/trivy-operator/pull/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+6. ❗️ Opened issue [#194](https://github.com/aquasecurity/trivy-operator/issues/194) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+7. 🗣 Commented on [#5491](https://github.com/Checkmarx/kics/issues/5491) in [Checkmarx/kics](https://github.com/Checkmarx/kics)
+8. ❗️ Opened issue [#193](https://github.com/aquasecurity/trivy-operator/issues/193) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+9. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+10. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
 <!--END_SECTION:activity-->
