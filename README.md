@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
-2. 🗣 Commented on [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
-3. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-4. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-5. ❗️ Opened issue [#809](https://github.com/anchore/grype/issues/809) in [anchore/grype](https://github.com/anchore/grype)
-6. ❗️ Closed issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
-7. 🗣 Commented on [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
+1. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+2. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+3. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+4. ❗️ Opened issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+5. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+6. 🗣 Commented on [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
+7. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 8. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-9. ❗️ Opened issue [#196](https://github.com/aquasecurity/trivy-operator/issues/196) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-10. 💪 Opened PR [#195](https://github.com/aquasecurity/trivy-operator/pull/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+9. ❗️ Opened issue [#809](https://github.com/anchore/grype/issues/809) in [anchore/grype](https://github.com/anchore/grype)
+10. ❗️ Closed issue [#547](https://github.com/manosim/gitify/issues/547) in [manosim/gitify](https://github.com/manosim/gitify)
 <!--END_SECTION:activity-->
