@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+1. 🗣 Commented on [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+2. ❗️ Opened issue [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
 4. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-5. ❗️ Opened issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-6. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
-7. 🗣 Commented on [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
-8. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-9. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-10. ❗️ Opened issue [#809](https://github.com/anchore/grype/issues/809) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+6. ❗️ Opened issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+7. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+8. 🗣 Commented on [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
+9. 🗣 Commented on [#466](https://github.com/pixie-io/pixie/issues/466) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+10. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
 <!--END_SECTION:activity-->
