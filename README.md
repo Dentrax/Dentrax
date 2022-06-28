@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
-2. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-3. ❗️ Opened issue [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
-4. 🗣 Commented on [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
-5. ❗️ Opened issue [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-6. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-7. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+1. ❗️ Closed issue [#196](https://github.com/aquasecurity/trivy-operator/issues/196) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+2. 🗣 Commented on [#196](https://github.com/aquasecurity/trivy-operator/issues/196) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+3. 🗣 Commented on [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
+4. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+5. ❗️ Opened issue [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
+6. 🗣 Commented on [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+7. ❗️ Opened issue [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 8. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-9. ❗️ Opened issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-10. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+9. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+10. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
 <!--END_SECTION:activity-->
