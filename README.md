@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-2. ❗️ Opened issue [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
-3. 🗣 Commented on [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
-4. ❗️ Opened issue [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+1. 🗣 Commented on [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
+2. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+3. ❗️ Opened issue [#364](https://github.com/splunk/splunk-cloud-sdk-go/issues/364) in [splunk/splunk-cloud-sdk-go](https://github.com/splunk/splunk-cloud-sdk-go)
+4. 🗣 Commented on [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+5. ❗️ Opened issue [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 6. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
 7. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-8. ❗️ Opened issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-9. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
-10. 🗣 Commented on [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
+8. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+9. ❗️ Opened issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+10. ❗️ Opened issue [#111](https://github.com/nicolaka/netshoot/issues/111) in [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
 <!--END_SECTION:activity-->
