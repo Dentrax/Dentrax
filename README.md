@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#603](https://github.com/google/ko/issues/603) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#665](https://github.com/sigstore/fulcio/issues/665) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
+1. 🗣 Commented on [#9](https://github.com/awesomeSBOM/awesome-sbom/issues/9) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🎉 Merged PR [#9](https://github.com/awesomeSBOM/awesome-sbom/pull/9) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 3. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
-4. 🗣 Commented on [#665](https://github.com/sigstore/fulcio/issues/665) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
-5. 💪 Opened PR [#665](https://github.com/sigstore/fulcio/pull/665) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
-6. 🗣 Commented on [#654](https://github.com/sigstore/fulcio/issues/654) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
-7. 💪 Opened PR [#110848](https://github.com/kubernetes/kubernetes/pull/110848) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-8. 💪 Opened PR [#110847](https://github.com/kubernetes/kubernetes/pull/110847) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-9. 💪 Opened PR [#110846](https://github.com/kubernetes/kubernetes/pull/110846) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-10. 💪 Opened PR [#110845](https://github.com/kubernetes/kubernetes/pull/110845) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#603](https://github.com/google/ko/issues/603) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#665](https://github.com/sigstore/fulcio/issues/665) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
+6. 🗣 Commented on [#195](https://github.com/aquasecurity/trivy-operator/issues/195) in [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+7. 🗣 Commented on [#665](https://github.com/sigstore/fulcio/issues/665) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
+8. 💪 Opened PR [#665](https://github.com/sigstore/fulcio/pull/665) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
+9. 🗣 Commented on [#654](https://github.com/sigstore/fulcio/issues/654) in [sigstore/fulcio](https://github.com/sigstore/fulcio)
+10. 💪 Opened PR [#110848](https://github.com/kubernetes/kubernetes/pull/110848) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
