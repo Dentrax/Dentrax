@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Dentrax/Z00bfuscator/issues/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-2. 🎉 Merged PR [#7](https://github.com/Dentrax/Z00bfuscator/pull/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-3. ❗️ Closed issue [#2](https://github.com/Dentrax/Z00bfuscator/issues/2) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-4. 💪 Opened PR [#11111](https://github.com/helm/helm/pull/11111) in [helm/helm](https://github.com/helm/helm)
-5. 🗣 Commented on [#1654](https://github.com/spf13/cobra/issues/1654) in [spf13/cobra](https://github.com/spf13/cobra)
-6. ❗️ Opened issue [#910](https://github.com/zricethezav/gitleaks/issues/910) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-7. ❗️ Closed issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-8. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+1. 🎉 Merged PR [#8](https://github.com/Dentrax/Z00bfuscator/pull/8) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+2. 🗣 Commented on [#7](https://github.com/Dentrax/Z00bfuscator/issues/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+3. 🎉 Merged PR [#7](https://github.com/Dentrax/Z00bfuscator/pull/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+4. ❗️ Closed issue [#2](https://github.com/Dentrax/Z00bfuscator/issues/2) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+5. 💪 Opened PR [#11111](https://github.com/helm/helm/pull/11111) in [helm/helm](https://github.com/helm/helm)
+6. 🗣 Commented on [#1654](https://github.com/spf13/cobra/issues/1654) in [spf13/cobra](https://github.com/spf13/cobra)
+7. ❗️ Opened issue [#910](https://github.com/zricethezav/gitleaks/issues/910) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+8. ❗️ Closed issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
 9. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
-10. 🗣 Commented on [#9](https://github.com/awesomeSBOM/awesome-sbom/issues/9) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+10. 🗣 Commented on [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
 <!--END_SECTION:activity-->
