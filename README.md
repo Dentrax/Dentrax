@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#256](https://github.com/yoheimuta/protolint/issues/256) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
-2. ❗️ Opened issue [#255](https://github.com/yoheimuta/protolint/issues/255) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
-3. 🎉 Merged PR [#8](https://github.com/Dentrax/Z00bfuscator/pull/8) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-4. 🗣 Commented on [#7](https://github.com/Dentrax/Z00bfuscator/issues/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-5. 🎉 Merged PR [#7](https://github.com/Dentrax/Z00bfuscator/pull/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-6. ❗️ Closed issue [#2](https://github.com/Dentrax/Z00bfuscator/issues/2) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
-7. 💪 Opened PR [#11111](https://github.com/helm/helm/pull/11111) in [helm/helm](https://github.com/helm/helm)
-8. 🗣 Commented on [#1654](https://github.com/spf13/cobra/issues/1654) in [spf13/cobra](https://github.com/spf13/cobra)
-9. ❗️ Opened issue [#910](https://github.com/zricethezav/gitleaks/issues/910) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-10. ❗️ Closed issue [#6519](https://github.com/grafana/loki/issues/6519) in [grafana/loki](https://github.com/grafana/loki)
+1. ❗️ Opened issue [#11116](https://github.com/helm/helm/issues/11116) in [helm/helm](https://github.com/helm/helm)
+2. ❗️ Opened issue [#256](https://github.com/yoheimuta/protolint/issues/256) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
+3. ❗️ Opened issue [#255](https://github.com/yoheimuta/protolint/issues/255) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
+4. 🎉 Merged PR [#8](https://github.com/Dentrax/Z00bfuscator/pull/8) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+5. 🗣 Commented on [#7](https://github.com/Dentrax/Z00bfuscator/issues/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+6. 🎉 Merged PR [#7](https://github.com/Dentrax/Z00bfuscator/pull/7) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+7. ❗️ Closed issue [#2](https://github.com/Dentrax/Z00bfuscator/issues/2) in [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator)
+8. 💪 Opened PR [#11111](https://github.com/helm/helm/pull/11111) in [helm/helm](https://github.com/helm/helm)
+9. 🗣 Commented on [#1654](https://github.com/spf13/cobra/issues/1654) in [spf13/cobra](https://github.com/spf13/cobra)
+10. ❗️ Opened issue [#910](https://github.com/zricethezav/gitleaks/issues/910) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
 <!--END_SECTION:activity-->
