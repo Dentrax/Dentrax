@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1857](https://github.com/grafana/agent/pull/1857) in [grafana/agent](https://github.com/grafana/agent)
-2. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
-3. ❗️ Opened issue [#55](https://github.com/aquasecurity/chain-bench/issues/55) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-4. ❗️ Opened issue [#54](https://github.com/aquasecurity/chain-bench/issues/54) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-5. ❗️ Opened issue [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
-6. 🎉 Merged PR [#3](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/3) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
-7. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
-8. 🗣 Commented on [#10459](https://github.com/helm/helm/issues/10459) in [helm/helm](https://github.com/helm/helm)
-9. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
-10. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#5334](https://github.com/fluent/fluent-bit/issues/5334) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+2. ❌ Closed PR [#1857](https://github.com/grafana/agent/pull/1857) in [grafana/agent](https://github.com/grafana/agent)
+3. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
+4. ❗️ Opened issue [#55](https://github.com/aquasecurity/chain-bench/issues/55) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+5. ❗️ Opened issue [#54](https://github.com/aquasecurity/chain-bench/issues/54) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+6. ❗️ Opened issue [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+7. 🎉 Merged PR [#3](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/3) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
+8. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
+9. 🗣 Commented on [#10459](https://github.com/helm/helm/issues/10459) in [helm/helm](https://github.com/helm/helm)
+10. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
 <!--END_SECTION:activity-->
