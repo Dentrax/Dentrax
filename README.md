@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
-2. 🗣 Commented on [#256](https://github.com/yoheimuta/protolint/issues/256) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
-3. 🗣 Commented on [#5334](https://github.com/fluent/fluent-bit/issues/5334) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-4. ❌ Closed PR [#1857](https://github.com/grafana/agent/pull/1857) in [grafana/agent](https://github.com/grafana/agent)
-5. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
-6. ❗️ Opened issue [#55](https://github.com/aquasecurity/chain-bench/issues/55) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-7. ❗️ Opened issue [#54](https://github.com/aquasecurity/chain-bench/issues/54) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-8. ❗️ Opened issue [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
-9. 🎉 Merged PR [#3](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/3) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
-10. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
+1. 🗣 Commented on [#44](https://github.com/microsoft/sbom-tool/issues/44) in [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
+2. ❗️ Opened issue [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
+3. 🗣 Commented on [#256](https://github.com/yoheimuta/protolint/issues/256) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
+4. 🗣 Commented on [#5334](https://github.com/fluent/fluent-bit/issues/5334) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+5. ❌ Closed PR [#1857](https://github.com/grafana/agent/pull/1857) in [grafana/agent](https://github.com/grafana/agent)
+6. 🗣 Commented on [#1857](https://github.com/grafana/agent/issues/1857) in [grafana/agent](https://github.com/grafana/agent)
+7. ❗️ Opened issue [#55](https://github.com/aquasecurity/chain-bench/issues/55) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+8. ❗️ Opened issue [#54](https://github.com/aquasecurity/chain-bench/issues/54) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+9. ❗️ Opened issue [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+10. 🎉 Merged PR [#3](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/3) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
 <!--END_SECTION:activity-->
