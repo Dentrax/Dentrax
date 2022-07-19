@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
+1. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
 2. 🗣 Commented on [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
-3. ❗️ Opened issue [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
-4. 🗣 Commented on [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
+3. 🗣 Commented on [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
+4. ❗️ Opened issue [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
 5. 🗣 Commented on [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
-6. ❗️ Opened issue [#958](https://github.com/cncf/tag-security/issues/958) in [cncf/tag-security](https://github.com/cncf/tag-security)
-7. 🗣 Commented on [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
-8. 🗣 Commented on [#44](https://github.com/microsoft/sbom-tool/issues/44) in [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
-9. ❗️ Opened issue [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
-10. 🗣 Commented on [#256](https://github.com/yoheimuta/protolint/issues/256) in [yoheimuta/protolint](https://github.com/yoheimuta/protolint)
+6. 🗣 Commented on [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
+7. ❗️ Opened issue [#958](https://github.com/cncf/tag-security/issues/958) in [cncf/tag-security](https://github.com/cncf/tag-security)
+8. 🗣 Commented on [#939](https://github.com/docker/buildx/issues/939) in [docker/buildx](https://github.com/docker/buildx)
+9. 🗣 Commented on [#44](https://github.com/microsoft/sbom-tool/issues/44) in [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
+10. ❗️ Opened issue [#126](https://github.com/calyptia/cmetrics/issues/126) in [calyptia/cmetrics](https://github.com/calyptia/cmetrics)
 <!--END_SECTION:activity-->
