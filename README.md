@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/microsoft/sbom-tool/issues/44) in [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
-2. 🗣 Commented on [#19282](https://github.com/cilium/cilium/issues/19282) in [cilium/cilium](https://github.com/cilium/cilium)
-3. ❗️ Opened issue [#157](https://github.com/hashicorp/vault-plugin-auth-kubernetes/issues/157) in [hashicorp/vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes)
-4. ❗️ Opened issue [#4238](https://github.com/kyverno/kyverno/issues/4238) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
-6. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+1. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+2. 🗣 Commented on [#44](https://github.com/microsoft/sbom-tool/issues/44) in [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
+3. 🗣 Commented on [#19282](https://github.com/cilium/cilium/issues/19282) in [cilium/cilium](https://github.com/cilium/cilium)
+4. ❗️ Opened issue [#157](https://github.com/hashicorp/vault-plugin-auth-kubernetes/issues/157) in [hashicorp/vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes)
+5. ❗️ Opened issue [#4238](https://github.com/kyverno/kyverno/issues/4238) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+6. ❗️ Opened issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
 7. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
-8. 🗣 Commented on [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
+8. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
 9. 🗣 Commented on [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
-10. ❗️ Opened issue [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
+10. 🗣 Commented on [#1613](https://github.com/containers/image/issues/1613) in [containers/image](https://github.com/containers/image)
 <!--END_SECTION:activity-->
