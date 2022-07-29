@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16483](https://github.com/hashicorp/vault/issues/16483) in [hashicorp/vault](https://github.com/hashicorp/vault)
-2. 🗣 Commented on [#14](https://github.com/kyverno/KDP/issues/14) in [kyverno/KDP](https://github.com/kyverno/KDP)
-3. 🗣 Commented on [#3820](https://github.com/kyverno/kyverno/issues/3820) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#2052](https://github.com/sigstore/cosign/issues/2052) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#2085](https://github.com/sigstore/cosign/issues/2085) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 💪 Opened PR [#2085](https://github.com/sigstore/cosign/pull/2085) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#2025](https://github.com/sigstore/cosign/issues/2025) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. ❗️ Opened issue [#2082](https://github.com/sigstore/cosign/issues/2082) in [sigstore/cosign](https://github.com/sigstore/cosign)
-9. ❗️ Opened issue [#2555](https://github.com/aquasecurity/trivy/issues/2555) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-10. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+1. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❗️ Opened issue [#16483](https://github.com/hashicorp/vault/issues/16483) in [hashicorp/vault](https://github.com/hashicorp/vault)
+3. 🗣 Commented on [#14](https://github.com/kyverno/KDP/issues/14) in [kyverno/KDP](https://github.com/kyverno/KDP)
+4. 🗣 Commented on [#3820](https://github.com/kyverno/kyverno/issues/3820) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#2052](https://github.com/sigstore/cosign/issues/2052) in [sigstore/cosign](https://github.com/sigstore/cosign)
+6. 🗣 Commented on [#2085](https://github.com/sigstore/cosign/issues/2085) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 💪 Opened PR [#2085](https://github.com/sigstore/cosign/pull/2085) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#2025](https://github.com/sigstore/cosign/issues/2025) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. ❗️ Opened issue [#2082](https://github.com/sigstore/cosign/issues/2082) in [sigstore/cosign](https://github.com/sigstore/cosign)
+10. ❗️ Opened issue [#2555](https://github.com/aquasecurity/trivy/issues/2555) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
