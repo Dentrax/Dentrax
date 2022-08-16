@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#842](https://github.com/adw0rd/instagrapi/issues/842) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+1. ❗️ Opened issue [#27](https://github.com/konradsz/igrep/issues/27) in [konradsz/igrep](https://github.com/konradsz/igrep)
 2. 🗣 Commented on [#842](https://github.com/adw0rd/instagrapi/issues/842) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
-3. ❗️ Opened issue [#842](https://github.com/adw0rd/instagrapi/issues/842) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
-4. ❗️ Opened issue [#105](https://github.com/sigstore/gitsign/issues/105) in [sigstore/gitsign](https://github.com/sigstore/gitsign)
-5. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+3. 🗣 Commented on [#842](https://github.com/adw0rd/instagrapi/issues/842) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+4. ❗️ Opened issue [#842](https://github.com/adw0rd/instagrapi/issues/842) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+5. ❗️ Opened issue [#105](https://github.com/sigstore/gitsign/issues/105) in [sigstore/gitsign](https://github.com/sigstore/gitsign)
 6. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
-7. 🗣 Commented on [#753](https://github.com/kubernetes-sigs/descheduler/issues/753) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. 🗣 Commented on [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
-9. 🗣 Commented on [#54](https://github.com/aquasecurity/chain-bench/issues/54) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-10. 🗣 Commented on [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+7. 🗣 Commented on [#9](https://github.com/jorgelbg/pinentry-touchid/issues/9) in [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid)
+8. 🗣 Commented on [#753](https://github.com/kubernetes-sigs/descheduler/issues/753) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+9. 🗣 Commented on [#19](https://github.com/chenjiandongx/kubectl-images/issues/19) in [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images)
+10. 🗣 Commented on [#54](https://github.com/aquasecurity/chain-bench/issues/54) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
 <!--END_SECTION:activity-->
