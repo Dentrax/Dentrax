@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-2. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-3. ❗️ Closed issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
-4. 🗣 Commented on [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
-5. 🗣 Commented on [#965](https://github.com/zricethezav/gitleaks/issues/965) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-6. ❗️ Opened issue [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-7. ❗️ Opened issue [#11262](https://github.com/helm/helm/issues/11262) in [helm/helm](https://github.com/helm/helm)
-8. 🗣 Commented on [#2577](https://github.com/kyverno/kyverno/issues/2577) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-9. 🗣 Commented on [#1429](https://github.com/terraform-provider-openstack/terraform-provider-openstack/issues/1429) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
-10. ❗️ Opened issue [#1429](https://github.com/terraform-provider-openstack/terraform-provider-openstack/issues/1429) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
+1. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+2. 🗣 Commented on [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+3. ❗️ Opened issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+4. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+5. ❗️ Closed issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
+6. 🗣 Commented on [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
+7. 🗣 Commented on [#965](https://github.com/zricethezav/gitleaks/issues/965) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+8. ❗️ Opened issue [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+9. ❗️ Opened issue [#11262](https://github.com/helm/helm/issues/11262) in [helm/helm](https://github.com/helm/helm)
+10. 🗣 Commented on [#2577](https://github.com/kyverno/kyverno/issues/2577) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
