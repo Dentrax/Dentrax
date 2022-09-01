@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#906](https://github.com/vmware/terraform-provider-vcd/issues/906) in [vmware/terraform-provider-vcd](https://github.com/vmware/terraform-provider-vcd)
-2. 🗣 Commented on [#270](https://github.com/vmware/vcd-cli/issues/270) in [vmware/vcd-cli](https://github.com/vmware/vcd-cli)
-3. ❗️ Opened issue [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-4. 🗣 Commented on [#43](https://github.com/charmbracelet/bubbletea/issues/43) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-5. ❗️ Opened issue [#435](https://github.com/charmbracelet/bubbletea/issues/435) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-6. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-7. 🗣 Commented on [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-8. ❗️ Opened issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-9. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-10. ❗️ Closed issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
+1. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. ❗️ Opened issue [#906](https://github.com/vmware/terraform-provider-vcd/issues/906) in [vmware/terraform-provider-vcd](https://github.com/vmware/terraform-provider-vcd)
+3. 🗣 Commented on [#270](https://github.com/vmware/vcd-cli/issues/270) in [vmware/vcd-cli](https://github.com/vmware/vcd-cli)
+4. ❗️ Opened issue [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+5. 🗣 Commented on [#43](https://github.com/charmbracelet/bubbletea/issues/43) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+6. ❗️ Opened issue [#435](https://github.com/charmbracelet/bubbletea/issues/435) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+7. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+8. 🗣 Commented on [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+9. ❗️ Opened issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+10. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!--END_SECTION:activity-->
