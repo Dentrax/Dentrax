@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#435](https://github.com/charmbracelet/bubbletea/issues/435) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-2. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-3. 🗣 Commented on [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-4. ❗️ Opened issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-5. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-6. ❗️ Closed issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
-7. 🗣 Commented on [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
-8. 🗣 Commented on [#965](https://github.com/zricethezav/gitleaks/issues/965) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-9. ❗️ Opened issue [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-10. ❗️ Opened issue [#11262](https://github.com/helm/helm/issues/11262) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#43](https://github.com/charmbracelet/bubbletea/issues/43) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+2. ❗️ Opened issue [#435](https://github.com/charmbracelet/bubbletea/issues/435) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+3. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+4. 🗣 Commented on [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+5. ❗️ Opened issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+6. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+7. ❗️ Closed issue [#586](https://github.com/kyverno/website/issues/586) in [kyverno/website](https://github.com/kyverno/website)
+8. 🗣 Commented on [#6487](https://github.com/grafana/loki/issues/6487) in [grafana/loki](https://github.com/grafana/loki)
+9. 🗣 Commented on [#965](https://github.com/zricethezav/gitleaks/issues/965) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+10. ❗️ Opened issue [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
