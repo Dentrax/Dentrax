@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Reopened issue [#1381](https://github.com/sigstore/cosign/issues/1381) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. ❗️ Opened issue [#906](https://github.com/vmware/terraform-provider-vcd/issues/906) in [vmware/terraform-provider-vcd](https://github.com/vmware/terraform-provider-vcd)
-5. 🗣 Commented on [#270](https://github.com/vmware/vcd-cli/issues/270) in [vmware/vcd-cli](https://github.com/vmware/vcd-cli)
-6. ❗️ Opened issue [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-7. 🗣 Commented on [#43](https://github.com/charmbracelet/bubbletea/issues/43) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-8. ❗️ Opened issue [#435](https://github.com/charmbracelet/bubbletea/issues/435) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-9. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-10. 🗣 Commented on [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+1. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+2. 🗣 Commented on [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Reopened issue [#1381](https://github.com/sigstore/cosign/issues/1381) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. ❗️ Opened issue [#906](https://github.com/vmware/terraform-provider-vcd/issues/906) in [vmware/terraform-provider-vcd](https://github.com/vmware/terraform-provider-vcd)
+6. 🗣 Commented on [#270](https://github.com/vmware/vcd-cli/issues/270) in [vmware/vcd-cli](https://github.com/vmware/vcd-cli)
+7. ❗️ Opened issue [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+8. 🗣 Commented on [#43](https://github.com/charmbracelet/bubbletea/issues/43) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+9. ❗️ Opened issue [#435](https://github.com/charmbracelet/bubbletea/issues/435) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+10. ❗️ Closed issue [#2457](https://github.com/prometheus/node_exporter/issues/2457) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
 <!--END_SECTION:activity-->
