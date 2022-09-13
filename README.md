@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6867](https://github.com/kubernetes/community/issues/6867) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+1. 🗣 Commented on [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
+2. 🗣 Commented on [#6867](https://github.com/kubernetes/community/issues/6867) in [kubernetes/community](https://github.com/kubernetes/community)
 3. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 4. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-5. 🗣 Commented on [#36](https://github.com/valyala/fasthttp/issues/36) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-6. 🗣 Commented on [#8802](https://github.com/kubernetes-sigs/kubespray/issues/8802) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-7. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-8. 🗣 Commented on [#890](https://github.com/fluxcd/source-controller/issues/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-9. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-10. 🗣 Commented on [#4161](https://github.com/kyverno/kyverno/issues/4161) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+6. 🗣 Commented on [#36](https://github.com/valyala/fasthttp/issues/36) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+7. 🗣 Commented on [#8802](https://github.com/kubernetes-sigs/kubespray/issues/8802) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+8. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+9. 🗣 Commented on [#890](https://github.com/fluxcd/source-controller/issues/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+10. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
