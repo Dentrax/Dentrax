@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#356](https://github.com/ahmdrz/goinsta/issues/356) in [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta)
-2. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-4. 🗣 Commented on [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
-5. 🗣 Commented on [#6867](https://github.com/kubernetes/community/issues/6867) in [kubernetes/community](https://github.com/kubernetes/community)
-6. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+1. ❗️ Opened issue [#1808](https://github.com/spf13/cobra/issues/1808) in [spf13/cobra](https://github.com/spf13/cobra)
+2. ❗️ Opened issue [#356](https://github.com/ahmdrz/goinsta/issues/356) in [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta)
+3. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. 🗣 Commented on [#10722](https://github.com/helm/helm/issues/10722) in [helm/helm](https://github.com/helm/helm)
+6. 🗣 Commented on [#6867](https://github.com/kubernetes/community/issues/6867) in [kubernetes/community](https://github.com/kubernetes/community)
 7. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 8. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-9. 🗣 Commented on [#36](https://github.com/valyala/fasthttp/issues/36) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-10. 🗣 Commented on [#8802](https://github.com/kubernetes-sigs/kubespray/issues/8802) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+9. 🗣 Commented on [#3094](https://github.com/golangci/golangci-lint/issues/3094) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+10. 🗣 Commented on [#36](https://github.com/valyala/fasthttp/issues/36) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
 <!--END_SECTION:activity-->
