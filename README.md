@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/orhun/kmon/issues/32) in [orhun/kmon](https://github.com/orhun/kmon)
-2. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 🗣 Commented on [#9218](https://github.com/prometheus/prometheus/issues/9218) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. ❗️ Opened issue [#32](https://github.com/orhun/kmon/issues/32) in [orhun/kmon](https://github.com/orhun/kmon)
 3. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. 🗣 Commented on [#11111](https://github.com/helm/helm/issues/11111) in [helm/helm](https://github.com/helm/helm)
-5. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
-6. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. 🗣 Commented on [#11111](https://github.com/helm/helm/issues/11111) in [helm/helm](https://github.com/helm/helm)
+6. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
 7. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 8. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 9. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. 🗣 Commented on [#705](https://github.com/kubernetes-sigs/descheduler/issues/705) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
