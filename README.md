@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3053](https://github.com/grafana/mimir/pull/3053) in [grafana/mimir](https://github.com/grafana/mimir)
-2. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
-3. ❌ Closed PR [#3051](https://github.com/grafana/mimir/pull/3051) in [grafana/mimir](https://github.com/grafana/mimir)
-4. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
-5. 💪 Opened PR [#3052](https://github.com/grafana/mimir/pull/3052) in [grafana/mimir](https://github.com/grafana/mimir)
-6. ❌ Closed PR [#235](https://github.com/grafana/cortex-tools/pull/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-7. 🗣 Commented on [#235](https://github.com/grafana/cortex-tools/issues/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
-8. 💪 Opened PR [#3051](https://github.com/grafana/mimir/pull/3051) in [grafana/mimir](https://github.com/grafana/mimir)
-9. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/issues/3199) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+1. 🗣 Commented on [#3053](https://github.com/grafana/mimir/issues/3053) in [grafana/mimir](https://github.com/grafana/mimir)
+2. 🗣 Commented on [#3052](https://github.com/grafana/mimir/issues/3052) in [grafana/mimir](https://github.com/grafana/mimir)
+3. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
+4. 💪 Opened PR [#3053](https://github.com/grafana/mimir/pull/3053) in [grafana/mimir](https://github.com/grafana/mimir)
+5. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
+6. ❌ Closed PR [#3051](https://github.com/grafana/mimir/pull/3051) in [grafana/mimir](https://github.com/grafana/mimir)
+7. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
+8. 💪 Opened PR [#3052](https://github.com/grafana/mimir/pull/3052) in [grafana/mimir](https://github.com/grafana/mimir)
+9. ❌ Closed PR [#235](https://github.com/grafana/cortex-tools/pull/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
 10. 🗣 Commented on [#235](https://github.com/grafana/cortex-tools/issues/235) in [grafana/cortex-tools](https://github.com/grafana/cortex-tools)
 <!--END_SECTION:activity-->
