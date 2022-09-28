@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-2. 🗣 Commented on [#5300](https://github.com/fluent/fluent-bit/issues/5300) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-3. ❗️ Opened issue [#3062](https://github.com/grafana/mimir/issues/3062) in [grafana/mimir](https://github.com/grafana/mimir)
-4. 🗣 Commented on [#1](https://github.com/Dentrax/obscure-go/issues/1) in [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go)
-5. 🗣 Commented on [#3053](https://github.com/grafana/mimir/issues/3053) in [grafana/mimir](https://github.com/grafana/mimir)
-6. 🗣 Commented on [#3052](https://github.com/grafana/mimir/issues/3052) in [grafana/mimir](https://github.com/grafana/mimir)
-7. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
-8. 💪 Opened PR [#3053](https://github.com/grafana/mimir/pull/3053) in [grafana/mimir](https://github.com/grafana/mimir)
-9. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
-10. ❌ Closed PR [#3051](https://github.com/grafana/mimir/pull/3051) in [grafana/mimir](https://github.com/grafana/mimir)
+1. ❗️ Opened issue [#6113](https://github.com/fluent/fluent-bit/issues/6113) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+2. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+3. 🗣 Commented on [#5300](https://github.com/fluent/fluent-bit/issues/5300) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+4. ❗️ Opened issue [#3062](https://github.com/grafana/mimir/issues/3062) in [grafana/mimir](https://github.com/grafana/mimir)
+5. 🗣 Commented on [#1](https://github.com/Dentrax/obscure-go/issues/1) in [Dentrax/obscure-go](https://github.com/Dentrax/obscure-go)
+6. 🗣 Commented on [#3053](https://github.com/grafana/mimir/issues/3053) in [grafana/mimir](https://github.com/grafana/mimir)
+7. 🗣 Commented on [#3052](https://github.com/grafana/mimir/issues/3052) in [grafana/mimir](https://github.com/grafana/mimir)
+8. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
+9. 💪 Opened PR [#3053](https://github.com/grafana/mimir/pull/3053) in [grafana/mimir](https://github.com/grafana/mimir)
+10. 🗣 Commented on [#3051](https://github.com/grafana/mimir/issues/3051) in [grafana/mimir](https://github.com/grafana/mimir)
 <!--END_SECTION:activity-->
