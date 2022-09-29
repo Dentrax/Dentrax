@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/polyfloyd/go-errorlint/issues/29) in [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint)
-2. ❗️ Opened issue [#749](https://github.com/mgechev/revive/issues/749) in [mgechev/revive](https://github.com/mgechev/revive)
-3. 🗣 Commented on [#468](https://github.com/charmbracelet/bubbletea/issues/468) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-4. ❗️ Opened issue [#29](https://github.com/polyfloyd/go-errorlint/issues/29) in [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint)
-5. ❗️ Opened issue [#468](https://github.com/charmbracelet/bubbletea/issues/468) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-6. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-7. ❗️ Opened issue [#6113](https://github.com/fluent/fluent-bit/issues/6113) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-8. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-9. 🗣 Commented on [#5300](https://github.com/fluent/fluent-bit/issues/5300) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-10. ❗️ Opened issue [#3062](https://github.com/grafana/mimir/issues/3062) in [grafana/mimir](https://github.com/grafana/mimir)
+1. 🗣 Commented on [#749](https://github.com/mgechev/revive/issues/749) in [mgechev/revive](https://github.com/mgechev/revive)
+2. 🗣 Commented on [#29](https://github.com/polyfloyd/go-errorlint/issues/29) in [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint)
+3. ❗️ Opened issue [#749](https://github.com/mgechev/revive/issues/749) in [mgechev/revive](https://github.com/mgechev/revive)
+4. 🗣 Commented on [#468](https://github.com/charmbracelet/bubbletea/issues/468) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+5. ❗️ Opened issue [#29](https://github.com/polyfloyd/go-errorlint/issues/29) in [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint)
+6. ❗️ Opened issue [#468](https://github.com/charmbracelet/bubbletea/issues/468) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+7. 🗣 Commented on [#3217](https://github.com/fluent/fluent-bit/issues/3217) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+8. ❗️ Opened issue [#6113](https://github.com/fluent/fluent-bit/issues/6113) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+9. 🗣 Commented on [#5131](https://github.com/fluent/fluent-bit/issues/5131) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+10. 🗣 Commented on [#5300](https://github.com/fluent/fluent-bit/issues/5300) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!--END_SECTION:activity-->
