@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-2. 🗣 Commented on [#374](https://github.com/weaveworks/tf-controller/issues/374) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-3. 🗣 Commented on [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-4. ❗️ Opened issue [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-5. ❗️ Opened issue [#374](https://github.com/weaveworks/tf-controller/issues/374) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-6. 🗣 Commented on [#267](https://github.com/crossplane/crossplane/issues/267) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
-7. 🗣 Commented on [#749](https://github.com/mgechev/revive/issues/749) in [mgechev/revive](https://github.com/mgechev/revive)
-8. 🗣 Commented on [#29](https://github.com/polyfloyd/go-errorlint/issues/29) in [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint)
-9. ❗️ Opened issue [#749](https://github.com/mgechev/revive/issues/749) in [mgechev/revive](https://github.com/mgechev/revive)
-10. 🗣 Commented on [#468](https://github.com/charmbracelet/bubbletea/issues/468) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+1. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
+2. 💪 Opened PR [#969](https://github.com/kubernetes-sigs/descheduler/pull/969) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+3. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+5. 🗣 Commented on [#374](https://github.com/weaveworks/tf-controller/issues/374) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+6. 🗣 Commented on [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+7. ❗️ Opened issue [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+8. ❗️ Opened issue [#374](https://github.com/weaveworks/tf-controller/issues/374) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+9. 🗣 Commented on [#267](https://github.com/crossplane/crossplane/issues/267) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+10. 🗣 Commented on [#749](https://github.com/mgechev/revive/issues/749) in [mgechev/revive](https://github.com/mgechev/revive)
 <!--END_SECTION:activity-->
