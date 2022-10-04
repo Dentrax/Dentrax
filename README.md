@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-2. 💪 Opened PR [#998](https://github.com/zricethezav/gitleaks/pull/998) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-3. ❗️ Opened issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-4. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-5. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
-6. 🗣 Commented on [#969](https://github.com/kubernetes-sigs/descheduler/issues/969) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-7. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
-8. 💪 Opened PR [#969](https://github.com/kubernetes-sigs/descheduler/pull/969) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-9. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. 🗣 Commented on [#375](https://github.com/weaveworks/tf-controller/issues/375) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+1. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+2. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+3. 💪 Opened PR [#998](https://github.com/zricethezav/gitleaks/pull/998) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+4. ❗️ Opened issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+5. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+6. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+7. 🗣 Commented on [#969](https://github.com/kubernetes-sigs/descheduler/issues/969) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+8. 🗣 Commented on [#617](https://github.com/anchore/syft/issues/617) in [anchore/syft](https://github.com/anchore/syft)
+9. 💪 Opened PR [#969](https://github.com/kubernetes-sigs/descheduler/pull/969) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+10. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
