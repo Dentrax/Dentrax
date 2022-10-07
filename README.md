@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-2. ❗️ Closed issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-3. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-4. 🗣 Commented on [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-5. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-6. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-7. 💪 Opened PR [#998](https://github.com/zricethezav/gitleaks/pull/998) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
-8. ❗️ Opened issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-9. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-10. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+1. ❗️ Opened issue [#2318](https://github.com/sigstore/cosign/issues/2318) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+3. ❗️ Closed issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+4. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+5. 🗣 Commented on [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+6. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+7. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+8. 💪 Opened PR [#998](https://github.com/zricethezav/gitleaks/pull/998) in [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
+9. ❗️ Opened issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+10. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
 <!--END_SECTION:activity-->
