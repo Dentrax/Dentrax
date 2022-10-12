@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6464](https://github.com/grafana/loki/issues/6464) in [grafana/loki](https://github.com/grafana/loki)
-2. ❗️ Opened issue [#104](https://github.com/rfmoz/grafana-dashboards/issues/104) in [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards)
-3. 🗣 Commented on [#2482](https://github.com/prometheus/node_exporter/issues/2482) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
-4. ❗️ Opened issue [#6066](https://github.com/refined-github/refined-github/issues/6066) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. ❗️ Opened issue [#2318](https://github.com/sigstore/cosign/issues/2318) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-7. ❗️ Closed issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-8. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-9. 🗣 Commented on [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-10. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+1. 💪 Opened PR [#471](https://github.com/prometheus/procfs/pull/471) in [prometheus/procfs](https://github.com/prometheus/procfs)
+2. 🗣 Commented on [#6464](https://github.com/grafana/loki/issues/6464) in [grafana/loki](https://github.com/grafana/loki)
+3. ❗️ Opened issue [#104](https://github.com/rfmoz/grafana-dashboards/issues/104) in [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards)
+4. 🗣 Commented on [#2482](https://github.com/prometheus/node_exporter/issues/2482) in [prometheus/node_exporter](https://github.com/prometheus/node_exporter)
+5. ❗️ Opened issue [#6066](https://github.com/refined-github/refined-github/issues/6066) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+6. ❗️ Opened issue [#2318](https://github.com/sigstore/cosign/issues/2318) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+8. ❗️ Closed issue [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+9. 🗣 Commented on [#1047](https://github.com/onsi/ginkgo/issues/1047) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+10. 🗣 Commented on [#436](https://github.com/charmbracelet/bubbletea/issues/436) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 <!--END_SECTION:activity-->
