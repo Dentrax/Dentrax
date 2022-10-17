@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13829](https://github.com/netdata/netdata/issues/13829) in [netdata/netdata](https://github.com/netdata/netdata)
-2. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+1. ❗️ Opened issue [#261](https://github.com/antonmedv/expr/issues/261) in [antonmedv/expr](https://github.com/antonmedv/expr)
+2. ❗️ Opened issue [#13829](https://github.com/netdata/netdata/issues/13829) in [netdata/netdata](https://github.com/netdata/netdata)
 3. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
-4. ❗️ Opened issue [#13828](https://github.com/netdata/netdata/issues/13828) in [netdata/netdata](https://github.com/netdata/netdata)
-5. ❗️ Opened issue [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
-6. 🗣 Commented on [#13827](https://github.com/netdata/netdata/issues/13827) in [netdata/netdata](https://github.com/netdata/netdata)
-7. ❗️ Opened issue [#13827](https://github.com/netdata/netdata/issues/13827) in [netdata/netdata](https://github.com/netdata/netdata)
-8. 💪 Opened PR [#472](https://github.com/prometheus/procfs/pull/472) in [prometheus/procfs](https://github.com/prometheus/procfs)
-9. 💪 Opened PR [#471](https://github.com/prometheus/procfs/pull/471) in [prometheus/procfs](https://github.com/prometheus/procfs)
-10. 🗣 Commented on [#6464](https://github.com/grafana/loki/issues/6464) in [grafana/loki](https://github.com/grafana/loki)
+4. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+5. ❗️ Opened issue [#13828](https://github.com/netdata/netdata/issues/13828) in [netdata/netdata](https://github.com/netdata/netdata)
+6. ❗️ Opened issue [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+7. 🗣 Commented on [#13827](https://github.com/netdata/netdata/issues/13827) in [netdata/netdata](https://github.com/netdata/netdata)
+8. ❗️ Opened issue [#13827](https://github.com/netdata/netdata/issues/13827) in [netdata/netdata](https://github.com/netdata/netdata)
+9. 💪 Opened PR [#472](https://github.com/prometheus/procfs/pull/472) in [prometheus/procfs](https://github.com/prometheus/procfs)
+10. 💪 Opened PR [#471](https://github.com/prometheus/procfs/pull/471) in [prometheus/procfs](https://github.com/prometheus/procfs)
 <!--END_SECTION:activity-->
