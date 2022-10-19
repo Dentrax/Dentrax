@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13827](https://github.com/netdata/netdata/issues/13827) in [netdata/netdata](https://github.com/netdata/netdata)
-2. 🗣 Commented on [#472](https://github.com/prometheus/procfs/issues/472) in [prometheus/procfs](https://github.com/prometheus/procfs)
-3. 🗣 Commented on [#5530](https://github.com/coredns/coredns/issues/5530) in [coredns/coredns](https://github.com/coredns/coredns)
-4. 🗣 Commented on [#2254](https://github.com/falcosecurity/falco/issues/2254) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. ❗️ Opened issue [#261](https://github.com/antonmedv/expr/issues/261) in [antonmedv/expr](https://github.com/antonmedv/expr)
-6. ❗️ Opened issue [#13829](https://github.com/netdata/netdata/issues/13829) in [netdata/netdata](https://github.com/netdata/netdata)
-7. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+1. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+2. 🗣 Commented on [#13827](https://github.com/netdata/netdata/issues/13827) in [netdata/netdata](https://github.com/netdata/netdata)
+3. 🗣 Commented on [#472](https://github.com/prometheus/procfs/issues/472) in [prometheus/procfs](https://github.com/prometheus/procfs)
+4. 🗣 Commented on [#5530](https://github.com/coredns/coredns/issues/5530) in [coredns/coredns](https://github.com/coredns/coredns)
+5. 🗣 Commented on [#2254](https://github.com/falcosecurity/falco/issues/2254) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+6. ❗️ Opened issue [#261](https://github.com/antonmedv/expr/issues/261) in [antonmedv/expr](https://github.com/antonmedv/expr)
+7. ❗️ Opened issue [#13829](https://github.com/netdata/netdata/issues/13829) in [netdata/netdata](https://github.com/netdata/netdata)
 8. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
-9. ❗️ Opened issue [#13828](https://github.com/netdata/netdata/issues/13828) in [netdata/netdata](https://github.com/netdata/netdata)
-10. ❗️ Opened issue [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+9. 🗣 Commented on [#616](https://github.com/netdata/netdata-cloud/issues/616) in [netdata/netdata-cloud](https://github.com/netdata/netdata-cloud)
+10. ❗️ Opened issue [#13828](https://github.com/netdata/netdata/issues/13828) in [netdata/netdata](https://github.com/netdata/netdata)
 <!--END_SECTION:activity-->
