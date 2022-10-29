@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+1. 💪 Opened PR [#474](https://github.com/prometheus/procfs/pull/474) in [prometheus/procfs](https://github.com/prometheus/procfs)
 2. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-3. ❗️ Closed issue [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-4. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-5. ❗️ Opened issue [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-6. ❗️ Opened issue [#1866](https://github.com/zellij-org/zellij/issues/1866) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-7. 🗣 Commented on [#159](https://github.com/imsnif/bandwhich/issues/159) in [imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-8. 🗣 Commented on [#237](https://github.com/imsnif/bandwhich/issues/237) in [imsnif/bandwhich](https://github.com/imsnif/bandwhich)
-9. 💪 Opened PR [#870](https://github.com/ko-build/ko/pull/870) in [ko-build/ko](https://github.com/ko-build/ko)
-10. 🗣 Commented on [#3519](https://github.com/spiffe/spire/issues/3519) in [spiffe/spire](https://github.com/spiffe/spire)
+3. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+4. ❗️ Closed issue [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+5. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+6. ❗️ Opened issue [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+7. ❗️ Opened issue [#1866](https://github.com/zellij-org/zellij/issues/1866) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+8. 🗣 Commented on [#159](https://github.com/imsnif/bandwhich/issues/159) in [imsnif/bandwhich](https://github.com/imsnif/bandwhich)
+9. 🗣 Commented on [#237](https://github.com/imsnif/bandwhich/issues/237) in [imsnif/bandwhich](https://github.com/imsnif/bandwhich)
+10. 💪 Opened PR [#870](https://github.com/ko-build/ko/pull/870) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
