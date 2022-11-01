@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/warpdotdev/Warp/issues/22) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-2. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-3. 🗣 Commented on [#154](https://github.com/antonmedv/expr/issues/154) in [antonmedv/expr](https://github.com/antonmedv/expr)
+1. 🗣 Commented on [#3349](https://github.com/grafana/mimir/issues/3349) in [grafana/mimir](https://github.com/grafana/mimir)
+2. 🗣 Commented on [#22](https://github.com/warpdotdev/Warp/issues/22) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+3. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 4. 🗣 Commented on [#154](https://github.com/antonmedv/expr/issues/154) in [antonmedv/expr](https://github.com/antonmedv/expr)
-5. ❗️ Opened issue [#2626](https://github.com/prometheus-community/helm-charts/issues/2626) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-6. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-7. 💪 Opened PR [#474](https://github.com/prometheus/procfs/pull/474) in [prometheus/procfs](https://github.com/prometheus/procfs)
-8. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+5. 🗣 Commented on [#154](https://github.com/antonmedv/expr/issues/154) in [antonmedv/expr](https://github.com/antonmedv/expr)
+6. ❗️ Opened issue [#2626](https://github.com/prometheus-community/helm-charts/issues/2626) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+7. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+8. 💪 Opened PR [#474](https://github.com/prometheus/procfs/pull/474) in [prometheus/procfs](https://github.com/prometheus/procfs)
 9. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-10. ❗️ Closed issue [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+10. 🗣 Commented on [#1867](https://github.com/zellij-org/zellij/issues/1867) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
