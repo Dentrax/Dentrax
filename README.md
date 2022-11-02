@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#475](https://github.com/prometheus/procfs/pull/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
-2. 🗣 Commented on [#853](https://github.com/kubernetes-sigs/descheduler/issues/853) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-3. 💪 Opened PR [#12](https://github.com/AlekSi/pointer/pull/12) in [AlekSi/pointer](https://github.com/AlekSi/pointer)
-4. 🗣 Commented on [#3349](https://github.com/grafana/mimir/issues/3349) in [grafana/mimir](https://github.com/grafana/mimir)
-5. 🗣 Commented on [#22](https://github.com/warpdotdev/Warp/issues/22) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-6. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-7. 🗣 Commented on [#154](https://github.com/antonmedv/expr/issues/154) in [antonmedv/expr](https://github.com/antonmedv/expr)
+1. 🗣 Commented on [#184](https://github.com/kubernetes-sigs/descheduler/issues/184) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. 💪 Opened PR [#475](https://github.com/prometheus/procfs/pull/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
+3. 🗣 Commented on [#853](https://github.com/kubernetes-sigs/descheduler/issues/853) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 💪 Opened PR [#12](https://github.com/AlekSi/pointer/pull/12) in [AlekSi/pointer](https://github.com/AlekSi/pointer)
+5. 🗣 Commented on [#3349](https://github.com/grafana/mimir/issues/3349) in [grafana/mimir](https://github.com/grafana/mimir)
+6. 🗣 Commented on [#22](https://github.com/warpdotdev/Warp/issues/22) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+7. 🗣 Commented on [#696](https://github.com/kubernetes-sigs/descheduler/issues/696) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 8. 🗣 Commented on [#154](https://github.com/antonmedv/expr/issues/154) in [antonmedv/expr](https://github.com/antonmedv/expr)
-9. ❗️ Opened issue [#2626](https://github.com/prometheus-community/helm-charts/issues/2626) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-10. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+9. 🗣 Commented on [#154](https://github.com/antonmedv/expr/issues/154) in [antonmedv/expr](https://github.com/antonmedv/expr)
+10. ❗️ Opened issue [#2626](https://github.com/prometheus-community/helm-charts/issues/2626) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
 <!--END_SECTION:activity-->
