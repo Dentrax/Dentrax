@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/ze-phyr-us/tcviz/issues/11) in [ze-phyr-us/tcviz](https://github.com/ze-phyr-us/tcviz)
-2. ❗️ Opened issue [#478](https://github.com/prometheus/procfs/issues/478) in [prometheus/procfs](https://github.com/prometheus/procfs)
-3. 🗣 Commented on [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
-4. 💪 Opened PR [#477](https://github.com/prometheus/procfs/pull/477) in [prometheus/procfs](https://github.com/prometheus/procfs)
-5. ❗️ Opened issue [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
-6. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-7. 💪 Opened PR [#476](https://github.com/prometheus/procfs/pull/476) in [prometheus/procfs](https://github.com/prometheus/procfs)
-8. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
-9. 🗣 Commented on [#853](https://github.com/kubernetes-sigs/descheduler/issues/853) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. ❗️ Opened issue [#997](https://github.com/kubernetes-sigs/descheduler/issues/997) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 💪 Opened PR [#272](https://github.com/antonmedv/expr/pull/272) in [antonmedv/expr](https://github.com/antonmedv/expr)
+2. ❗️ Opened issue [#11](https://github.com/ze-phyr-us/tcviz/issues/11) in [ze-phyr-us/tcviz](https://github.com/ze-phyr-us/tcviz)
+3. ❗️ Opened issue [#478](https://github.com/prometheus/procfs/issues/478) in [prometheus/procfs](https://github.com/prometheus/procfs)
+4. 🗣 Commented on [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
+5. 💪 Opened PR [#477](https://github.com/prometheus/procfs/pull/477) in [prometheus/procfs](https://github.com/prometheus/procfs)
+6. ❗️ Opened issue [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
+7. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+8. 💪 Opened PR [#476](https://github.com/prometheus/procfs/pull/476) in [prometheus/procfs](https://github.com/prometheus/procfs)
+9. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
+10. 🗣 Commented on [#853](https://github.com/kubernetes-sigs/descheduler/issues/853) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
