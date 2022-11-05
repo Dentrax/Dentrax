@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/antonmedv/expr/issues/272) in [antonmedv/expr](https://github.com/antonmedv/expr)
-2. 💪 Opened PR [#272](https://github.com/antonmedv/expr/pull/272) in [antonmedv/expr](https://github.com/antonmedv/expr)
-3. ❗️ Opened issue [#11](https://github.com/ze-phyr-us/tcviz/issues/11) in [ze-phyr-us/tcviz](https://github.com/ze-phyr-us/tcviz)
-4. ❗️ Opened issue [#478](https://github.com/prometheus/procfs/issues/478) in [prometheus/procfs](https://github.com/prometheus/procfs)
-5. 🗣 Commented on [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
-6. 💪 Opened PR [#477](https://github.com/prometheus/procfs/pull/477) in [prometheus/procfs](https://github.com/prometheus/procfs)
-7. ❗️ Opened issue [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
-8. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-9. 💪 Opened PR [#476](https://github.com/prometheus/procfs/pull/476) in [prometheus/procfs](https://github.com/prometheus/procfs)
-10. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
+1. ❗️ Opened issue [#1145](https://github.com/lima-vm/lima/issues/1145) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. 🗣 Commented on [#11116](https://github.com/helm/helm/issues/11116) in [helm/helm](https://github.com/helm/helm)
+3. 🗣 Commented on [#11116](https://github.com/helm/helm/issues/11116) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+5. 🗣 Commented on [#272](https://github.com/antonmedv/expr/issues/272) in [antonmedv/expr](https://github.com/antonmedv/expr)
+6. 💪 Opened PR [#272](https://github.com/antonmedv/expr/pull/272) in [antonmedv/expr](https://github.com/antonmedv/expr)
+7. ❗️ Opened issue [#11](https://github.com/ze-phyr-us/tcviz/issues/11) in [ze-phyr-us/tcviz](https://github.com/ze-phyr-us/tcviz)
+8. ❗️ Opened issue [#478](https://github.com/prometheus/procfs/issues/478) in [prometheus/procfs](https://github.com/prometheus/procfs)
+9. 🗣 Commented on [#270](https://github.com/antonmedv/expr/issues/270) in [antonmedv/expr](https://github.com/antonmedv/expr)
+10. 💪 Opened PR [#477](https://github.com/prometheus/procfs/pull/477) in [prometheus/procfs](https://github.com/prometheus/procfs)
 <!--END_SECTION:activity-->
