@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
-2. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 🗣 Commented on [#49](https://github.com/spf13/cobra-cli/issues/49) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
+2. 🗣 Commented on [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
 3. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. ❗️ Opened issue [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
-5. 🗣 Commented on [#161](https://github.com/antonmedv/expr/issues/161) in [antonmedv/expr](https://github.com/antonmedv/expr)
-6. ❗️ Opened issue [#3666](https://github.com/opencontainers/runc/issues/3666) in [opencontainers/runc](https://github.com/opencontainers/runc)
-7. 🗣 Commented on [#103](https://github.com/google/uuid/issues/103) in [google/uuid](https://github.com/google/uuid)
-8. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277) in [antonmedv/expr](https://github.com/antonmedv/expr)
-9. ❗️ Opened issue [#287](https://github.com/antonmedv/expr/issues/287) in [antonmedv/expr](https://github.com/antonmedv/expr)
-10. ❗️ Opened issue [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
+4. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. ❗️ Opened issue [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
+6. 🗣 Commented on [#161](https://github.com/antonmedv/expr/issues/161) in [antonmedv/expr](https://github.com/antonmedv/expr)
+7. ❗️ Opened issue [#3666](https://github.com/opencontainers/runc/issues/3666) in [opencontainers/runc](https://github.com/opencontainers/runc)
+8. 🗣 Commented on [#103](https://github.com/google/uuid/issues/103) in [google/uuid](https://github.com/google/uuid)
+9. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277) in [antonmedv/expr](https://github.com/antonmedv/expr)
+10. ❗️ Opened issue [#287](https://github.com/antonmedv/expr/issues/287) in [antonmedv/expr](https://github.com/antonmedv/expr)
 <!--END_SECTION:activity-->
