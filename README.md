@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#99](https://github.com/medyo/hackertab.dev/issues/99) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
-2. 🗣 Commented on [#49](https://github.com/spf13/cobra-cli/issues/49) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
-3. 🗣 Commented on [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
-4. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+1. 🗣 Commented on [#99](https://github.com/medyo/hackertab.dev/issues/99) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+2. ❗️ Opened issue [#99](https://github.com/medyo/hackertab.dev/issues/99) in [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev)
+3. 🗣 Commented on [#49](https://github.com/spf13/cobra-cli/issues/49) in [spf13/cobra-cli](https://github.com/spf13/cobra-cli)
+4. 🗣 Commented on [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
 5. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-6. ❗️ Opened issue [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
-7. 🗣 Commented on [#161](https://github.com/antonmedv/expr/issues/161) in [antonmedv/expr](https://github.com/antonmedv/expr)
-8. ❗️ Opened issue [#3666](https://github.com/opencontainers/runc/issues/3666) in [opencontainers/runc](https://github.com/opencontainers/runc)
-9. 🗣 Commented on [#103](https://github.com/google/uuid/issues/103) in [google/uuid](https://github.com/google/uuid)
-10. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277) in [antonmedv/expr](https://github.com/antonmedv/expr)
+6. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+7. ❗️ Opened issue [#288](https://github.com/antonmedv/expr/issues/288) in [antonmedv/expr](https://github.com/antonmedv/expr)
+8. 🗣 Commented on [#161](https://github.com/antonmedv/expr/issues/161) in [antonmedv/expr](https://github.com/antonmedv/expr)
+9. ❗️ Opened issue [#3666](https://github.com/opencontainers/runc/issues/3666) in [opencontainers/runc](https://github.com/opencontainers/runc)
+10. 🗣 Commented on [#103](https://github.com/google/uuid/issues/103) in [google/uuid](https://github.com/google/uuid)
 <!--END_SECTION:activity-->
