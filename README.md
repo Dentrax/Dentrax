@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#131](https://github.com/wolfi-dev/os/issues/131) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. ❗️ Opened issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+2. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#131](https://github.com/wolfi-dev/os/issues/131) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 4. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-5. 🗣 Commented on [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
-6. ❌ Reopened PR [#1120](https://github.com/sigstore/cosign/pull/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
-8. ❗️ Opened issue [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
-9. 🗣 Commented on [#166](https://github.com/chainguard-dev/melange/issues/166) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-10. ❗️ Opened issue [#415](https://github.com/chainguard-dev/apko/issues/415) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+5. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+6. 🗣 Commented on [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
+7. ❌ Reopened PR [#1120](https://github.com/sigstore/cosign/pull/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
+9. ❗️ Opened issue [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
+10. 🗣 Commented on [#166](https://github.com/chainguard-dev/melange/issues/166) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
 <!--END_SECTION:activity-->
