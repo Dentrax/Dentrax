@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2095](https://github.com/dexidp/dex/issues/2095) in [dexidp/dex](https://github.com/dexidp/dex)
-2. ❗️ Closed issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
-3. 🗣 Commented on [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
-4. 💪 Opened PR [#64](https://github.com/runfinch/finch/pull/64) in [runfinch/finch](https://github.com/runfinch/finch)
-5. ❗️ Opened issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
-6. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 🗣 Commented on [#131](https://github.com/wolfi-dev/os/issues/131) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#981](https://github.com/spf13/cobra/issues/981) in [spf13/cobra](https://github.com/spf13/cobra)
+2. 🗣 Commented on [#2095](https://github.com/dexidp/dex/issues/2095) in [dexidp/dex](https://github.com/dexidp/dex)
+3. ❗️ Closed issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+4. 🗣 Commented on [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+5. 💪 Opened PR [#64](https://github.com/runfinch/finch/pull/64) in [runfinch/finch](https://github.com/runfinch/finch)
+6. ❗️ Opened issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+7. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 🗣 Commented on [#131](https://github.com/wolfi-dev/os/issues/131) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 9. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-10. 🗣 Commented on [#4867](https://github.com/helix-editor/helix/issues/4867) in [helix-editor/helix](https://github.com/helix-editor/helix)
+10. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
