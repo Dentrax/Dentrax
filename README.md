@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#318](https://github.com/iovisor/gobpf/issues/318) in [iovisor/gobpf](https://github.com/iovisor/gobpf)
-2. 🗣 Commented on [#214](https://github.com/iovisor/gobpf/issues/214) in [iovisor/gobpf](https://github.com/iovisor/gobpf)
-3. 🗣 Commented on [#981](https://github.com/spf13/cobra/issues/981) in [spf13/cobra](https://github.com/spf13/cobra)
-4. 🗣 Commented on [#2095](https://github.com/dexidp/dex/issues/2095) in [dexidp/dex](https://github.com/dexidp/dex)
-5. ❗️ Closed issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
-6. 🗣 Commented on [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
-7. 💪 Opened PR [#64](https://github.com/runfinch/finch/pull/64) in [runfinch/finch](https://github.com/runfinch/finch)
-8. ❗️ Opened issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
-9. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#131](https://github.com/wolfi-dev/os/issues/131) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#4378](https://github.com/iovisor/bcc/pull/4378) in [iovisor/bcc](https://github.com/iovisor/bcc)
+2. ❗️ Opened issue [#318](https://github.com/iovisor/gobpf/issues/318) in [iovisor/gobpf](https://github.com/iovisor/gobpf)
+3. 🗣 Commented on [#214](https://github.com/iovisor/gobpf/issues/214) in [iovisor/gobpf](https://github.com/iovisor/gobpf)
+4. 🗣 Commented on [#981](https://github.com/spf13/cobra/issues/981) in [spf13/cobra](https://github.com/spf13/cobra)
+5. 🗣 Commented on [#2095](https://github.com/dexidp/dex/issues/2095) in [dexidp/dex](https://github.com/dexidp/dex)
+6. ❗️ Closed issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+7. 🗣 Commented on [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+8. 💪 Opened PR [#64](https://github.com/runfinch/finch/pull/64) in [runfinch/finch](https://github.com/runfinch/finch)
+9. ❗️ Opened issue [#63](https://github.com/runfinch/finch/issues/63) in [runfinch/finch](https://github.com/runfinch/finch)
+10. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
