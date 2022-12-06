@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Reopened issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-6. 🗣 Commented on [#521](https://github.com/manosim/gitify/issues/521) in [manosim/gitify](https://github.com/manosim/gitify)
-7. ❗️ Opened issue [#8](https://github.com/MariaLetta/free-gophers-pack/issues/8) in [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
-8. ❗️ Opened issue [#429](https://github.com/chainguard-dev/apko/issues/429) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-9. 🗣 Commented on [#414](https://github.com/chainguard-dev/apko/issues/414) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-10. 💪 Opened PR [#4378](https://github.com/iovisor/bcc/pull/4378) in [iovisor/bcc](https://github.com/iovisor/bcc)
+1. 🗣 Commented on [#521](https://github.com/manosim/gitify/issues/521) in [manosim/gitify](https://github.com/manosim/gitify)
+2. ❗️ Closed issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. 🗣 Commented on [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+6. ❗️ Reopened issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+7. 🗣 Commented on [#521](https://github.com/manosim/gitify/issues/521) in [manosim/gitify](https://github.com/manosim/gitify)
+8. ❗️ Opened issue [#8](https://github.com/MariaLetta/free-gophers-pack/issues/8) in [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
+9. ❗️ Opened issue [#429](https://github.com/chainguard-dev/apko/issues/429) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+10. 🗣 Commented on [#414](https://github.com/chainguard-dev/apko/issues/414) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
 <!--END_SECTION:activity-->
