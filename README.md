@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#2](https://github.com/wolfi-dev/wolfictl/pull/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-3. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+2. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#2](https://github.com/wolfi-dev/wolfictl/pull/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 4. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
-6. ❗️ Opened issue [#1280](https://github.com/cilium/cilium-cli/issues/1280) in [cilium/cilium-cli](https://github.com/cilium/cilium-cli)
-7. ❗️ Opened issue [#22613](https://github.com/cilium/cilium/issues/22613) in [cilium/cilium](https://github.com/cilium/cilium)
-8. 🗣 Commented on [#8802](https://github.com/kubernetes-sigs/kubespray/issues/8802) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-9. 🗣 Commented on [#521](https://github.com/manosim/gitify/issues/521) in [manosim/gitify](https://github.com/manosim/gitify)
-10. ❗️ Closed issue [#2666](https://github.com/goreleaser/goreleaser/issues/2666) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
+7. ❗️ Opened issue [#1280](https://github.com/cilium/cilium-cli/issues/1280) in [cilium/cilium-cli](https://github.com/cilium/cilium-cli)
+8. ❗️ Opened issue [#22613](https://github.com/cilium/cilium/issues/22613) in [cilium/cilium](https://github.com/cilium/cilium)
+9. 🗣 Commented on [#8802](https://github.com/kubernetes-sigs/kubespray/issues/8802) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+10. 🗣 Commented on [#521](https://github.com/manosim/gitify/issues/521) in [manosim/gitify](https://github.com/manosim/gitify)
 <!--END_SECTION:activity-->
