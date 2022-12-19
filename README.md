@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
-2. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
-3. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-4. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+1. ❗️ Opened issue [#278](https://github.com/wolfi-dev/os/issues/278) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❗️ Opened issue [#216](https://github.com/chainguard-dev/melange/issues/216) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+3. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
 5. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-6. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#2](https://github.com/wolfi-dev/wolfictl/pull/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+6. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+7. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 8. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
+9. 💪 Opened PR [#2](https://github.com/wolfi-dev/wolfictl/pull/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+10. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
