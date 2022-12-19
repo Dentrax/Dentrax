@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
-2. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+1. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+2. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
 3. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 4. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-5. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#2](https://github.com/wolfi-dev/wolfictl/pull/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-7. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+6. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#2](https://github.com/wolfi-dev/wolfictl/pull/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 8. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
-10. ❗️ Opened issue [#1280](https://github.com/cilium/cilium-cli/issues/1280) in [cilium/cilium-cli](https://github.com/cilium/cilium-cli)
+9. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
 <!--END_SECTION:activity-->
