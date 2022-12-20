@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#567](https://github.com/FairwindsOps/goldilocks/issues/567) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
-2. 🗣 Commented on [#116](https://github.com/hashicorp/golang-lru/issues/116) in [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)
-3. 💪 Opened PR [#4](https://github.com/wolfi-dev/wolfictl/pull/4) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-4. ❗️ Opened issue [#3](https://github.com/wolfi-dev/wolfictl/issues/3) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-5. ❗️ Opened issue [#278](https://github.com/wolfi-dev/os/issues/278) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. ❗️ Opened issue [#216](https://github.com/chainguard-dev/melange/issues/216) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-7. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
-8. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
-9. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+1. 🗣 Commented on [#58](https://github.com/hashicorp/consul-k8s/issues/58) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+2. ❗️ Opened issue [#567](https://github.com/FairwindsOps/goldilocks/issues/567) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
+3. 🗣 Commented on [#116](https://github.com/hashicorp/golang-lru/issues/116) in [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)
+4. 💪 Opened PR [#4](https://github.com/wolfi-dev/wolfictl/pull/4) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+5. ❗️ Opened issue [#3](https://github.com/wolfi-dev/wolfictl/issues/3) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+6. ❗️ Opened issue [#278](https://github.com/wolfi-dev/os/issues/278) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. ❗️ Opened issue [#216](https://github.com/chainguard-dev/melange/issues/216) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+8. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+9. 🗣 Commented on [#475](https://github.com/prometheus/procfs/issues/475) in [prometheus/procfs](https://github.com/prometheus/procfs)
 10. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 <!--END_SECTION:activity-->
