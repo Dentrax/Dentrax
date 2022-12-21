@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-2. ❗️ Opened issue [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. ❗️ Opened issue [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-4. 🗣 Commented on [#58](https://github.com/hashicorp/consul-k8s/issues/58) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-5. ❗️ Opened issue [#567](https://github.com/FairwindsOps/goldilocks/issues/567) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
-6. 🗣 Commented on [#116](https://github.com/hashicorp/golang-lru/issues/116) in [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)
-7. 💪 Opened PR [#4](https://github.com/wolfi-dev/wolfictl/pull/4) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-8. ❗️ Opened issue [#3](https://github.com/wolfi-dev/wolfictl/issues/3) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-9. ❗️ Opened issue [#278](https://github.com/wolfi-dev/os/issues/278) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. ❗️ Opened issue [#216](https://github.com/chainguard-dev/melange/issues/216) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+4. ❗️ Opened issue [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. ❗️ Opened issue [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+6. 🗣 Commented on [#58](https://github.com/hashicorp/consul-k8s/issues/58) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+7. ❗️ Opened issue [#567](https://github.com/FairwindsOps/goldilocks/issues/567) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
+8. 🗣 Commented on [#116](https://github.com/hashicorp/golang-lru/issues/116) in [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)
+9. 💪 Opened PR [#4](https://github.com/wolfi-dev/wolfictl/pull/4) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+10. ❗️ Opened issue [#3](https://github.com/wolfi-dev/wolfictl/issues/3) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 <!--END_SECTION:activity-->
