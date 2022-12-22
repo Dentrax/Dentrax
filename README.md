@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-2. 🗣 Commented on [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
-3. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-4. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-6. ❗️ Opened issue [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-7. ❗️ Opened issue [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-8. 🗣 Commented on [#58](https://github.com/hashicorp/consul-k8s/issues/58) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-9. ❗️ Opened issue [#567](https://github.com/FairwindsOps/goldilocks/issues/567) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
-10. 🗣 Commented on [#116](https://github.com/hashicorp/golang-lru/issues/116) in [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)
+1. 💪 Opened PR [#2336](https://github.com/falcosecurity/falco/pull/2336) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+3. 🗣 Commented on [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
+4. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+6. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+7. ❗️ Opened issue [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+8. ❗️ Opened issue [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+9. 🗣 Commented on [#58](https://github.com/hashicorp/consul-k8s/issues/58) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+10. ❗️ Opened issue [#567](https://github.com/FairwindsOps/goldilocks/issues/567) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
 <!--END_SECTION:activity-->
