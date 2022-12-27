@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/antonmedv/expr/issues/106) in [antonmedv/expr](https://github.com/antonmedv/expr)
-2. 🗣 Commented on [#4558](https://github.com/helm/helm/issues/4558) in [helm/helm](https://github.com/helm/helm)
-3. 🗣 Commented on [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
-4. 💪 Opened PR [#2336](https://github.com/falcosecurity/falco/pull/2336) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-6. 🗣 Commented on [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
-7. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-8. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-9. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-10. ❗️ Opened issue [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. 🗣 Commented on [#1292](https://github.com/dexidp/dex/issues/1292) in [dexidp/dex](https://github.com/dexidp/dex)
+2. 🗣 Commented on [#106](https://github.com/antonmedv/expr/issues/106) in [antonmedv/expr](https://github.com/antonmedv/expr)
+3. 🗣 Commented on [#4558](https://github.com/helm/helm/issues/4558) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
+5. 💪 Opened PR [#2336](https://github.com/falcosecurity/falco/pull/2336) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+6. 🗣 Commented on [#503](https://github.com/kubernetes-sigs/descheduler/issues/503) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+7. 🗣 Commented on [#480](https://github.com/prometheus/procfs/issues/480) in [prometheus/procfs](https://github.com/prometheus/procfs)
+8. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+9. 🗣 Commented on [#1772](https://github.com/falcosecurity/falco/issues/1772) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+10. 🗣 Commented on [#2334](https://github.com/falcosecurity/falco/issues/2334) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
