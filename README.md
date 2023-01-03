@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#851](https://github.com/int128/kubelogin/issues/851) in [int128/kubelogin](https://github.com/int128/kubelogin)
-2. ❗️ Opened issue [#683](https://github.com/Byron/gitoxide/issues/683) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
-3. ❗️ Opened issue [#355](https://github.com/wolfi-dev/os/issues/355) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#827](https://github.com/dexidp/dex/issues/827) in [dexidp/dex](https://github.com/dexidp/dex)
-5. ❗️ Opened issue [#1](https://github.com/fouadsemaan/ansible-dex/issues/1) in [fouadsemaan/ansible-dex](https://github.com/fouadsemaan/ansible-dex)
-6. 🗣 Commented on [#6113](https://github.com/fluent/fluent-bit/issues/6113) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-7. 🗣 Commented on [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
-8. 🗣 Commented on [#1292](https://github.com/dexidp/dex/issues/1292) in [dexidp/dex](https://github.com/dexidp/dex)
-9. 🗣 Commented on [#106](https://github.com/antonmedv/expr/issues/106) in [antonmedv/expr](https://github.com/antonmedv/expr)
-10. 🗣 Commented on [#4558](https://github.com/helm/helm/issues/4558) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. 🗣 Commented on [#683](https://github.com/Byron/gitoxide/issues/683) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
+3. ❗️ Opened issue [#851](https://github.com/int128/kubelogin/issues/851) in [int128/kubelogin](https://github.com/int128/kubelogin)
+4. ❗️ Opened issue [#683](https://github.com/Byron/gitoxide/issues/683) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
+5. ❗️ Opened issue [#355](https://github.com/wolfi-dev/os/issues/355) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#827](https://github.com/dexidp/dex/issues/827) in [dexidp/dex](https://github.com/dexidp/dex)
+7. ❗️ Opened issue [#1](https://github.com/fouadsemaan/ansible-dex/issues/1) in [fouadsemaan/ansible-dex](https://github.com/fouadsemaan/ansible-dex)
+8. 🗣 Commented on [#6113](https://github.com/fluent/fluent-bit/issues/6113) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+9. 🗣 Commented on [#81](https://github.com/sbstp/kubie/issues/81) in [sbstp/kubie](https://github.com/sbstp/kubie)
+10. 🗣 Commented on [#1292](https://github.com/dexidp/dex/issues/1292) in [dexidp/dex](https://github.com/dexidp/dex)
 <!--END_SECTION:activity-->
