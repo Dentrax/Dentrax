@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#426](https://github.com/wolfi-dev/os/pull/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#748](https://github.com/ko-build/ko/issues/748) in [ko-build/ko](https://github.com/ko-build/ko)
-4. ❗️ Opened issue [#2346](https://github.com/falcosecurity/falco/issues/2346) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. 🗣 Commented on [#57616](https://github.com/golang/go/issues/57616) in [golang/go](https://github.com/golang/go)
-6. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
-7. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. 🗣 Commented on [#683](https://github.com/Byron/gitoxide/issues/683) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
-9. ❗️ Opened issue [#851](https://github.com/int128/kubelogin/issues/851) in [int128/kubelogin](https://github.com/int128/kubelogin)
-10. ❗️ Opened issue [#683](https://github.com/Byron/gitoxide/issues/683) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
+1. ❗️ Opened issue [#2624](https://github.com/sigstore/cosign/issues/2624) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#426](https://github.com/wolfi-dev/os/pull/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#748](https://github.com/ko-build/ko/issues/748) in [ko-build/ko](https://github.com/ko-build/ko)
+5. ❗️ Opened issue [#2346](https://github.com/falcosecurity/falco/issues/2346) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+6. 🗣 Commented on [#57616](https://github.com/golang/go/issues/57616) in [golang/go](https://github.com/golang/go)
+7. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+8. 🗣 Commented on [#951](https://github.com/kubernetes-sigs/descheduler/issues/951) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+9. 🗣 Commented on [#683](https://github.com/Byron/gitoxide/issues/683) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
+10. ❗️ Opened issue [#851](https://github.com/int128/kubelogin/issues/851) in [int128/kubelogin](https://github.com/int128/kubelogin)
 <!--END_SECTION:activity-->
