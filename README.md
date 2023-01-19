@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-2. 🗣 Commented on [#12](https://github.com/awesomeSBOM/awesome-sbom/issues/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-3. 🎉 Merged PR [#12](https://github.com/awesomeSBOM/awesome-sbom/pull/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. ❗️ Opened issue [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. ❗️ Opened issue [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+3. 🗣 Commented on [#12](https://github.com/awesomeSBOM/awesome-sbom/issues/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🎉 Merged PR [#12](https://github.com/awesomeSBOM/awesome-sbom/pull/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 5. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-7. 💪 Opened PR [#488](https://github.com/prometheus/procfs/pull/488) in [prometheus/procfs](https://github.com/prometheus/procfs)
-8. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. ❗️ Opened issue [#2624](https://github.com/sigstore/cosign/issues/2624) in [sigstore/cosign](https://github.com/sigstore/cosign)
-10. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+8. 💪 Opened PR [#488](https://github.com/prometheus/procfs/pull/488) in [prometheus/procfs](https://github.com/prometheus/procfs)
+9. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. ❗️ Opened issue [#2624](https://github.com/sigstore/cosign/issues/2624) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
