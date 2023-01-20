@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-2. 🗣 Commented on [#527](https://github.com/falcosecurity/falco-website/issues/527) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-3. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#5777](https://github.com/coredns/coredns/issues/5777) in [coredns/coredns](https://github.com/coredns/coredns)
-5. 🗣 Commented on [#5915](https://github.com/fluent/fluent-bit/issues/5915) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-6. ❌ Closed PR [#3](https://github.com/Trendyol/gaos/pull/3) in [Trendyol/gaos](https://github.com/Trendyol/gaos)
-7. 🗣 Commented on [#423](https://github.com/wagoodman/dive/issues/423) in [wagoodman/dive](https://github.com/wagoodman/dive)
-8. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
-9. 🗣 Commented on [#11111](https://github.com/helm/helm/issues/11111) in [helm/helm](https://github.com/helm/helm)
-10. 🗣 Commented on [#6901](https://github.com/helm/helm/issues/6901) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+2. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+3. 🗣 Commented on [#527](https://github.com/falcosecurity/falco-website/issues/527) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#5777](https://github.com/coredns/coredns/issues/5777) in [coredns/coredns](https://github.com/coredns/coredns)
+6. 🗣 Commented on [#5915](https://github.com/fluent/fluent-bit/issues/5915) in [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+7. ❌ Closed PR [#3](https://github.com/Trendyol/gaos/pull/3) in [Trendyol/gaos](https://github.com/Trendyol/gaos)
+8. 🗣 Commented on [#423](https://github.com/wagoodman/dive/issues/423) in [wagoodman/dive](https://github.com/wagoodman/dive)
+9. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
+10. 🗣 Commented on [#11111](https://github.com/helm/helm/issues/11111) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
