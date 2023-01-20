@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/kubernetes-sigs/descheduler/issues/950) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-2. 🗣 Commented on [#456](https://github.com/wolfi-dev/os/issues/456) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#20](https://github.com/sigstore/cosign-gatekeeper-provider/issues/20) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-4. ❗️ Opened issue [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. ❗️ Opened issue [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-6. 🗣 Commented on [#12](https://github.com/awesomeSBOM/awesome-sbom/issues/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-7. 🎉 Merged PR [#12](https://github.com/awesomeSBOM/awesome-sbom/pull/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-8. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#706](https://github.com/kubernetes/node-problem-detector/issues/706) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+1. ❗️ Opened issue [#1047](https://github.com/kubernetes-sigs/descheduler/issues/1047) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. ❗️ Opened issue [#1046](https://github.com/kubernetes-sigs/descheduler/issues/1046) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+3. 🗣 Commented on [#950](https://github.com/kubernetes-sigs/descheduler/issues/950) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#456](https://github.com/wolfi-dev/os/issues/456) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#20](https://github.com/sigstore/cosign-gatekeeper-provider/issues/20) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+6. ❗️ Opened issue [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
+7. ❗️ Opened issue [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+8. 🗣 Commented on [#12](https://github.com/awesomeSBOM/awesome-sbom/issues/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+9. 🎉 Merged PR [#12](https://github.com/awesomeSBOM/awesome-sbom/pull/12) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+10. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
