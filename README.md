@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/census-instrumentation/opencensus-go/issues/334) in [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go)
-2. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-3. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-4. 🗣 Commented on [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-5. 💪 Opened PR [#3225](https://github.com/prometheus/alertmanager/pull/3225) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-6. 🗣 Commented on [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-7. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-8. 🗣 Commented on [#527](https://github.com/falcosecurity/falco-website/issues/527) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-9. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-10. 🗣 Commented on [#5777](https://github.com/coredns/coredns/issues/5777) in [coredns/coredns](https://github.com/coredns/coredns)
+1. ❗️ Closed issue [#950](https://github.com/kubernetes-sigs/descheduler/issues/950) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. 🗣 Commented on [#334](https://github.com/census-instrumentation/opencensus-go/issues/334) in [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go)
+3. 🗣 Commented on [#958](https://github.com/kubernetes-sigs/descheduler/issues/958) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+4. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. 🗣 Commented on [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+6. 💪 Opened PR [#3225](https://github.com/prometheus/alertmanager/pull/3225) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+7. 🗣 Commented on [#3217](https://github.com/prometheus/alertmanager/issues/3217) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+8. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+9. 🗣 Commented on [#527](https://github.com/falcosecurity/falco-website/issues/527) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+10. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
