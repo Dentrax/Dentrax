@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1219](https://github.com/prometheus/client_golang/issues/1219) in [prometheus/client_golang](https://github.com/prometheus/client_golang)
-2. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#1219](https://github.com/prometheus/client_golang/issues/1219) in [prometheus/client_golang](https://github.com/prometheus/client_golang)
 3. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#456](https://github.com/wolfi-dev/os/issues/456) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-6. 🗣 Commented on [#60](https://github.com/bwplotka/mdox/issues/60) in [bwplotka/mdox](https://github.com/bwplotka/mdox)
-7. 🗣 Commented on [#2376](https://github.com/sigstore/cosign/issues/2376) in [sigstore/cosign](https://github.com/sigstore/cosign)
-8. 🗣 Commented on [#488](https://github.com/prometheus/procfs/issues/488) in [prometheus/procfs](https://github.com/prometheus/procfs)
-9. ❗️ Closed issue [#950](https://github.com/kubernetes-sigs/descheduler/issues/950) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-10. 🗣 Commented on [#334](https://github.com/census-instrumentation/opencensus-go/issues/334) in [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go)
+4. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#456](https://github.com/wolfi-dev/os/issues/456) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+7. 🗣 Commented on [#60](https://github.com/bwplotka/mdox/issues/60) in [bwplotka/mdox](https://github.com/bwplotka/mdox)
+8. 🗣 Commented on [#2376](https://github.com/sigstore/cosign/issues/2376) in [sigstore/cosign](https://github.com/sigstore/cosign)
+9. 🗣 Commented on [#488](https://github.com/prometheus/procfs/issues/488) in [prometheus/procfs](https://github.com/prometheus/procfs)
+10. ❗️ Closed issue [#950](https://github.com/kubernetes-sigs/descheduler/issues/950) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
