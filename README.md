@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/sigstore/cosign-gatekeeper-provider/issues/27) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-2. 🗣 Commented on [#24](https://github.com/sigstore/cosign-gatekeeper-provider/issues/24) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-3. 🎉 Merged PR [#24](https://github.com/sigstore/cosign-gatekeeper-provider/pull/24) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-4. ❗️ Opened issue [#28](https://github.com/sigstore/cosign-gatekeeper-provider/issues/28) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-5. 🗣 Commented on [#26](https://github.com/melbahja/goph/issues/26) in [melbahja/goph](https://github.com/melbahja/goph)
-6. 🗣 Commented on [#26](https://github.com/melbahja/goph/issues/26) in [melbahja/goph](https://github.com/melbahja/goph)
-7. ❌ Closed PR [#17](https://github.com/sigstore/cosign-gatekeeper-provider/pull/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-8. 🗣 Commented on [#17](https://github.com/sigstore/cosign-gatekeeper-provider/issues/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-9. 🗣 Commented on [#5485](https://github.com/kyverno/kyverno/issues/5485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-10. ❗️ Opened issue [#1219](https://github.com/prometheus/client_golang/issues/1219) in [prometheus/client_golang](https://github.com/prometheus/client_golang)
+1. 🗣 Commented on [#25](https://github.com/sigstore/cosign-gatekeeper-provider/issues/25) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+2. 🎉 Merged PR [#25](https://github.com/sigstore/cosign-gatekeeper-provider/pull/25) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+3. 🗣 Commented on [#26](https://github.com/sigstore/cosign-gatekeeper-provider/issues/26) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+4. 🗣 Commented on [#27](https://github.com/sigstore/cosign-gatekeeper-provider/issues/27) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+5. 🗣 Commented on [#24](https://github.com/sigstore/cosign-gatekeeper-provider/issues/24) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+6. 🎉 Merged PR [#24](https://github.com/sigstore/cosign-gatekeeper-provider/pull/24) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+7. ❗️ Opened issue [#28](https://github.com/sigstore/cosign-gatekeeper-provider/issues/28) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+8. 🗣 Commented on [#26](https://github.com/melbahja/goph/issues/26) in [melbahja/goph](https://github.com/melbahja/goph)
+9. 🗣 Commented on [#26](https://github.com/melbahja/goph/issues/26) in [melbahja/goph](https://github.com/melbahja/goph)
+10. ❌ Closed PR [#17](https://github.com/sigstore/cosign-gatekeeper-provider/pull/17) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
 <!--END_SECTION:activity-->
