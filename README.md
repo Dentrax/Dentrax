@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
-2. ❗️ Opened issue [#1230](https://github.com/uber-go/zap/issues/1230) in [uber-go/zap](https://github.com/uber-go/zap)
-3. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/issues/3199) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-4. ❗️ Opened issue [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
-5. ❗️ Opened issue [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
-6. 🎉 Merged PR [#21](https://github.com/sigstore/cosign-gatekeeper-provider/pull/21) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-7. 🎉 Merged PR [#26](https://github.com/sigstore/cosign-gatekeeper-provider/pull/26) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-8. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-9. ❗️ Opened issue [#1898](https://github.com/hashicorp/consul-k8s/issues/1898) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-10. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+1. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
+3. ❗️ Opened issue [#1230](https://github.com/uber-go/zap/issues/1230) in [uber-go/zap](https://github.com/uber-go/zap)
+4. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/issues/3199) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+5. ❗️ Opened issue [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
+6. ❗️ Opened issue [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
+7. 🎉 Merged PR [#21](https://github.com/sigstore/cosign-gatekeeper-provider/pull/21) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+8. 🎉 Merged PR [#26](https://github.com/sigstore/cosign-gatekeeper-provider/pull/26) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+9. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+10. ❗️ Opened issue [#1898](https://github.com/hashicorp/consul-k8s/issues/1898) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
 <!--END_SECTION:activity-->
