@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-2. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🗣 Commented on [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
-4. ❗️ Opened issue [#1230](https://github.com/uber-go/zap/issues/1230) in [uber-go/zap](https://github.com/uber-go/zap)
-5. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/issues/3199) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-6. ❗️ Opened issue [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
-7. ❗️ Opened issue [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
-8. 🎉 Merged PR [#21](https://github.com/sigstore/cosign-gatekeeper-provider/pull/21) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-9. 🎉 Merged PR [#26](https://github.com/sigstore/cosign-gatekeeper-provider/pull/26) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-10. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/metrics-server/issues/1027) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+2. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+3. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
+5. ❗️ Opened issue [#1230](https://github.com/uber-go/zap/issues/1230) in [uber-go/zap](https://github.com/uber-go/zap)
+6. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/issues/3199) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+7. ❗️ Opened issue [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
+8. ❗️ Opened issue [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
+9. 🎉 Merged PR [#21](https://github.com/sigstore/cosign-gatekeeper-provider/pull/21) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+10. 🎉 Merged PR [#26](https://github.com/sigstore/cosign-gatekeeper-provider/pull/26) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
 <!--END_SECTION:activity-->
