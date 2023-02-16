@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
 2. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
-3. 🗣 Commented on [#17](https://github.com/wolfi-dev/wolfictl/issues/17) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-4. 🗣 Commented on [#59](https://github.com/wolfi-dev/wolfictl/issues/59) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-5. ❗️ Opened issue [#3781](https://github.com/goreleaser/goreleaser/issues/3781) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-6. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+3. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#17](https://github.com/wolfi-dev/wolfictl/issues/17) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+5. 🗣 Commented on [#59](https://github.com/wolfi-dev/wolfictl/issues/59) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+6. ❗️ Opened issue [#3781](https://github.com/goreleaser/goreleaser/issues/3781) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 7. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-8. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
-9. 🗣 Commented on [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
-10. ❗️ Opened issue [#1230](https://github.com/uber-go/zap/issues/1230) in [uber-go/zap](https://github.com/uber-go/zap)
+8. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+9. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
+10. 🗣 Commented on [#171](https://github.com/go-logr/logr/issues/171) in [go-logr/logr](https://github.com/go-logr/logr)
 <!--END_SECTION:activity-->
