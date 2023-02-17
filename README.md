@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#598](https://github.com/wolfi-dev/os/issues/598) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-3. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-5. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#14](https://github.com/awesomeSBOM/awesome-sbom/issues/14) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. ❗️ Opened issue [#598](https://github.com/wolfi-dev/os/issues/598) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+4. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
 6. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
-7. 🗣 Commented on [#17](https://github.com/wolfi-dev/wolfictl/issues/17) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-8. 🗣 Commented on [#59](https://github.com/wolfi-dev/wolfictl/issues/59) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-9. ❗️ Opened issue [#3781](https://github.com/goreleaser/goreleaser/issues/3781) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-10. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+7. 🗣 Commented on [#10920](https://github.com/helm/helm/issues/10920) in [helm/helm](https://github.com/helm/helm)
+8. 🗣 Commented on [#17](https://github.com/wolfi-dev/wolfictl/issues/17) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+9. 🗣 Commented on [#59](https://github.com/wolfi-dev/wolfictl/issues/59) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+10. ❗️ Opened issue [#3781](https://github.com/goreleaser/goreleaser/issues/3781) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
