@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2684](https://github.com/ossf/scorecard/issues/2684) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🗣 Commented on [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
-4. 🗣 Commented on [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
-5. 🗣 Commented on [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
-6. ❗️ Opened issue [#219](https://github.com/google/osv-scanner/issues/219) in [google/osv-scanner](https://github.com/google/osv-scanner)
-7. ❗️ Opened issue [#218](https://github.com/google/osv-scanner/issues/218) in [google/osv-scanner](https://github.com/google/osv-scanner)
-8. ❗️ Opened issue [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
-9. ❗️ Opened issue [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
-10. 🗣 Commented on [#57](https://github.com/google/osv-scanner/issues/57) in [google/osv-scanner](https://github.com/google/osv-scanner)
+1. ❗️ Opened issue [#619](https://github.com/wolfi-dev/os/issues/619) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❗️ Opened issue [#2684](https://github.com/ossf/scorecard/issues/2684) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
+5. 🗣 Commented on [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
+6. 🗣 Commented on [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
+7. ❗️ Opened issue [#219](https://github.com/google/osv-scanner/issues/219) in [google/osv-scanner](https://github.com/google/osv-scanner)
+8. ❗️ Opened issue [#218](https://github.com/google/osv-scanner/issues/218) in [google/osv-scanner](https://github.com/google/osv-scanner)
+9. ❗️ Opened issue [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
+10. ❗️ Opened issue [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
 <!--END_SECTION:activity-->
