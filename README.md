@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
+1. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605) in [ossf/scorecard](https://github.com/ossf/scorecard)
 2. 🗣 Commented on [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
-3. ❗️ Opened issue [#219](https://github.com/google/osv-scanner/issues/219) in [google/osv-scanner](https://github.com/google/osv-scanner)
-4. ❗️ Opened issue [#218](https://github.com/google/osv-scanner/issues/218) in [google/osv-scanner](https://github.com/google/osv-scanner)
-5. ❗️ Opened issue [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
-6. ❗️ Opened issue [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
-7. 🗣 Commented on [#57](https://github.com/google/osv-scanner/issues/57) in [google/osv-scanner](https://github.com/google/osv-scanner)
-8. 🗣 Commented on [#14](https://github.com/awesomeSBOM/awesome-sbom/issues/14) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-9. ❗️ Opened issue [#598](https://github.com/wolfi-dev/os/issues/598) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+3. 🗣 Commented on [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
+4. 🗣 Commented on [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
+5. ❗️ Opened issue [#219](https://github.com/google/osv-scanner/issues/219) in [google/osv-scanner](https://github.com/google/osv-scanner)
+6. ❗️ Opened issue [#218](https://github.com/google/osv-scanner/issues/218) in [google/osv-scanner](https://github.com/google/osv-scanner)
+7. ❗️ Opened issue [#217](https://github.com/google/osv-scanner/issues/217) in [google/osv-scanner](https://github.com/google/osv-scanner)
+8. ❗️ Opened issue [#216](https://github.com/google/osv-scanner/issues/216) in [google/osv-scanner](https://github.com/google/osv-scanner)
+9. 🗣 Commented on [#57](https://github.com/google/osv-scanner/issues/57) in [google/osv-scanner](https://github.com/google/osv-scanner)
+10. 🗣 Commented on [#14](https://github.com/awesomeSBOM/awesome-sbom/issues/14) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
