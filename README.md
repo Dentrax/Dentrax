@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39637](https://github.com/kubernetes/website/pull/39637) in [kubernetes/website](https://github.com/kubernetes/website)
-2. ❗️ Opened issue [#759](https://github.com/Byron/gitoxide/issues/759) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
-3. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🎉 Merged PR [#9](https://github.com/developer-guy/buildkit-machine/pull/9) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-5. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
-6. 🎉 Merged PR [#15](https://github.com/awesomeSBOM/awesome-sbom/pull/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-7. 🗣 Commented on [#15](https://github.com/awesomeSBOM/awesome-sbom/issues/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-8. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-9. ❗️ Opened issue [#619](https://github.com/wolfi-dev/os/issues/619) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. ❗️ Opened issue [#2684](https://github.com/ossf/scorecard/issues/2684) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. ❗️ Opened issue [#339](https://github.com/antonmedv/expr/issues/339) in [antonmedv/expr](https://github.com/antonmedv/expr)
+2. 💪 Opened PR [#39637](https://github.com/kubernetes/website/pull/39637) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗️ Opened issue [#759](https://github.com/Byron/gitoxide/issues/759) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
+4. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🎉 Merged PR [#9](https://github.com/developer-guy/buildkit-machine/pull/9) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+6. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
+7. 🎉 Merged PR [#15](https://github.com/awesomeSBOM/awesome-sbom/pull/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+8. 🗣 Commented on [#15](https://github.com/awesomeSBOM/awesome-sbom/issues/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+9. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+10. ❗️ Opened issue [#619](https://github.com/wolfi-dev/os/issues/619) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
