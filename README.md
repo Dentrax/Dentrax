@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/awesomeSBOM/awesome-sbom/pull/17) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. ❗️ Opened issue [#339](https://github.com/antonmedv/expr/issues/339) in [antonmedv/expr](https://github.com/antonmedv/expr)
-3. 💪 Opened PR [#39637](https://github.com/kubernetes/website/pull/39637) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗️ Opened issue [#759](https://github.com/Byron/gitoxide/issues/759) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
-5. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
-6. 🎉 Merged PR [#9](https://github.com/developer-guy/buildkit-machine/pull/9) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-7. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
-8. 🎉 Merged PR [#15](https://github.com/awesomeSBOM/awesome-sbom/pull/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-9. 🗣 Commented on [#15](https://github.com/awesomeSBOM/awesome-sbom/issues/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-10. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+1. 🎉 Merged PR [#2](https://github.com/Trendyol/gaos/pull/2) in [Trendyol/gaos](https://github.com/Trendyol/gaos)
+2. 🎉 Merged PR [#17](https://github.com/awesomeSBOM/awesome-sbom/pull/17) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. ❗️ Opened issue [#339](https://github.com/antonmedv/expr/issues/339) in [antonmedv/expr](https://github.com/antonmedv/expr)
+4. 💪 Opened PR [#39637](https://github.com/kubernetes/website/pull/39637) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❗️ Opened issue [#759](https://github.com/Byron/gitoxide/issues/759) in [Byron/gitoxide](https://github.com/Byron/gitoxide)
+6. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
+7. 🎉 Merged PR [#9](https://github.com/developer-guy/buildkit-machine/pull/9) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+8. 🗣 Commented on [#197](https://github.com/goharbor/community/issues/197) in [goharbor/community](https://github.com/goharbor/community)
+9. 🎉 Merged PR [#15](https://github.com/awesomeSBOM/awesome-sbom/pull/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+10. 🗣 Commented on [#15](https://github.com/awesomeSBOM/awesome-sbom/issues/15) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
