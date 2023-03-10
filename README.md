@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT/issues/2) in [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)
-2. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 🗣 Commented on [#431](https://github.com/cdfoundation/foundation/issues/431) in [cdfoundation/foundation](https://github.com/cdfoundation/foundation)
-4. ❗️ Opened issue [#11867](https://github.com/helm/helm/issues/11867) in [helm/helm](https://github.com/helm/helm)
-5. 🗣 Commented on [#1750](https://github.com/spf13/cobra/issues/1750) in [spf13/cobra](https://github.com/spf13/cobra)
-6. ❗️ Opened issue [#730](https://github.com/DavidAnson/markdownlint/issues/730) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
-7. ❗️ Opened issue [#9](https://github.com/trustmaster/gkeep2notion/issues/9) in [trustmaster/gkeep2notion](https://github.com/trustmaster/gkeep2notion)
-8. 🗣 Commented on [#503](https://github.com/dominikh/go-tools/issues/503) in [dominikh/go-tools](https://github.com/dominikh/go-tools)
-9. 🎉 Merged PR [#2](https://github.com/Trendyol/gaos/pull/2) in [Trendyol/gaos](https://github.com/Trendyol/gaos)
-10. 🎉 Merged PR [#17](https://github.com/awesomeSBOM/awesome-sbom/pull/17) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+1. 🗣 Commented on [#4](https://github.com/Trendyol/openstack-swift-sdk/issues/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
+2. 🎉 Merged PR [#4](https://github.com/Trendyol/openstack-swift-sdk/pull/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
+3. 🗣 Commented on [#2](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT/issues/2) in [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)
+4. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#431](https://github.com/cdfoundation/foundation/issues/431) in [cdfoundation/foundation](https://github.com/cdfoundation/foundation)
+6. ❗️ Opened issue [#11867](https://github.com/helm/helm/issues/11867) in [helm/helm](https://github.com/helm/helm)
+7. 🗣 Commented on [#1750](https://github.com/spf13/cobra/issues/1750) in [spf13/cobra](https://github.com/spf13/cobra)
+8. ❗️ Opened issue [#730](https://github.com/DavidAnson/markdownlint/issues/730) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
+9. ❗️ Opened issue [#9](https://github.com/trustmaster/gkeep2notion/issues/9) in [trustmaster/gkeep2notion](https://github.com/trustmaster/gkeep2notion)
+10. 🗣 Commented on [#503](https://github.com/dominikh/go-tools/issues/503) in [dominikh/go-tools](https://github.com/dominikh/go-tools)
 <!--END_SECTION:activity-->
