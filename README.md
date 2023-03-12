@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/Trendyol/go-dcp-client/issues/26) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
-2. 🗣 Commented on [#4](https://github.com/Trendyol/openstack-swift-sdk/issues/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
-3. 🎉 Merged PR [#4](https://github.com/Trendyol/openstack-swift-sdk/pull/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
-4. 🗣 Commented on [#2](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT/issues/2) in [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)
-5. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
-6. 🗣 Commented on [#431](https://github.com/cdfoundation/foundation/issues/431) in [cdfoundation/foundation](https://github.com/cdfoundation/foundation)
-7. ❗️ Opened issue [#11867](https://github.com/helm/helm/issues/11867) in [helm/helm](https://github.com/helm/helm)
-8. 🗣 Commented on [#1750](https://github.com/spf13/cobra/issues/1750) in [spf13/cobra](https://github.com/spf13/cobra)
-9. ❗️ Opened issue [#730](https://github.com/DavidAnson/markdownlint/issues/730) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
-10. ❗️ Opened issue [#9](https://github.com/trustmaster/gkeep2notion/issues/9) in [trustmaster/gkeep2notion](https://github.com/trustmaster/gkeep2notion)
+1. ❗️ Opened issue [#46](https://github.com/charmbracelet/log/issues/46) in [charmbracelet/log](https://github.com/charmbracelet/log)
+2. ❗️ Opened issue [#26](https://github.com/Trendyol/go-dcp-client/issues/26) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
+3. 🗣 Commented on [#4](https://github.com/Trendyol/openstack-swift-sdk/issues/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
+4. 🎉 Merged PR [#4](https://github.com/Trendyol/openstack-swift-sdk/pull/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
+5. 🗣 Commented on [#2](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT/issues/2) in [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)
+6. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
+7. 🗣 Commented on [#431](https://github.com/cdfoundation/foundation/issues/431) in [cdfoundation/foundation](https://github.com/cdfoundation/foundation)
+8. ❗️ Opened issue [#11867](https://github.com/helm/helm/issues/11867) in [helm/helm](https://github.com/helm/helm)
+9. 🗣 Commented on [#1750](https://github.com/spf13/cobra/issues/1750) in [spf13/cobra](https://github.com/spf13/cobra)
+10. ❗️ Opened issue [#730](https://github.com/DavidAnson/markdownlint/issues/730) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
 <!--END_SECTION:activity-->
