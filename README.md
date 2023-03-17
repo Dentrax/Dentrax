@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#244](https://github.com/wfxr/forgit/issues/244) in [wfxr/forgit](https://github.com/wfxr/forgit)
-2. 🗣 Commented on [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
-3. ❗️ Opened issue [#172](https://github.com/go-logr/logr/issues/172) in [go-logr/logr](https://github.com/go-logr/logr)
-4. ❗️ Opened issue [#46](https://github.com/charmbracelet/log/issues/46) in [charmbracelet/log](https://github.com/charmbracelet/log)
-5. ❗️ Opened issue [#26](https://github.com/Trendyol/go-dcp-client/issues/26) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
-6. 🗣 Commented on [#4](https://github.com/Trendyol/openstack-swift-sdk/issues/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
-7. 🎉 Merged PR [#4](https://github.com/Trendyol/openstack-swift-sdk/pull/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
-8. 🗣 Commented on [#2](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT/issues/2) in [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)
-9. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
-10. 🗣 Commented on [#431](https://github.com/cdfoundation/foundation/issues/431) in [cdfoundation/foundation](https://github.com/cdfoundation/foundation)
+1. 🗣 Commented on [#172](https://github.com/go-logr/logr/issues/172) in [go-logr/logr](https://github.com/go-logr/logr)
+2. 🗣 Commented on [#244](https://github.com/wfxr/forgit/issues/244) in [wfxr/forgit](https://github.com/wfxr/forgit)
+3. 🗣 Commented on [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
+4. ❗️ Opened issue [#172](https://github.com/go-logr/logr/issues/172) in [go-logr/logr](https://github.com/go-logr/logr)
+5. ❗️ Opened issue [#46](https://github.com/charmbracelet/log/issues/46) in [charmbracelet/log](https://github.com/charmbracelet/log)
+6. ❗️ Opened issue [#26](https://github.com/Trendyol/go-dcp-client/issues/26) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
+7. 🗣 Commented on [#4](https://github.com/Trendyol/openstack-swift-sdk/issues/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
+8. 🎉 Merged PR [#4](https://github.com/Trendyol/openstack-swift-sdk/pull/4) in [Trendyol/openstack-swift-sdk](https://github.com/Trendyol/openstack-swift-sdk)
+9. 🗣 Commented on [#2](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT/issues/2) in [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)
+10. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
