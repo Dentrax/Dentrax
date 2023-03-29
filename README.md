@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-2. 🗣 Commented on [#35](https://github.com/sigstore/cosign-gatekeeper-provider/issues/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-3. ❗️ Closed issue [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-4. 🎉 Merged PR [#35](https://github.com/sigstore/cosign-gatekeeper-provider/pull/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-5. 💪 Opened PR [#19](https://github.com/chainguard-dev/clank/pull/19) in [chainguard-dev/clank](https://github.com/chainguard-dev/clank)
-6. 🗣 Commented on [#46](https://github.com/charmbracelet/log/issues/46) in [charmbracelet/log](https://github.com/charmbracelet/log)
-7. 🗣 Commented on [#172](https://github.com/go-logr/logr/issues/172) in [go-logr/logr](https://github.com/go-logr/logr)
-8. 🗣 Commented on [#244](https://github.com/wfxr/forgit/issues/244) in [wfxr/forgit](https://github.com/wfxr/forgit)
-9. 🗣 Commented on [#1229](https://github.com/uber-go/zap/issues/1229) in [uber-go/zap](https://github.com/uber-go/zap)
-10. ❗️ Opened issue [#172](https://github.com/go-logr/logr/issues/172) in [go-logr/logr](https://github.com/go-logr/logr)
+1. 🗣 Commented on [#21](https://github.com/awesomeSBOM/awesome-sbom/issues/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🎉 Merged PR [#21](https://github.com/awesomeSBOM/awesome-sbom/pull/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+4. 🗣 Commented on [#35](https://github.com/sigstore/cosign-gatekeeper-provider/issues/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+5. ❗️ Closed issue [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+6. 🎉 Merged PR [#35](https://github.com/sigstore/cosign-gatekeeper-provider/pull/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+7. 💪 Opened PR [#19](https://github.com/chainguard-dev/clank/pull/19) in [chainguard-dev/clank](https://github.com/chainguard-dev/clank)
+8. 🗣 Commented on [#46](https://github.com/charmbracelet/log/issues/46) in [charmbracelet/log](https://github.com/charmbracelet/log)
+9. 🗣 Commented on [#172](https://github.com/go-logr/logr/issues/172) in [go-logr/logr](https://github.com/go-logr/logr)
+10. 🗣 Commented on [#244](https://github.com/wfxr/forgit/issues/244) in [wfxr/forgit](https://github.com/wfxr/forgit)
 <!--END_SECTION:activity-->
