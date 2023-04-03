@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1000](https://github.com/ko-build/ko/pull/1000) in [ko-build/ko](https://github.com/ko-build/ko)
-2. ❗️ Opened issue [#745](https://github.com/clastix/capsule/issues/745) in [clastix/capsule](https://github.com/clastix/capsule)
-3. 🗣 Commented on [#21](https://github.com/awesomeSBOM/awesome-sbom/issues/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🎉 Merged PR [#21](https://github.com/awesomeSBOM/awesome-sbom/pull/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
-6. 🗣 Commented on [#35](https://github.com/sigstore/cosign-gatekeeper-provider/issues/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-7. ❗️ Closed issue [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-8. 🎉 Merged PR [#35](https://github.com/sigstore/cosign-gatekeeper-provider/pull/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-9. 💪 Opened PR [#19](https://github.com/chainguard-dev/clank/pull/19) in [chainguard-dev/clank](https://github.com/chainguard-dev/clank)
-10. 🗣 Commented on [#46](https://github.com/charmbracelet/log/issues/46) in [charmbracelet/log](https://github.com/charmbracelet/log)
+1. 🗣 Commented on [#987](https://github.com/falcosecurity/libs/issues/987) in [falcosecurity/libs](https://github.com/falcosecurity/libs)
+2. 💪 Opened PR [#1000](https://github.com/ko-build/ko/pull/1000) in [ko-build/ko](https://github.com/ko-build/ko)
+3. ❗️ Opened issue [#745](https://github.com/clastix/capsule/issues/745) in [clastix/capsule](https://github.com/clastix/capsule)
+4. 🗣 Commented on [#21](https://github.com/awesomeSBOM/awesome-sbom/issues/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+5. 🎉 Merged PR [#21](https://github.com/awesomeSBOM/awesome-sbom/pull/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+6. 🗣 Commented on [#29](https://github.com/sethvargo/ratchet/issues/29) in [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
+7. 🗣 Commented on [#35](https://github.com/sigstore/cosign-gatekeeper-provider/issues/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+8. ❗️ Closed issue [#34](https://github.com/sigstore/cosign-gatekeeper-provider/issues/34) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+9. 🎉 Merged PR [#35](https://github.com/sigstore/cosign-gatekeeper-provider/pull/35) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+10. 💪 Opened PR [#19](https://github.com/chainguard-dev/clank/pull/19) in [chainguard-dev/clank](https://github.com/chainguard-dev/clank)
 <!--END_SECTION:activity-->
