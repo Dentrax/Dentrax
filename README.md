@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Opened issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#39637](https://github.com/kubernetes/website/issues/39637) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-5. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
-6. 🗣 Commented on [#987](https://github.com/falcosecurity/libs/issues/987) in [falcosecurity/libs](https://github.com/falcosecurity/libs)
-7. 💪 Opened PR [#1000](https://github.com/ko-build/ko/pull/1000) in [ko-build/ko](https://github.com/ko-build/ko)
-8. ❗️ Opened issue [#745](https://github.com/clastix/capsule/issues/745) in [clastix/capsule](https://github.com/clastix/capsule)
-9. 🗣 Commented on [#21](https://github.com/awesomeSBOM/awesome-sbom/issues/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-10. 🎉 Merged PR [#21](https://github.com/awesomeSBOM/awesome-sbom/pull/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#39637](https://github.com/kubernetes/website/issues/39637) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+6. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+7. 🗣 Commented on [#987](https://github.com/falcosecurity/libs/issues/987) in [falcosecurity/libs](https://github.com/falcosecurity/libs)
+8. 💪 Opened PR [#1000](https://github.com/ko-build/ko/pull/1000) in [ko-build/ko](https://github.com/ko-build/ko)
+9. ❗️ Opened issue [#745](https://github.com/clastix/capsule/issues/745) in [clastix/capsule](https://github.com/clastix/capsule)
+10. 🗣 Commented on [#21](https://github.com/awesomeSBOM/awesome-sbom/issues/21) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
