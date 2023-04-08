@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-2. 🎉 Merged PR [#51](https://github.com/sigstore/cosign-gatekeeper-provider/pull/51) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-3. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. ❗️ Opened issue [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. 🎉 Merged PR [#51](https://github.com/sigstore/cosign-gatekeeper-provider/pull/51) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
 4. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-6. 🗣 Commented on [#39637](https://github.com/kubernetes/website/issues/39637) in [kubernetes/website](https://github.com/kubernetes/website)
-7. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-8. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
-9. 🗣 Commented on [#987](https://github.com/falcosecurity/libs/issues/987) in [falcosecurity/libs](https://github.com/falcosecurity/libs)
-10. 💪 Opened PR [#1000](https://github.com/ko-build/ko/pull/1000) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+6. ❗️ Opened issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+7. 🗣 Commented on [#39637](https://github.com/kubernetes/website/issues/39637) in [kubernetes/website](https://github.com/kubernetes/website)
+8. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+9. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+10. 🗣 Commented on [#987](https://github.com/falcosecurity/libs/issues/987) in [falcosecurity/libs](https://github.com/falcosecurity/libs)
 <!--END_SECTION:activity-->
