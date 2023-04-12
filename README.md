@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
-2. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. ❗️ Closed issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+3. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+4. ❗️ Closed issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-6. 🗣 Commented on [#8292](https://github.com/containerd/containerd/issues/8292) in [containerd/containerd](https://github.com/containerd/containerd)
-7. 🗣 Commented on [#53](https://github.com/sigstore/cosign-gatekeeper-provider/issues/53) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-8. 🗣 Commented on [#6656](https://github.com/docker/for-mac/issues/6656) in [docker/for-mac](https://github.com/docker/for-mac)
-9. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-10. ❗️ Opened issue [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+6. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+7. 🗣 Commented on [#8292](https://github.com/containerd/containerd/issues/8292) in [containerd/containerd](https://github.com/containerd/containerd)
+8. 🗣 Commented on [#53](https://github.com/sigstore/cosign-gatekeeper-provider/issues/53) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+9. 🗣 Commented on [#6656](https://github.com/docker/for-mac/issues/6656) in [docker/for-mac](https://github.com/docker/for-mac)
+10. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
