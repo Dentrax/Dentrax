@@ -23,13 +23,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/Dentrax/falco-gpt/issues/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-2. 🗣 Commented on [#1](https://github.com/Dentrax/falco-gpt/issues/1) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-3. 🗣 Commented on [#8292](https://github.com/containerd/containerd/issues/8292) in [containerd/containerd](https://github.com/containerd/containerd)
-4. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+2. 🎉 Merged PR [#2](https://github.com/Dentrax/falco-gpt/pull/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+3. 🗣 Commented on [#2](https://github.com/Dentrax/falco-gpt/issues/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+4. 🗣 Commented on [#1](https://github.com/Dentrax/falco-gpt/issues/1) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+5. 🗣 Commented on [#8292](https://github.com/containerd/containerd/issues/8292) in [containerd/containerd](https://github.com/containerd/containerd)
 6. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-7. ❗️ Closed issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-8. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-9. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-10. 🗣 Commented on [#8292](https://github.com/containerd/containerd/issues/8292) in [containerd/containerd](https://github.com/containerd/containerd)
+7. 🗣 Commented on [#70](https://github.com/falcosecurity/falco-exporter/issues/70) in [falcosecurity/falco-exporter](https://github.com/falcosecurity/falco-exporter)
+8. 🗣 Commented on [#2483](https://github.com/falcosecurity/falco/issues/2483) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+9. ❗️ Closed issue [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+10. 🗣 Commented on [#6809](https://github.com/kyverno/kyverno/issues/6809) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
