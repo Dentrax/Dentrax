@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-2. ❗️ Opened issue [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-3. ❗️ Opened issue [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-4. ❗️ Opened issue [#132](https://github.com/enix/x509-certificate-exporter/issues/132) in [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter)
-5. 🗣 Commented on [#229](https://github.com/json-iterator/go/issues/229) in [json-iterator/go](https://github.com/json-iterator/go)
-6. ❗️ Opened issue [#289](https://github.com/k8sgpt-ai/k8sgpt/issues/289) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-7. 🗣 Commented on [#2](https://github.com/Dentrax/falco-gpt/issues/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-8. 🎉 Merged PR [#2](https://github.com/Dentrax/falco-gpt/pull/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+1. 🗣 Commented on [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+2. ❗️ Opened issue [#23](https://github.com/robusta-dev/krr/issues/23) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+3. 🗣 Commented on [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+4. ❗️ Opened issue [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+5. ❗️ Opened issue [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+6. ❗️ Opened issue [#132](https://github.com/enix/x509-certificate-exporter/issues/132) in [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter)
+7. 🗣 Commented on [#229](https://github.com/json-iterator/go/issues/229) in [json-iterator/go](https://github.com/json-iterator/go)
+8. ❗️ Opened issue [#289](https://github.com/k8sgpt-ai/k8sgpt/issues/289) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
 9. 🗣 Commented on [#2](https://github.com/Dentrax/falco-gpt/issues/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-10. 🗣 Commented on [#1](https://github.com/Dentrax/falco-gpt/issues/1) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+10. 🎉 Merged PR [#2](https://github.com/Dentrax/falco-gpt/pull/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
 <!--END_SECTION:activity-->
