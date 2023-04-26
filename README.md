@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#950](https://github.com/falcosecurity/falco-website/issues/950) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. ❗️ Opened issue [#332](https://github.com/k8sgpt-ai/k8sgpt/issues/332) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-3. ❗️ Opened issue [#331](https://github.com/k8sgpt-ai/k8sgpt/issues/331) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-4. ❗️ Opened issue [#25](https://github.com/robusta-dev/krr/issues/25) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-5. 🗣 Commented on [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-6. ❗️ Opened issue [#23](https://github.com/robusta-dev/krr/issues/23) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-7. 🗣 Commented on [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-8. ❗️ Opened issue [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-9. ❗️ Opened issue [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-10. ❗️ Opened issue [#132](https://github.com/enix/x509-certificate-exporter/issues/132) in [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter)
+1. 🗣 Commented on [#95](https://github.com/wfxr/csview/issues/95) in [wfxr/csview](https://github.com/wfxr/csview)
+2. ❗️ Opened issue [#950](https://github.com/falcosecurity/falco-website/issues/950) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+3. ❗️ Opened issue [#332](https://github.com/k8sgpt-ai/k8sgpt/issues/332) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+4. ❗️ Opened issue [#331](https://github.com/k8sgpt-ai/k8sgpt/issues/331) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+5. ❗️ Opened issue [#25](https://github.com/robusta-dev/krr/issues/25) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+6. 🗣 Commented on [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+7. ❗️ Opened issue [#23](https://github.com/robusta-dev/krr/issues/23) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+8. 🗣 Commented on [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+9. ❗️ Opened issue [#20](https://github.com/robusta-dev/krr/issues/20) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+10. ❗️ Opened issue [#19](https://github.com/robusta-dev/krr/issues/19) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
 <!--END_SECTION:activity-->
