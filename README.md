@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1405](https://github.com/ansible/awx-operator/issues/1405) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
-2. 💪 Opened PR [#560](https://github.com/chainguard-images/images/pull/560) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#556](https://github.com/chainguard-images/images/pull/556) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. ❗️ Opened issue [#191](https://github.com/falcosecurity/community/issues/191) in [falcosecurity/community](https://github.com/falcosecurity/community)
-5. 🗣 Commented on [#1472](https://github.com/open-policy-agent/gatekeeper/issues/1472) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-6. 🗣 Commented on [#95](https://github.com/wfxr/csview/issues/95) in [wfxr/csview](https://github.com/wfxr/csview)
-7. ❗️ Opened issue [#950](https://github.com/falcosecurity/falco-website/issues/950) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-8. ❗️ Opened issue [#332](https://github.com/k8sgpt-ai/k8sgpt/issues/332) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-9. ❗️ Opened issue [#331](https://github.com/k8sgpt-ai/k8sgpt/issues/331) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-10. ❗️ Opened issue [#25](https://github.com/robusta-dev/krr/issues/25) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+1. 🗣 Commented on [#1405](https://github.com/ansible/awx-operator/issues/1405) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+2. ❗️ Opened issue [#1405](https://github.com/ansible/awx-operator/issues/1405) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+3. 💪 Opened PR [#560](https://github.com/chainguard-images/images/pull/560) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#556](https://github.com/chainguard-images/images/pull/556) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. ❗️ Opened issue [#191](https://github.com/falcosecurity/community/issues/191) in [falcosecurity/community](https://github.com/falcosecurity/community)
+6. 🗣 Commented on [#1472](https://github.com/open-policy-agent/gatekeeper/issues/1472) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+7. 🗣 Commented on [#95](https://github.com/wfxr/csview/issues/95) in [wfxr/csview](https://github.com/wfxr/csview)
+8. ❗️ Opened issue [#950](https://github.com/falcosecurity/falco-website/issues/950) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+9. ❗️ Opened issue [#332](https://github.com/k8sgpt-ai/k8sgpt/issues/332) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+10. ❗️ Opened issue [#331](https://github.com/k8sgpt-ai/k8sgpt/issues/331) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
 <!--END_SECTION:activity-->
