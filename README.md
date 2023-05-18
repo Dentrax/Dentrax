@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#632](https://github.com/chainguard-images/images/issues/632) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
-3. ❗️ Opened issue [#215](https://github.com/wolfi-dev/wolfictl/issues/215) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-4. 🗣 Commented on [#589](https://github.com/chainguard-images/images/issues/589) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#589](https://github.com/chainguard-images/images/pull/589) in [chainguard-images/images](https://github.com/chainguard-images/images)
-6. 💪 Opened PR [#402](https://github.com/NVIDIA/k8s-device-plugin/pull/402) in [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin)
-7. 💪 Opened PR [#581](https://github.com/chainguard-images/images/pull/581) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. 🗣 Commented on [#556](https://github.com/chainguard-images/images/issues/556) in [chainguard-images/images](https://github.com/chainguard-images/images)
-9. 💪 Opened PR [#573](https://github.com/chainguard-images/images/pull/573) in [chainguard-images/images](https://github.com/chainguard-images/images)
-10. 🗣 Commented on [#1405](https://github.com/ansible/awx-operator/issues/1405) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+1. ❗️ Opened issue [#220](https://github.com/wolfi-dev/wolfictl/issues/220) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+2. ❗️ Opened issue [#632](https://github.com/chainguard-images/images/issues/632) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+4. ❗️ Opened issue [#215](https://github.com/wolfi-dev/wolfictl/issues/215) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+5. 🗣 Commented on [#589](https://github.com/chainguard-images/images/issues/589) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. 💪 Opened PR [#589](https://github.com/chainguard-images/images/pull/589) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. 💪 Opened PR [#402](https://github.com/NVIDIA/k8s-device-plugin/pull/402) in [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin)
+8. 💪 Opened PR [#581](https://github.com/chainguard-images/images/pull/581) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. 🗣 Commented on [#556](https://github.com/chainguard-images/images/issues/556) in [chainguard-images/images](https://github.com/chainguard-images/images)
+10. 💪 Opened PR [#573](https://github.com/chainguard-images/images/pull/573) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
