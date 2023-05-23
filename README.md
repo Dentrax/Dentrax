@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#648](https://github.com/chainguard-images/images/pull/648) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#641](https://github.com/chainguard-images/images/pull/641) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#640](https://github.com/chainguard-images/images/pull/640) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
-5. 🗣 Commented on [#637](https://github.com/chainguard-images/images/issues/637) in [chainguard-images/images](https://github.com/chainguard-images/images)
-6. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-7. 💪 Opened PR [#637](https://github.com/chainguard-images/images/pull/637) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. 🗣 Commented on [#632](https://github.com/chainguard-images/images/issues/632) in [chainguard-images/images](https://github.com/chainguard-images/images)
-9. ❗️ Opened issue [#220](https://github.com/wolfi-dev/wolfictl/issues/220) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-10. ❗️ Opened issue [#632](https://github.com/chainguard-images/images/issues/632) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 💪 Opened PR [#2272](https://github.com/wolfi-dev/os/pull/2272) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#648](https://github.com/chainguard-images/images/pull/648) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 💪 Opened PR [#641](https://github.com/chainguard-images/images/pull/641) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#640](https://github.com/chainguard-images/images/pull/640) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 🗣 Commented on [#2](https://github.com/jpriebe/kubectl-pod-inspect/issues/2) in [jpriebe/kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+6. 🗣 Commented on [#637](https://github.com/chainguard-images/images/issues/637) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+8. 💪 Opened PR [#637](https://github.com/chainguard-images/images/pull/637) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. 🗣 Commented on [#632](https://github.com/chainguard-images/images/issues/632) in [chainguard-images/images](https://github.com/chainguard-images/images)
+10. ❗️ Opened issue [#220](https://github.com/wolfi-dev/wolfictl/issues/220) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 <!--END_SECTION:activity-->
