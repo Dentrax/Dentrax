@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
-2. 💪 Opened PR [#720](https://github.com/chainguard-images/images/pull/720) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. ❗ Opened issue [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
-4. 💪 Opened PR [#712](https://github.com/chainguard-images/images/pull/712) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#2409](https://github.com/wolfi-dev/os/pull/2409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#685](https://github.com/chainguard-images/images/pull/685) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. 💪 Opened PR [#665](https://github.com/chainguard-images/images/pull/665) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. 🗣 Commented on [#2311](https://github.com/wolfi-dev/os/issues/2311) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#2311](https://github.com/wolfi-dev/os/pull/2311) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#2272](https://github.com/wolfi-dev/os/issues/2272) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#2466](https://github.com/wolfi-dev/os/pull/2466) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
+3. 💪 Opened PR [#720](https://github.com/chainguard-images/images/pull/720) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. ❗ Opened issue [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
+5. 💪 Opened PR [#712](https://github.com/chainguard-images/images/pull/712) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. 💪 Opened PR [#2409](https://github.com/wolfi-dev/os/pull/2409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#685](https://github.com/chainguard-images/images/pull/685) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 💪 Opened PR [#665](https://github.com/chainguard-images/images/pull/665) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. 🗣 Commented on [#2311](https://github.com/wolfi-dev/os/issues/2311) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#2311](https://github.com/wolfi-dev/os/pull/2311) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
