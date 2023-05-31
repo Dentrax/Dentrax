@@ -23,7 +23,7 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#720](https://github.com/chainguard-images/images/pull/720) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. ❗️ Opened issue [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
+2. ❗ Opened issue [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
 3. 💪 Opened PR [#712](https://github.com/chainguard-images/images/pull/712) in [chainguard-images/images](https://github.com/chainguard-images/images)
 4. 💪 Opened PR [#2409](https://github.com/wolfi-dev/os/pull/2409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 5. 💪 Opened PR [#685](https://github.com/chainguard-images/images/pull/685) in [chainguard-images/images](https://github.com/chainguard-images/images)
