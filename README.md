@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-2. 🗣 Commented on [#239](https://github.com/wolfi-dev/wolfictl/issues/239) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-3. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
-4. 🗣 Commented on [#757](https://github.com/chainguard-images/images/issues/757) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. ❗ Opened issue [#1332](https://github.com/anchore/grype/issues/1332) in [anchore/grype](https://github.com/anchore/grype)
-6. 💪 Opened PR [#757](https://github.com/chainguard-images/images/pull/757) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
-8. 🎉 Merged PR [#5](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/5) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
-9. 💪 Opened PR [#2466](https://github.com/wolfi-dev/os/pull/2466) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
+1. ❗ Opened issue [#245](https://github.com/wolfi-dev/wolfictl/issues/245) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+2. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
+3. 🗣 Commented on [#239](https://github.com/wolfi-dev/wolfictl/issues/239) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+4. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
+5. 🗣 Commented on [#757](https://github.com/chainguard-images/images/issues/757) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. ❗ Opened issue [#1332](https://github.com/anchore/grype/issues/1332) in [anchore/grype](https://github.com/anchore/grype)
+7. 💪 Opened PR [#757](https://github.com/chainguard-images/images/pull/757) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 🗣 Commented on [#305](https://github.com/newrelic/infrastructure-bundle/issues/305) in [newrelic/infrastructure-bundle](https://github.com/newrelic/infrastructure-bundle)
+9. 🎉 Merged PR [#5](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/5) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
+10. 💪 Opened PR [#2466](https://github.com/wolfi-dev/os/pull/2466) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
