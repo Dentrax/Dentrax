@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10219](https://github.com/kubernetes-sigs/kubespray/issues/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-2. 💪 Opened PR [#10219](https://github.com/kubernetes-sigs/kubespray/pull/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 💪 Opened PR [#2788](https://github.com/wolfi-dev/os/pull/2788) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#2758](https://github.com/wolfi-dev/os/pull/2758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#2123](https://github.com/cncf/glossary/issues/2123) in [cncf/glossary](https://github.com/cncf/glossary)
-6. 💪 Opened PR [#2727](https://github.com/wolfi-dev/os/pull/2727) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#827](https://github.com/chainguard-images/images/pull/827) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. ❗ Opened issue [#245](https://github.com/wolfi-dev/wolfictl/issues/245) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-9. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-10. 🗣 Commented on [#239](https://github.com/wolfi-dev/wolfictl/issues/239) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+1. 💪 Opened PR [#7546](https://github.com/kyverno/kyverno/pull/7546) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#10219](https://github.com/kubernetes-sigs/kubespray/issues/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. 💪 Opened PR [#10219](https://github.com/kubernetes-sigs/kubespray/pull/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+4. 💪 Opened PR [#2788](https://github.com/wolfi-dev/os/pull/2788) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#2758](https://github.com/wolfi-dev/os/pull/2758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#2123](https://github.com/cncf/glossary/issues/2123) in [cncf/glossary](https://github.com/cncf/glossary)
+7. 💪 Opened PR [#2727](https://github.com/wolfi-dev/os/pull/2727) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#827](https://github.com/chainguard-images/images/pull/827) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. ❗ Opened issue [#245](https://github.com/wolfi-dev/wolfictl/issues/245) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+10. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
 <!--END_SECTION:activity-->
