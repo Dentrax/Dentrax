@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/wolfi-dev/advisories/pull/40) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-2. 💪 Opened PR [#2847](https://github.com/wolfi-dev/os/pull/2847) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#7546](https://github.com/kyverno/kyverno/pull/7546) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#10219](https://github.com/kubernetes-sigs/kubespray/issues/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. 💪 Opened PR [#10219](https://github.com/kubernetes-sigs/kubespray/pull/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-6. 💪 Opened PR [#2788](https://github.com/wolfi-dev/os/pull/2788) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#2758](https://github.com/wolfi-dev/os/pull/2758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🗣 Commented on [#2123](https://github.com/cncf/glossary/issues/2123) in [cncf/glossary](https://github.com/cncf/glossary)
-9. 💪 Opened PR [#2727](https://github.com/wolfi-dev/os/pull/2727) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#827](https://github.com/chainguard-images/images/pull/827) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 💪 Opened PR [#3335](https://github.com/google/cadvisor/pull/3335) in [google/cadvisor](https://github.com/google/cadvisor)
+2. 💪 Opened PR [#40](https://github.com/wolfi-dev/advisories/pull/40) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+3. 💪 Opened PR [#2847](https://github.com/wolfi-dev/os/pull/2847) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#7546](https://github.com/kyverno/kyverno/pull/7546) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#10219](https://github.com/kubernetes-sigs/kubespray/issues/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+6. 💪 Opened PR [#10219](https://github.com/kubernetes-sigs/kubespray/pull/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+7. 💪 Opened PR [#2788](https://github.com/wolfi-dev/os/pull/2788) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#2758](https://github.com/wolfi-dev/os/pull/2758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#2123](https://github.com/cncf/glossary/issues/2123) in [cncf/glossary](https://github.com/cncf/glossary)
+10. 💪 Opened PR [#2727](https://github.com/wolfi-dev/os/pull/2727) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
