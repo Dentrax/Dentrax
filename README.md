@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#871](https://github.com/chainguard-images/images/pull/871) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#870](https://github.com/chainguard-images/images/pull/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#3335](https://github.com/google/cadvisor/pull/3335) in [google/cadvisor](https://github.com/google/cadvisor)
-6. 💪 Opened PR [#40](https://github.com/wolfi-dev/advisories/pull/40) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-7. 💪 Opened PR [#2847](https://github.com/wolfi-dev/os/pull/2847) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 💪 Opened PR [#7546](https://github.com/kyverno/kyverno/pull/7546) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-9. 🗣 Commented on [#10219](https://github.com/kubernetes-sigs/kubespray/issues/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-10. 💪 Opened PR [#10219](https://github.com/kubernetes-sigs/kubespray/pull/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. 🗣 Commented on [#1165](https://github.com/kubernetes-sigs/metrics-server/issues/1165) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+2. 🎉 Merged PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#871](https://github.com/chainguard-images/images/pull/871) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#870](https://github.com/chainguard-images/images/pull/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. 💪 Opened PR [#3335](https://github.com/google/cadvisor/pull/3335) in [google/cadvisor](https://github.com/google/cadvisor)
+7. 💪 Opened PR [#40](https://github.com/wolfi-dev/advisories/pull/40) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+8. 💪 Opened PR [#2847](https://github.com/wolfi-dev/os/pull/2847) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#7546](https://github.com/kyverno/kyverno/pull/7546) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+10. 🗣 Commented on [#10219](https://github.com/kubernetes-sigs/kubespray/issues/10219) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 <!--END_SECTION:activity-->
