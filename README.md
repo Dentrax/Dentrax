@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3018](https://github.com/wolfi-dev/os/pull/3018) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#3017](https://github.com/wolfi-dev/os/pull/3017) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#3016](https://github.com/wolfi-dev/os/pull/3016) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#3015](https://github.com/wolfi-dev/os/pull/3015) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#1165](https://github.com/kubernetes-sigs/metrics-server/issues/1165) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-6. 🎉 Merged PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#871](https://github.com/chainguard-images/images/pull/871) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. 💪 Opened PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#870](https://github.com/chainguard-images/images/pull/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
-10. 💪 Opened PR [#3335](https://github.com/google/cadvisor/pull/3335) in [google/cadvisor](https://github.com/google/cadvisor)
+1. 💪 Opened PR [#902](https://github.com/chainguard-images/images/pull/902) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#3018](https://github.com/wolfi-dev/os/pull/3018) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#3017](https://github.com/wolfi-dev/os/pull/3017) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#3016](https://github.com/wolfi-dev/os/pull/3016) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#3015](https://github.com/wolfi-dev/os/pull/3015) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#1165](https://github.com/kubernetes-sigs/metrics-server/issues/1165) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+7. 🎉 Merged PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#871](https://github.com/chainguard-images/images/pull/871) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. 💪 Opened PR [#2923](https://github.com/wolfi-dev/os/pull/2923) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#870](https://github.com/chainguard-images/images/pull/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
