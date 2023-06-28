@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#987](https://github.com/chainguard-images/images/pull/987) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#981](https://github.com/chainguard-images/images/pull/981) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 🗣 Commented on [#870](https://github.com/chainguard-images/images/issues/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. ❗ Opened issue [#945](https://github.com/chainguard-images/images/issues/945) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. ❗ Opened issue [#517](https://github.com/chainguard-dev/melange/issues/517) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-6. 💪 Opened PR [#3122](https://github.com/wolfi-dev/os/pull/3122) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 🗣 Commented on [#240](https://github.com/wolfi-dev/wolfictl/issues/240) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-8. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
-9. 💪 Opened PR [#902](https://github.com/chainguard-images/images/pull/902) in [chainguard-images/images](https://github.com/chainguard-images/images)
-10. 💪 Opened PR [#3018](https://github.com/wolfi-dev/os/pull/3018) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#3183](https://github.com/wolfi-dev/os/pull/3183) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#3181](https://github.com/wolfi-dev/os/pull/3181) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#987](https://github.com/chainguard-images/images/pull/987) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#981](https://github.com/chainguard-images/images/pull/981) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 🗣 Commented on [#870](https://github.com/chainguard-images/images/issues/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. ❗ Opened issue [#945](https://github.com/chainguard-images/images/issues/945) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. ❗ Opened issue [#517](https://github.com/chainguard-dev/melange/issues/517) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+8. 💪 Opened PR [#3122](https://github.com/wolfi-dev/os/pull/3122) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#240](https://github.com/wolfi-dev/wolfictl/issues/240) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+10. 🗣 Commented on [#1815](https://github.com/hashicorp/consul-k8s/issues/1815) in [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)
 <!--END_SECTION:activity-->
