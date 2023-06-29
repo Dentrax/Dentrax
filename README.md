@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#993](https://github.com/chainguard-images/images/pull/993) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#3183](https://github.com/wolfi-dev/os/pull/3183) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#3181](https://github.com/wolfi-dev/os/pull/3181) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#987](https://github.com/chainguard-images/images/pull/987) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#981](https://github.com/chainguard-images/images/pull/981) in [chainguard-images/images](https://github.com/chainguard-images/images)
-6. 🗣 Commented on [#870](https://github.com/chainguard-images/images/issues/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. ❗ Opened issue [#945](https://github.com/chainguard-images/images/issues/945) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. ❗ Opened issue [#517](https://github.com/chainguard-dev/melange/issues/517) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-9. 💪 Opened PR [#3122](https://github.com/wolfi-dev/os/pull/3122) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#240](https://github.com/wolfi-dev/wolfictl/issues/240) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+1. 💪 Opened PR [#3198](https://github.com/wolfi-dev/os/pull/3198) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#993](https://github.com/chainguard-images/images/pull/993) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 💪 Opened PR [#3183](https://github.com/wolfi-dev/os/pull/3183) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#3181](https://github.com/wolfi-dev/os/pull/3181) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#987](https://github.com/chainguard-images/images/pull/987) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. 💪 Opened PR [#981](https://github.com/chainguard-images/images/pull/981) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. 🗣 Commented on [#870](https://github.com/chainguard-images/images/issues/870) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. ❗ Opened issue [#945](https://github.com/chainguard-images/images/issues/945) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. ❗ Opened issue [#517](https://github.com/chainguard-dev/melange/issues/517) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+10. 💪 Opened PR [#3122](https://github.com/wolfi-dev/os/pull/3122) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
