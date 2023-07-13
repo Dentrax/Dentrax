@@ -31,5 +31,5 @@
 7. 💪 Opened PR [#3471](https://github.com/wolfi-dev/os/pull/3471) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 8. 🎉 Merged PR [#22](https://github.com/awesomeSBOM/awesome-sbom/pull/22) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 9. ❗ Opened issue [#286](https://github.com/wolfi-dev/wolfictl/issues/286) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-10. 🗣 Commented on [#981](https://github.com/chainguard-images/images/issues/981) in [chainguard-images/images](https://github.com/chainguard-images/images)
+10. 🗣 Commented on [#981](https://github.com/chainguard-images/images/pull/981#issuecomment-1620642315) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
