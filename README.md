@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439846) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-2. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439622) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. 🗣 Commented on [#1187](https://github.com/kubernetes-sigs/descheduler/issues/1187#issuecomment-1635352458) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. 💪 Opened PR [#3541](https://github.com/wolfi-dev/os/pull/3541) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#3540](https://github.com/wolfi-dev/os/pull/3540) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#1098](https://github.com/chainguard-images/images/pull/1098) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. 💪 Opened PR [#3539](https://github.com/wolfi-dev/os/pull/3539) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🎉 Merged PR [#3473](https://github.com/wolfi-dev/os/pull/3473) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#3473](https://github.com/wolfi-dev/os/pull/3473) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#3471](https://github.com/wolfi-dev/os/pull/3471) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#3636](https://github.com/wolfi-dev/os/pull/3636) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439846) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439622) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+4. 🗣 Commented on [#1187](https://github.com/kubernetes-sigs/descheduler/issues/1187#issuecomment-1635352458) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+5. 💪 Opened PR [#3541](https://github.com/wolfi-dev/os/pull/3541) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 💪 Opened PR [#3540](https://github.com/wolfi-dev/os/pull/3540) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#1098](https://github.com/chainguard-images/images/pull/1098) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 💪 Opened PR [#3539](https://github.com/wolfi-dev/os/pull/3539) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🎉 Merged PR [#3473](https://github.com/wolfi-dev/os/pull/3473) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#3473](https://github.com/wolfi-dev/os/pull/3473) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
