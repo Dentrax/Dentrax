@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3639](https://github.com/wolfi-dev/os/pull/3639#issuecomment-1637068005) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#3639](https://github.com/wolfi-dev/os/pull/3639) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742#issuecomment-1637033693) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-4. 💪 Opened PR [#3636](https://github.com/wolfi-dev/os/pull/3636) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439846) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-6. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439622) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-7. 🗣 Commented on [#1187](https://github.com/kubernetes-sigs/descheduler/issues/1187#issuecomment-1635352458) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-8. 💪 Opened PR [#3541](https://github.com/wolfi-dev/os/pull/3541) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#3540](https://github.com/wolfi-dev/os/pull/3540) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#1098](https://github.com/chainguard-images/images/pull/1098) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. ❌ Closed PR [#3642](https://github.com/wolfi-dev/os/pull/3642) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#3642](https://github.com/wolfi-dev/os/pull/3642#issuecomment-1637072466) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#3642](https://github.com/wolfi-dev/os/pull/3642) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#3639](https://github.com/wolfi-dev/os/pull/3639#issuecomment-1637068005) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#3639](https://github.com/wolfi-dev/os/pull/3639) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742#issuecomment-1637033693) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+7. 💪 Opened PR [#3636](https://github.com/wolfi-dev/os/pull/3636) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439846) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+9. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439622) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+10. 🗣 Commented on [#1187](https://github.com/kubernetes-sigs/descheduler/issues/1187#issuecomment-1635352458) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
