@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#109](https://github.com/robusta-dev/krr/issues/109) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-2. ❗ Opened issue [#197](https://github.com/k3s-io/kine/issues/197) in [k3s-io/kine](https://github.com/k3s-io/kine)
-3. ❌ Closed PR [#3642](https://github.com/wolfi-dev/os/pull/3642) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#3642](https://github.com/wolfi-dev/os/pull/3642#issuecomment-1637072466) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#3642](https://github.com/wolfi-dev/os/pull/3642) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 🗣 Commented on [#3639](https://github.com/wolfi-dev/os/pull/3639#issuecomment-1637068005) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#3639](https://github.com/wolfi-dev/os/pull/3639) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742#issuecomment-1637033693) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-9. 💪 Opened PR [#3636](https://github.com/wolfi-dev/os/pull/3636) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#2346](https://github.com/falcosecurity/falco/issues/2346#issuecomment-1635439846) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. 💪 Opened PR [#3670](https://github.com/wolfi-dev/os/pull/3670) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❗ Opened issue [#109](https://github.com/robusta-dev/krr/issues/109) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+3. ❗ Opened issue [#197](https://github.com/k3s-io/kine/issues/197) in [k3s-io/kine](https://github.com/k3s-io/kine)
+4. ❌ Closed PR [#3642](https://github.com/wolfi-dev/os/pull/3642) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#3642](https://github.com/wolfi-dev/os/pull/3642#issuecomment-1637072466) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 💪 Opened PR [#3642](https://github.com/wolfi-dev/os/pull/3642) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 🗣 Commented on [#3639](https://github.com/wolfi-dev/os/pull/3639#issuecomment-1637068005) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#3639](https://github.com/wolfi-dev/os/pull/3639) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#742](https://github.com/kubernetes/node-problem-detector/issues/742#issuecomment-1637033693) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+10. 💪 Opened PR [#3636](https://github.com/wolfi-dev/os/pull/3636) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
