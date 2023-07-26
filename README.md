@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#572](https://github.com/chainguard-dev/melange/pull/572) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-2. 🗣 Commented on [#114](https://github.com/robusta-dev/krr/issues/114#issuecomment-1643517249) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-3. 🗣 Commented on [#406](https://github.com/wagoodman/dive/issues/406#issuecomment-1642734120) in [wagoodman/dive](https://github.com/wagoodman/dive)
-4. 🗣 Commented on [#34](https://github.com/cyberark/kubeletctl/issues/34#issuecomment-1642120588) in [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl)
-5. ❗ Opened issue [#34](https://github.com/cyberark/kubeletctl/issues/34) in [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl)
-6. 💪 Opened PR [#3696](https://github.com/wolfi-dev/os/pull/3696) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. ❗ Opened issue [#815](https://github.com/chainguard-dev/apko/issues/815) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-8. ❗ Opened issue [#114](https://github.com/robusta-dev/krr/issues/114) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-9. 🗣 Commented on [#109](https://github.com/robusta-dev/krr/issues/109#issuecomment-1640411169) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
-10. 💪 Opened PR [#3670](https://github.com/wolfi-dev/os/pull/3670) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#1142](https://github.com/chainguard-images/images/pull/1142) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#572](https://github.com/chainguard-dev/melange/pull/572) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+3. 🗣 Commented on [#114](https://github.com/robusta-dev/krr/issues/114#issuecomment-1643517249) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+4. 🗣 Commented on [#406](https://github.com/wagoodman/dive/issues/406#issuecomment-1642734120) in [wagoodman/dive](https://github.com/wagoodman/dive)
+5. 🗣 Commented on [#34](https://github.com/cyberark/kubeletctl/issues/34#issuecomment-1642120588) in [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl)
+6. ❗ Opened issue [#34](https://github.com/cyberark/kubeletctl/issues/34) in [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl)
+7. 💪 Opened PR [#3696](https://github.com/wolfi-dev/os/pull/3696) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. ❗ Opened issue [#815](https://github.com/chainguard-dev/apko/issues/815) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+9. ❗ Opened issue [#114](https://github.com/robusta-dev/krr/issues/114) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+10. 🗣 Commented on [#109](https://github.com/robusta-dev/krr/issues/109#issuecomment-1640411169) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
 <!--END_SECTION:activity-->
