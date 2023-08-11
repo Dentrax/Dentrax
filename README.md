@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39637](https://github.com/kubernetes/website/pull/39637#issuecomment-1674587579) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#1199](https://github.com/chainguard-images/images/pull/1199) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. ❗ Opened issue [#1427](https://github.com/anchore/grype/issues/1427) in [anchore/grype](https://github.com/anchore/grype)
-4. ❗ Opened issue [#4342](https://github.com/wolfi-dev/os/issues/4342) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#39637](https://github.com/kubernetes/website/pull/39637#issuecomment-1672097566) in [kubernetes/website](https://github.com/kubernetes/website)
-6. 🗣 Commented on [#1046](https://github.com/kubernetes-sigs/descheduler/issues/1046#issuecomment-1671404278) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-7. 💪 Opened PR [#4298](https://github.com/wolfi-dev/os/pull/4298) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. ❗ Opened issue [#938](https://github.com/kyverno/website/issues/938) in [kyverno/website](https://github.com/kyverno/website)
-9. 🗣 Commented on [#1](https://github.com/idank/explainshell/issues/1#issuecomment-1663742245) in [idank/explainshell](https://github.com/idank/explainshell)
-10. ❗ Opened issue [#4143](https://github.com/wolfi-dev/os/issues/4143) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#537](https://github.com/warpdotdev/Warp/issues/537#issuecomment-1675095772) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+2. 🗣 Commented on [#39637](https://github.com/kubernetes/website/pull/39637#issuecomment-1674587579) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#1199](https://github.com/chainguard-images/images/pull/1199) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. ❗ Opened issue [#1427](https://github.com/anchore/grype/issues/1427) in [anchore/grype](https://github.com/anchore/grype)
+5. ❗ Opened issue [#4342](https://github.com/wolfi-dev/os/issues/4342) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#39637](https://github.com/kubernetes/website/pull/39637#issuecomment-1672097566) in [kubernetes/website](https://github.com/kubernetes/website)
+7. 🗣 Commented on [#1046](https://github.com/kubernetes-sigs/descheduler/issues/1046#issuecomment-1671404278) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+8. 💪 Opened PR [#4298](https://github.com/wolfi-dev/os/pull/4298) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. ❗ Opened issue [#938](https://github.com/kyverno/website/issues/938) in [kyverno/website](https://github.com/kyverno/website)
+10. 🗣 Commented on [#1](https://github.com/idank/explainshell/issues/1#issuecomment-1663742245) in [idank/explainshell](https://github.com/idank/explainshell)
 <!--END_SECTION:activity-->
