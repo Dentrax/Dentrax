@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4611](https://github.com/wolfi-dev/os/pull/4611) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#4609](https://github.com/wolfi-dev/os/pull/4609) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. ❗ Opened issue [#621](https://github.com/chainguard-dev/melange/issues/621) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 💪 Opened PR [#4607](https://github.com/wolfi-dev/os/pull/4607) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#4606](https://github.com/wolfi-dev/os/pull/4606) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. ❗ Opened issue [#619](https://github.com/chainguard-dev/melange/issues/619) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-7. ❗ Opened issue [#349](https://github.com/wolfi-dev/wolfictl/issues/349) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-8. 💪 Opened PR [#4558](https://github.com/wolfi-dev/os/pull/4558) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#482](https://github.com/p0deje/Maccy/issues/482#issuecomment-1677515913) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
-10. 🗣 Commented on [#537](https://github.com/warpdotdev/Warp/issues/537#issuecomment-1675095772) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+1. ❗ Opened issue [#352](https://github.com/wolfi-dev/wolfictl/issues/352) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+2. ❗ Opened issue [#351](https://github.com/wolfi-dev/wolfictl/issues/351) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+3. 💪 Opened PR [#4611](https://github.com/wolfi-dev/os/pull/4611) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#4609](https://github.com/wolfi-dev/os/pull/4609) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. ❗ Opened issue [#621](https://github.com/chainguard-dev/melange/issues/621) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+6. 💪 Opened PR [#4607](https://github.com/wolfi-dev/os/pull/4607) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#4606](https://github.com/wolfi-dev/os/pull/4606) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. ❗ Opened issue [#619](https://github.com/chainguard-dev/melange/issues/619) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+9. ❗ Opened issue [#349](https://github.com/wolfi-dev/wolfictl/issues/349) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+10. 💪 Opened PR [#4558](https://github.com/wolfi-dev/os/pull/4558) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
