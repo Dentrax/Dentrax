@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1261](https://github.com/chainguard-images/images/pull/1261) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#1260](https://github.com/chainguard-images/images/pull/1260) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#398](https://github.com/GoogleContainerTools/container-diff/pull/398) in [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff)
-4. ❗ Opened issue [#44](https://github.com/chainguard-dev/homebrew-tap/issues/44) in [chainguard-dev/homebrew-tap](https://github.com/chainguard-dev/homebrew-tap)
-5. 🗣 Commented on [#3735](https://github.com/wolfi-dev/os/pull/3735#issuecomment-1690031122) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. ❗ Opened issue [#352](https://github.com/wolfi-dev/wolfictl/issues/352) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-7. ❗ Opened issue [#351](https://github.com/wolfi-dev/wolfictl/issues/351) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-8. 💪 Opened PR [#4611](https://github.com/wolfi-dev/os/pull/4611) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#4609](https://github.com/wolfi-dev/os/pull/4609) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. ❗ Opened issue [#621](https://github.com/chainguard-dev/melange/issues/621) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+1. 🗣 Commented on [#1260](https://github.com/chainguard-images/images/pull/1260#issuecomment-1692306328) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. ❌ Closed PR [#1260](https://github.com/chainguard-images/images/pull/1260) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🗣 Commented on [#1261](https://github.com/chainguard-images/images/pull/1261#issuecomment-1692306038) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. ❌ Closed PR [#1261](https://github.com/chainguard-images/images/pull/1261) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#1262](https://github.com/chainguard-images/images/pull/1262) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. 🗣 Commented on [#1260](https://github.com/chainguard-images/images/pull/1260#issuecomment-1692275598) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. 💪 Opened PR [#1261](https://github.com/chainguard-images/images/pull/1261) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 💪 Opened PR [#1260](https://github.com/chainguard-images/images/pull/1260) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. 💪 Opened PR [#398](https://github.com/GoogleContainerTools/container-diff/pull/398) in [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff)
+10. ❗ Opened issue [#44](https://github.com/chainguard-dev/homebrew-tap/issues/44) in [chainguard-dev/homebrew-tap](https://github.com/chainguard-dev/homebrew-tap)
 <!--END_SECTION:activity-->
