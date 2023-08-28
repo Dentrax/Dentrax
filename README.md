@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4045](https://github.com/golangci/golangci-lint/issues/4045) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-2. 💪 Opened PR [#1265](https://github.com/chainguard-images/images/pull/1265) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. ❗ Opened issue [#1464](https://github.com/anchore/grype/issues/1464) in [anchore/grype](https://github.com/anchore/grype)
-4. 💪 Opened PR [#4816](https://github.com/wolfi-dev/os/pull/4816) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#1260](https://github.com/chainguard-images/images/pull/1260#issuecomment-1692306328) in [chainguard-images/images](https://github.com/chainguard-images/images)
-6. ❌ Closed PR [#1260](https://github.com/chainguard-images/images/pull/1260) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. 🗣 Commented on [#1261](https://github.com/chainguard-images/images/pull/1261#issuecomment-1692306038) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. ❌ Closed PR [#1261](https://github.com/chainguard-images/images/pull/1261) in [chainguard-images/images](https://github.com/chainguard-images/images)
-9. 💪 Opened PR [#1262](https://github.com/chainguard-images/images/pull/1262) in [chainguard-images/images](https://github.com/chainguard-images/images)
-10. 🗣 Commented on [#1260](https://github.com/chainguard-images/images/pull/1260#issuecomment-1692275598) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🗣 Commented on [#4045](https://github.com/golangci/golangci-lint/issues/4045#issuecomment-1695456851) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+2. ❗ Opened issue [#4045](https://github.com/golangci/golangci-lint/issues/4045) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+3. 💪 Opened PR [#1265](https://github.com/chainguard-images/images/pull/1265) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. ❗ Opened issue [#1464](https://github.com/anchore/grype/issues/1464) in [anchore/grype](https://github.com/anchore/grype)
+5. 💪 Opened PR [#4816](https://github.com/wolfi-dev/os/pull/4816) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#1260](https://github.com/chainguard-images/images/pull/1260#issuecomment-1692306328) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. ❌ Closed PR [#1260](https://github.com/chainguard-images/images/pull/1260) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 🗣 Commented on [#1261](https://github.com/chainguard-images/images/pull/1261#issuecomment-1692306038) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. ❌ Closed PR [#1261](https://github.com/chainguard-images/images/pull/1261) in [chainguard-images/images](https://github.com/chainguard-images/images)
+10. 💪 Opened PR [#1262](https://github.com/chainguard-images/images/pull/1262) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
