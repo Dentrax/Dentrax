@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4342](https://github.com/wolfi-dev/os/issues/4342#issuecomment-1706222078) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#3781](https://github.com/goreleaser/goreleaser/issues/3781#issuecomment-1706043523) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗ Opened issue [#311](https://github.com/falcosecurity/evolution/issues/311) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
-4. 🗣 Commented on [#3](https://github.com/Dentrax/falco-gpt/pull/3#issuecomment-1704685133) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-5. 🎉 Merged PR [#3](https://github.com/Dentrax/falco-gpt/pull/3) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-6. 🗣 Commented on [#4971](https://github.com/wolfi-dev/os/pull/4971#issuecomment-1699784195) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#4971](https://github.com/wolfi-dev/os/pull/4971) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🗣 Commented on [#4045](https://github.com/golangci/golangci-lint/issues/4045#issuecomment-1695456851) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-9. ❗ Opened issue [#4045](https://github.com/golangci/golangci-lint/issues/4045) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-10. 💪 Opened PR [#1265](https://github.com/chainguard-images/images/pull/1265) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🎉 Merged PR [#5199](https://github.com/wolfi-dev/os/pull/5199) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#4342](https://github.com/wolfi-dev/os/issues/4342#issuecomment-1706222078) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#3781](https://github.com/goreleaser/goreleaser/issues/3781#issuecomment-1706043523) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❗ Opened issue [#311](https://github.com/falcosecurity/evolution/issues/311) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
+5. 🗣 Commented on [#3](https://github.com/Dentrax/falco-gpt/pull/3#issuecomment-1704685133) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+6. 🎉 Merged PR [#3](https://github.com/Dentrax/falco-gpt/pull/3) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+7. 🗣 Commented on [#4971](https://github.com/wolfi-dev/os/pull/4971#issuecomment-1699784195) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#4971](https://github.com/wolfi-dev/os/pull/4971) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#4045](https://github.com/golangci/golangci-lint/issues/4045#issuecomment-1695456851) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+10. ❗ Opened issue [#4045](https://github.com/golangci/golangci-lint/issues/4045) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 <!--END_SECTION:activity-->
