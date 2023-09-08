@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/pull/3199#issuecomment-1711338273) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-2. 🗣 Commented on [#102](https://github.com/ashald/EnvFile/issues/102#issuecomment-1711266597) in [ashald/EnvFile](https://github.com/ashald/EnvFile)
-3. 🗣 Commented on [#311](https://github.com/falcosecurity/evolution/issues/311#issuecomment-1711166220) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
-4. 💪 Opened PR [#5268](https://github.com/wolfi-dev/os/pull/5268) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#5235](https://github.com/wolfi-dev/os/pull/5235) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#663](https://github.com/chainguard-dev/melange/pull/663) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-7. 🎉 Merged PR [#5199](https://github.com/wolfi-dev/os/pull/5199) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🗣 Commented on [#4342](https://github.com/wolfi-dev/os/issues/4342#issuecomment-1706222078) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#3781](https://github.com/goreleaser/goreleaser/issues/3781#issuecomment-1706043523) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-10. ❗ Opened issue [#311](https://github.com/falcosecurity/evolution/issues/311) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
+1. ❗ Opened issue [#1394](https://github.com/sigstore/sigstore/issues/1394) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+2. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/pull/3199#issuecomment-1711338273) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+3. 🗣 Commented on [#102](https://github.com/ashald/EnvFile/issues/102#issuecomment-1711266597) in [ashald/EnvFile](https://github.com/ashald/EnvFile)
+4. 🗣 Commented on [#311](https://github.com/falcosecurity/evolution/issues/311#issuecomment-1711166220) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
+5. 💪 Opened PR [#5268](https://github.com/wolfi-dev/os/pull/5268) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 💪 Opened PR [#5235](https://github.com/wolfi-dev/os/pull/5235) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#663](https://github.com/chainguard-dev/melange/pull/663) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+8. 🎉 Merged PR [#5199](https://github.com/wolfi-dev/os/pull/5199) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#4342](https://github.com/wolfi-dev/os/issues/4342#issuecomment-1706222078) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🗣 Commented on [#3781](https://github.com/goreleaser/goreleaser/issues/3781#issuecomment-1706043523) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
