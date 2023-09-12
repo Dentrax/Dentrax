@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5194](https://github.com/wolfi-dev/os/pull/5194) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#5194](https://github.com/wolfi-dev/os/pull/5194#issuecomment-1714597878) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#663](https://github.com/chainguard-dev/melange/pull/663#issuecomment-1714443406) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 🗣 Commented on [#1262](https://github.com/chainguard-images/images/pull/1262#issuecomment-1712129024) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. ❌ Closed PR [#1262](https://github.com/chainguard-images/images/pull/1262) in [chainguard-images/images](https://github.com/chainguard-images/images)
-6. 💪 Opened PR [#1348](https://github.com/chainguard-images/images/pull/1348) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. ❗ Opened issue [#1394](https://github.com/sigstore/sigstore/issues/1394) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-8. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/pull/3199#issuecomment-1711338273) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-9. 🗣 Commented on [#102](https://github.com/ashald/EnvFile/issues/102#issuecomment-1711266597) in [ashald/EnvFile](https://github.com/ashald/EnvFile)
-10. 🗣 Commented on [#311](https://github.com/falcosecurity/evolution/issues/311#issuecomment-1711166220) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
+1. ❗ Opened issue [#6007](https://github.com/grafana/mimir/issues/6007) in [grafana/mimir](https://github.com/grafana/mimir)
+2. ❌ Closed PR [#5194](https://github.com/wolfi-dev/os/pull/5194) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#5194](https://github.com/wolfi-dev/os/pull/5194#issuecomment-1714597878) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#663](https://github.com/chainguard-dev/melange/pull/663#issuecomment-1714443406) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+5. 🗣 Commented on [#1262](https://github.com/chainguard-images/images/pull/1262#issuecomment-1712129024) in [chainguard-images/images](https://github.com/chainguard-images/images)
+6. ❌ Closed PR [#1262](https://github.com/chainguard-images/images/pull/1262) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. 💪 Opened PR [#1348](https://github.com/chainguard-images/images/pull/1348) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. ❗ Opened issue [#1394](https://github.com/sigstore/sigstore/issues/1394) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+9. 🗣 Commented on [#3199](https://github.com/golangci/golangci-lint/pull/3199#issuecomment-1711338273) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+10. 🗣 Commented on [#102](https://github.com/ashald/EnvFile/issues/102#issuecomment-1711266597) in [ashald/EnvFile](https://github.com/ashald/EnvFile)
 <!--END_SECTION:activity-->
