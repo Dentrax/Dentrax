@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-2. 🗣 Commented on [#582](https://github.com/NVIDIA/gpu-operator/issues/582#issuecomment-1720941039) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-3. ❗ Opened issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-4. ❗ Opened issue [#581](https://github.com/NVIDIA/gpu-operator/issues/581) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-5. 🗣 Commented on [#280](https://github.com/regclient/regclient/issues/280#issuecomment-1718282917) in [regclient/regclient](https://github.com/regclient/regclient)
-6. 🗣 Commented on [#1](https://github.com/jacobtomlinson/kind/pull/1#issuecomment-1718179111) in [jacobtomlinson/kind](https://github.com/jacobtomlinson/kind)
-7. 💪 Opened PR [#316](https://github.com/chainguard-dev/actions/pull/316) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
-8. 💪 Opened PR [#5476](https://github.com/wolfi-dev/os/pull/5476) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#5441](https://github.com/wolfi-dev/os/pull/5441) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. ❗ Opened issue [#6007](https://github.com/grafana/mimir/issues/6007) in [grafana/mimir](https://github.com/grafana/mimir)
+1. ❗ Opened issue [#1496](https://github.com/anchore/grype/issues/1496) in [anchore/grype](https://github.com/anchore/grype)
+2. 🔒 Closed issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+3. 🗣 Commented on [#582](https://github.com/NVIDIA/gpu-operator/issues/582#issuecomment-1720941039) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+4. ❗ Opened issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+5. ❗ Opened issue [#581](https://github.com/NVIDIA/gpu-operator/issues/581) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+6. 🗣 Commented on [#280](https://github.com/regclient/regclient/issues/280#issuecomment-1718282917) in [regclient/regclient](https://github.com/regclient/regclient)
+7. 🗣 Commented on [#1](https://github.com/jacobtomlinson/kind/pull/1#issuecomment-1718179111) in [jacobtomlinson/kind](https://github.com/jacobtomlinson/kind)
+8. 💪 Opened PR [#316](https://github.com/chainguard-dev/actions/pull/316) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+9. 💪 Opened PR [#5476](https://github.com/wolfi-dev/os/pull/5476) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#5441](https://github.com/wolfi-dev/os/pull/5441) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
