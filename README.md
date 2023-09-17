@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/melbahja/goph/pull/34#issuecomment-1722328587) in [melbahja/goph](https://github.com/melbahja/goph)
-2. 🗣 Commented on [#34](https://github.com/kevinburke/ssh_config/issues/34#issuecomment-1722326810) in [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)
-3. 🗣 Commented on [#34](https://github.com/melbahja/goph/pull/34#issuecomment-1722325182) in [melbahja/goph](https://github.com/melbahja/goph)
-4. 🗣 Commented on [#31](https://github.com/melbahja/goph/issues/31#issuecomment-1722321417) in [melbahja/goph](https://github.com/melbahja/goph)
-5. 🗣 Commented on [#172](https://github.com/abiosoft/colima/issues/172#issuecomment-1722318471) in [abiosoft/colima](https://github.com/abiosoft/colima)
-6. ❗ Opened issue [#1496](https://github.com/anchore/grype/issues/1496) in [anchore/grype](https://github.com/anchore/grype)
-7. 🔒 Closed issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-8. 🗣 Commented on [#582](https://github.com/NVIDIA/gpu-operator/issues/582#issuecomment-1720941039) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-9. ❗ Opened issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-10. ❗ Opened issue [#581](https://github.com/NVIDIA/gpu-operator/issues/581) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+1. ❗ Opened issue [#60](https://github.com/kevinburke/ssh_config/issues/60) in [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)
+2. 🗣 Commented on [#34](https://github.com/melbahja/goph/pull/34#issuecomment-1722328587) in [melbahja/goph](https://github.com/melbahja/goph)
+3. 🗣 Commented on [#34](https://github.com/kevinburke/ssh_config/issues/34#issuecomment-1722326810) in [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)
+4. 🗣 Commented on [#34](https://github.com/melbahja/goph/pull/34#issuecomment-1722325182) in [melbahja/goph](https://github.com/melbahja/goph)
+5. 🗣 Commented on [#31](https://github.com/melbahja/goph/issues/31#issuecomment-1722321417) in [melbahja/goph](https://github.com/melbahja/goph)
+6. 🗣 Commented on [#172](https://github.com/abiosoft/colima/issues/172#issuecomment-1722318471) in [abiosoft/colima](https://github.com/abiosoft/colima)
+7. ❗ Opened issue [#1496](https://github.com/anchore/grype/issues/1496) in [anchore/grype](https://github.com/anchore/grype)
+8. 🔒 Closed issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+9. 🗣 Commented on [#582](https://github.com/NVIDIA/gpu-operator/issues/582#issuecomment-1720941039) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+10. ❗ Opened issue [#582](https://github.com/NVIDIA/gpu-operator/issues/582) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
 <!--END_SECTION:activity-->
