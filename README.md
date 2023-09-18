@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/devhubapp/homebrew-devhub/issues/5) in [devhubapp/homebrew-devhub](https://github.com/devhubapp/homebrew-devhub)
-2. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722552529) in [antonmedv/expr](https://github.com/antonmedv/expr)
-3. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722539280) in [antonmedv/expr](https://github.com/antonmedv/expr)
-4. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722490274) in [antonmedv/expr](https://github.com/antonmedv/expr)
-5. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722488848) in [antonmedv/expr](https://github.com/antonmedv/expr)
-6. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722477584) in [antonmedv/expr](https://github.com/antonmedv/expr)
-7. 🗣 Commented on [#172](https://github.com/abiosoft/colima/issues/172#issuecomment-1722457538) in [abiosoft/colima](https://github.com/abiosoft/colima)
-8. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605#issuecomment-1722457242) in [ossf/scorecard](https://github.com/ossf/scorecard)
-9. 🗣 Commented on [#2684](https://github.com/ossf/scorecard/issues/2684#issuecomment-1722457198) in [ossf/scorecard](https://github.com/ossf/scorecard)
-10. ❗ Opened issue [#61](https://github.com/kevinburke/ssh_config/issues/61) in [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config)
+1. 🗣 Commented on [#413](https://github.com/NVIDIA/gpu-operator/issues/413#issuecomment-1723495033) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+2. ❗ Opened issue [#5](https://github.com/devhubapp/homebrew-devhub/issues/5) in [devhubapp/homebrew-devhub](https://github.com/devhubapp/homebrew-devhub)
+3. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722552529) in [antonmedv/expr](https://github.com/antonmedv/expr)
+4. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722539280) in [antonmedv/expr](https://github.com/antonmedv/expr)
+5. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722490274) in [antonmedv/expr](https://github.com/antonmedv/expr)
+6. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722488848) in [antonmedv/expr](https://github.com/antonmedv/expr)
+7. 🗣 Commented on [#277](https://github.com/antonmedv/expr/issues/277#issuecomment-1722477584) in [antonmedv/expr](https://github.com/antonmedv/expr)
+8. 🗣 Commented on [#172](https://github.com/abiosoft/colima/issues/172#issuecomment-1722457538) in [abiosoft/colima](https://github.com/abiosoft/colima)
+9. 🗣 Commented on [#2605](https://github.com/ossf/scorecard/issues/2605#issuecomment-1722457242) in [ossf/scorecard](https://github.com/ossf/scorecard)
+10. 🗣 Commented on [#2684](https://github.com/ossf/scorecard/issues/2684#issuecomment-1722457198) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
