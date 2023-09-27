@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4108](https://github.com/golangci/golangci-lint/issues/4108) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-2. 💪 Opened PR [#1465](https://github.com/chainguard-images/images/pull/1465) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#403](https://github.com/wolfi-dev/wolfictl/pull/403) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-4. 🗣 Commented on [#8638](https://github.com/huggingface/transformers/issues/8638#issuecomment-1729745797) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. 💪 Opened PR [#5789](https://github.com/wolfi-dev/os/pull/5789) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. ❗ Opened issue [#705](https://github.com/chainguard-dev/melange/issues/705) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-7. 💪 Opened PR [#704](https://github.com/chainguard-dev/melange/pull/704) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-8. 🗣 Commented on [#26](https://github.com/melbahja/goph/issues/26#issuecomment-1725916583) in [melbahja/goph](https://github.com/melbahja/goph)
-9. ❗ Opened issue [#57](https://github.com/melbahja/goph/issues/57) in [melbahja/goph](https://github.com/melbahja/goph)
-10. 🗣 Commented on [#54027](https://github.com/golang/go/issues/54027#issuecomment-1725870821) in [golang/go](https://github.com/golang/go)
+1. 💪 Opened PR [#5989](https://github.com/wolfi-dev/os/pull/5989) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❗ Opened issue [#4108](https://github.com/golangci/golangci-lint/issues/4108) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+3. 💪 Opened PR [#1465](https://github.com/chainguard-images/images/pull/1465) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#403](https://github.com/wolfi-dev/wolfictl/pull/403) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+5. 🗣 Commented on [#8638](https://github.com/huggingface/transformers/issues/8638#issuecomment-1729745797) in [huggingface/transformers](https://github.com/huggingface/transformers)
+6. 💪 Opened PR [#5789](https://github.com/wolfi-dev/os/pull/5789) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. ❗ Opened issue [#705](https://github.com/chainguard-dev/melange/issues/705) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+8. 💪 Opened PR [#704](https://github.com/chainguard-dev/melange/pull/704) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+9. 🗣 Commented on [#26](https://github.com/melbahja/goph/issues/26#issuecomment-1725916583) in [melbahja/goph](https://github.com/melbahja/goph)
+10. ❗ Opened issue [#57](https://github.com/melbahja/goph/issues/57) in [melbahja/goph](https://github.com/melbahja/goph)
 <!--END_SECTION:activity-->
