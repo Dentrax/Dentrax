@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6231](https://github.com/wolfi-dev/os/pull/6231) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#6096](https://github.com/wolfi-dev/os/pull/6096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#5989](https://github.com/wolfi-dev/os/pull/5989) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. ❗ Opened issue [#4108](https://github.com/golangci/golangci-lint/issues/4108) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-5. 💪 Opened PR [#1465](https://github.com/chainguard-images/images/pull/1465) in [chainguard-images/images](https://github.com/chainguard-images/images)
-6. 💪 Opened PR [#403](https://github.com/wolfi-dev/wolfictl/pull/403) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-7. 🗣 Commented on [#8638](https://github.com/huggingface/transformers/issues/8638#issuecomment-1729745797) in [huggingface/transformers](https://github.com/huggingface/transformers)
-8. 💪 Opened PR [#5789](https://github.com/wolfi-dev/os/pull/5789) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. ❗ Opened issue [#705](https://github.com/chainguard-dev/melange/issues/705) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-10. 💪 Opened PR [#704](https://github.com/chainguard-dev/melange/pull/704) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+1. 🗣 Commented on [#6231](https://github.com/wolfi-dev/os/pull/6231#issuecomment-1747327724) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#6231](https://github.com/wolfi-dev/os/pull/6231) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#6096](https://github.com/wolfi-dev/os/pull/6096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#5989](https://github.com/wolfi-dev/os/pull/5989) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. ❗ Opened issue [#4108](https://github.com/golangci/golangci-lint/issues/4108) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+6. 💪 Opened PR [#1465](https://github.com/chainguard-images/images/pull/1465) in [chainguard-images/images](https://github.com/chainguard-images/images)
+7. 💪 Opened PR [#403](https://github.com/wolfi-dev/wolfictl/pull/403) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+8. 🗣 Commented on [#8638](https://github.com/huggingface/transformers/issues/8638#issuecomment-1729745797) in [huggingface/transformers](https://github.com/huggingface/transformers)
+9. 💪 Opened PR [#5789](https://github.com/wolfi-dev/os/pull/5789) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. ❗ Opened issue [#705](https://github.com/chainguard-dev/melange/issues/705) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
 <!--END_SECTION:activity-->
