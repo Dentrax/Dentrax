@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1261](https://github.com/mhammond/pywin32/issues/1261#issuecomment-1748200147) in [mhammond/pywin32](https://github.com/mhammond/pywin32)
-2. ❗ Opened issue [#3842](https://github.com/jupyter-widgets/ipywidgets/issues/3842) in [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)
-3. 🗣 Commented on [#6231](https://github.com/wolfi-dev/os/pull/6231#issuecomment-1747327724) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#6231](https://github.com/wolfi-dev/os/pull/6231) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#6096](https://github.com/wolfi-dev/os/pull/6096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#5989](https://github.com/wolfi-dev/os/pull/5989) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. ❗ Opened issue [#4108](https://github.com/golangci/golangci-lint/issues/4108) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-8. 💪 Opened PR [#1465](https://github.com/chainguard-images/images/pull/1465) in [chainguard-images/images](https://github.com/chainguard-images/images)
-9. 💪 Opened PR [#403](https://github.com/wolfi-dev/wolfictl/pull/403) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-10. 🗣 Commented on [#8638](https://github.com/huggingface/transformers/issues/8638#issuecomment-1729745797) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 💪 Opened PR [#6308](https://github.com/wolfi-dev/os/pull/6308) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#1261](https://github.com/mhammond/pywin32/issues/1261#issuecomment-1748200147) in [mhammond/pywin32](https://github.com/mhammond/pywin32)
+3. ❗ Opened issue [#3842](https://github.com/jupyter-widgets/ipywidgets/issues/3842) in [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)
+4. 🗣 Commented on [#6231](https://github.com/wolfi-dev/os/pull/6231#issuecomment-1747327724) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#6231](https://github.com/wolfi-dev/os/pull/6231) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 💪 Opened PR [#6096](https://github.com/wolfi-dev/os/pull/6096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#5989](https://github.com/wolfi-dev/os/pull/5989) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. ❗ Opened issue [#4108](https://github.com/golangci/golangci-lint/issues/4108) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+9. 💪 Opened PR [#1465](https://github.com/chainguard-images/images/pull/1465) in [chainguard-images/images](https://github.com/chainguard-images/images)
+10. 💪 Opened PR [#403](https://github.com/wolfi-dev/wolfictl/pull/403) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
 <!--END_SECTION:activity-->
