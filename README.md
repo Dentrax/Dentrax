@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1710](https://github.com/chainguard-images/images/pull/1710#issuecomment-1773356888) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 🎉 Merged PR [#7193](https://github.com/wolfi-dev/os/pull/7193) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#7194](https://github.com/wolfi-dev/os/pull/7194) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#7193](https://github.com/wolfi-dev/os/pull/7193) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🎉 Merged PR [#7168](https://github.com/wolfi-dev/os/pull/7168) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#1710](https://github.com/chainguard-images/images/pull/1710) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. 💪 Opened PR [#7168](https://github.com/wolfi-dev/os/pull/7168) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 🗣 Commented on [#663](https://github.com/chainguard-dev/melange/pull/663#issuecomment-1770411659) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-9. 💪 Opened PR [#7096](https://github.com/wolfi-dev/os/pull/7096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#7093](https://github.com/wolfi-dev/os/pull/7093) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🎉 Merged PR [#7194](https://github.com/wolfi-dev/os/pull/7194) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#1710](https://github.com/chainguard-images/images/pull/1710#issuecomment-1773356888) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🎉 Merged PR [#7193](https://github.com/wolfi-dev/os/pull/7193) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#7194](https://github.com/wolfi-dev/os/pull/7194) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#7193](https://github.com/wolfi-dev/os/pull/7193) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🎉 Merged PR [#7168](https://github.com/wolfi-dev/os/pull/7168) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#1710](https://github.com/chainguard-images/images/pull/1710) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 💪 Opened PR [#7168](https://github.com/wolfi-dev/os/pull/7168) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#663](https://github.com/chainguard-dev/melange/pull/663#issuecomment-1770411659) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+10. 💪 Opened PR [#7096](https://github.com/wolfi-dev/os/pull/7096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
