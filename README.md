@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7528](https://github.com/wolfi-dev/os/pull/7528) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🎉 Merged PR [#7526](https://github.com/wolfi-dev/os/pull/7526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#7527](https://github.com/wolfi-dev/os/pull/7527) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#7526](https://github.com/wolfi-dev/os/pull/7526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#7525](https://github.com/wolfi-dev/os/pull/7525) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#7524](https://github.com/wolfi-dev/os/pull/7524) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 💪 Opened PR [#7523](https://github.com/wolfi-dev/os/pull/7523) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 💪 Opened PR [#7521](https://github.com/wolfi-dev/os/pull/7521) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🎉 Merged PR [#7515](https://github.com/wolfi-dev/os/pull/7515) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#7515](https://github.com/wolfi-dev/os/pull/7515) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#7533](https://github.com/wolfi-dev/os/pull/7533) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#7528](https://github.com/wolfi-dev/os/pull/7528) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🎉 Merged PR [#7526](https://github.com/wolfi-dev/os/pull/7526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#7527](https://github.com/wolfi-dev/os/pull/7527) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#7526](https://github.com/wolfi-dev/os/pull/7526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 💪 Opened PR [#7525](https://github.com/wolfi-dev/os/pull/7525) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#7524](https://github.com/wolfi-dev/os/pull/7524) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#7523](https://github.com/wolfi-dev/os/pull/7523) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#7521](https://github.com/wolfi-dev/os/pull/7521) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🎉 Merged PR [#7515](https://github.com/wolfi-dev/os/pull/7515) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
