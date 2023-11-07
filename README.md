@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8085](https://github.com/wolfi-dev/os/pull/8085) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#8064](https://github.com/wolfi-dev/os/pull/8064) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#8063](https://github.com/wolfi-dev/os/pull/8063) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#1021](https://github.com/coredns/coredns/issues/1021#issuecomment-1793506594) in [coredns/coredns](https://github.com/coredns/coredns)
-5. ❗ Opened issue [#15](https://github.com/duythinht/dbml-go/issues/15) in [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-6. ❗ Opened issue [#14](https://github.com/duythinht/dbml-go/issues/14) in [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-7. 💪 Opened PR [#7698](https://github.com/wolfi-dev/os/pull/7698) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 💪 Opened PR [#7653](https://github.com/wolfi-dev/os/pull/7653) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🎉 Merged PR [#7609](https://github.com/wolfi-dev/os/pull/7609) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#7609](https://github.com/wolfi-dev/os/pull/7609) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#1831](https://github.com/chainguard-images/images/pull/1831) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#8085](https://github.com/wolfi-dev/os/pull/8085) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#8064](https://github.com/wolfi-dev/os/pull/8064) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#8063](https://github.com/wolfi-dev/os/pull/8063) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#1021](https://github.com/coredns/coredns/issues/1021#issuecomment-1793506594) in [coredns/coredns](https://github.com/coredns/coredns)
+6. ❗ Opened issue [#15](https://github.com/duythinht/dbml-go/issues/15) in [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
+7. ❗ Opened issue [#14](https://github.com/duythinht/dbml-go/issues/14) in [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
+8. 💪 Opened PR [#7698](https://github.com/wolfi-dev/os/pull/7698) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#7653](https://github.com/wolfi-dev/os/pull/7653) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🎉 Merged PR [#7609](https://github.com/wolfi-dev/os/pull/7609) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
