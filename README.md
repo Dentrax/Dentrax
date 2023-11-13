@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8387](https://github.com/wolfi-dev/os/pull/8387) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#40](https://github.com/ciehanski/libgen-cli/issues/40#issuecomment-1801559913) in [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli)
-3. 💪 Opened PR [#1831](https://github.com/chainguard-images/images/pull/1831) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#8085](https://github.com/wolfi-dev/os/pull/8085) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#8064](https://github.com/wolfi-dev/os/pull/8064) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#8063](https://github.com/wolfi-dev/os/pull/8063) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 🗣 Commented on [#1021](https://github.com/coredns/coredns/issues/1021#issuecomment-1793506594) in [coredns/coredns](https://github.com/coredns/coredns)
-8. ❗ Opened issue [#15](https://github.com/duythinht/dbml-go/issues/15) in [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-9. ❗ Opened issue [#14](https://github.com/duythinht/dbml-go/issues/14) in [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-10. 💪 Opened PR [#7698](https://github.com/wolfi-dev/os/pull/7698) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#505](https://github.com/wolfi-dev/advisories/pull/505#issuecomment-1808953107) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+2. ❌ Closed PR [#505](https://github.com/wolfi-dev/advisories/pull/505) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+3. 🗣 Commented on [#2611](https://github.com/warpdotdev/Warp/issues/2611#issuecomment-1808913936) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+4. 💪 Opened PR [#505](https://github.com/wolfi-dev/advisories/pull/505) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+5. 💪 Opened PR [#8387](https://github.com/wolfi-dev/os/pull/8387) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#40](https://github.com/ciehanski/libgen-cli/issues/40#issuecomment-1801559913) in [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli)
+7. 💪 Opened PR [#1831](https://github.com/chainguard-images/images/pull/1831) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 💪 Opened PR [#8085](https://github.com/wolfi-dev/os/pull/8085) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#8064](https://github.com/wolfi-dev/os/pull/8064) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#8063](https://github.com/wolfi-dev/os/pull/8063) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
