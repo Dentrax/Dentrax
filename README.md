@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7199](https://github.com/wolfi-dev/os/pull/7199#issuecomment-1813992323) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#8672](https://github.com/wolfi-dev/os/pull/8672) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#6735](https://github.com/kubernetes-sigs/kubespray/pull/6735#issuecomment-1812060364) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 🗣 Commented on [#505](https://github.com/wolfi-dev/advisories/pull/505#issuecomment-1808953107) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-5. ❌ Closed PR [#505](https://github.com/wolfi-dev/advisories/pull/505) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-6. 🗣 Commented on [#2611](https://github.com/warpdotdev/Warp/issues/2611#issuecomment-1808913936) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-7. 💪 Opened PR [#505](https://github.com/wolfi-dev/advisories/pull/505) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-8. 💪 Opened PR [#8387](https://github.com/wolfi-dev/os/pull/8387) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#40](https://github.com/ciehanski/libgen-cli/issues/40#issuecomment-1801559913) in [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli)
-10. 💪 Opened PR [#1831](https://github.com/chainguard-images/images/pull/1831) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 💪 Opened PR [#8725](https://github.com/wolfi-dev/os/pull/8725) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#7199](https://github.com/wolfi-dev/os/pull/7199#issuecomment-1813992323) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#8672](https://github.com/wolfi-dev/os/pull/8672) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#6735](https://github.com/kubernetes-sigs/kubespray/pull/6735#issuecomment-1812060364) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 🗣 Commented on [#505](https://github.com/wolfi-dev/advisories/pull/505#issuecomment-1808953107) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+6. ❌ Closed PR [#505](https://github.com/wolfi-dev/advisories/pull/505) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+7. 🗣 Commented on [#2611](https://github.com/warpdotdev/Warp/issues/2611#issuecomment-1808913936) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+8. 💪 Opened PR [#505](https://github.com/wolfi-dev/advisories/pull/505) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+9. 💪 Opened PR [#8387](https://github.com/wolfi-dev/os/pull/8387) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🗣 Commented on [#40](https://github.com/ciehanski/libgen-cli/issues/40#issuecomment-1801559913) in [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli)
 <!--END_SECTION:activity-->
