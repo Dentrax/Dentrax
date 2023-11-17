@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8754](https://github.com/wolfi-dev/os/pull/8754) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#8758](https://github.com/wolfi-dev/os/pull/8758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#8725](https://github.com/wolfi-dev/os/pull/8725#issuecomment-1815846888) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#8754](https://github.com/wolfi-dev/os/pull/8754) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. ❌ Closed PR [#8725](https://github.com/wolfi-dev/os/pull/8725) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#8725](https://github.com/wolfi-dev/os/pull/8725) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. 🗣 Commented on [#7199](https://github.com/wolfi-dev/os/pull/7199#issuecomment-1813992323) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 💪 Opened PR [#8672](https://github.com/wolfi-dev/os/pull/8672) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#6735](https://github.com/kubernetes-sigs/kubespray/pull/6735#issuecomment-1812060364) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-10. 🗣 Commented on [#505](https://github.com/wolfi-dev/advisories/pull/505#issuecomment-1808953107) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+1. 🗣 Commented on [#48](https://github.com/tensorflow/tfx-bsl/issues/48#issuecomment-1817086086) in [tensorflow/tfx-bsl](https://github.com/tensorflow/tfx-bsl)
+2. 🎉 Merged PR [#8754](https://github.com/wolfi-dev/os/pull/8754) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#8758](https://github.com/wolfi-dev/os/pull/8758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#8725](https://github.com/wolfi-dev/os/pull/8725#issuecomment-1815846888) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#8754](https://github.com/wolfi-dev/os/pull/8754) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. ❌ Closed PR [#8725](https://github.com/wolfi-dev/os/pull/8725) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#8725](https://github.com/wolfi-dev/os/pull/8725) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 🗣 Commented on [#7199](https://github.com/wolfi-dev/os/pull/7199#issuecomment-1813992323) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#8672](https://github.com/wolfi-dev/os/pull/8672) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🗣 Commented on [#6735](https://github.com/kubernetes-sigs/kubespray/pull/6735#issuecomment-1812060364) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 <!--END_SECTION:activity-->
