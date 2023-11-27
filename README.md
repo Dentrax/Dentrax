@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9012](https://github.com/wolfi-dev/os/pull/9012) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#1](https://github.com/dzimine/demo-magic/pull/1#issuecomment-1823440545) in [dzimine/demo-magic](https://github.com/dzimine/demo-magic)
-3. 💪 Opened PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#8962](https://github.com/wolfi-dev/os/pull/8962) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#4470](https://github.com/grafana/grafana/issues/4470#issuecomment-1822724391) in [grafana/grafana](https://github.com/grafana/grafana)
-6. 💪 Opened PR [#8917](https://github.com/wolfi-dev/os/pull/8917) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. ❗ Opened issue [#50](https://github.com/mediawiki-utilities/python-mwoauth/issues/50) in [mediawiki-utilities/python-mwoauth](https://github.com/mediawiki-utilities/python-mwoauth)
-8. 💪 Opened PR [#8908](https://github.com/wolfi-dev/os/pull/8908) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#8907](https://github.com/wolfi-dev/os/pull/8907) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#8859](https://github.com/wolfi-dev/os/pull/8859) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#9108](https://github.com/wolfi-dev/os/pull/9108) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#9012](https://github.com/wolfi-dev/os/pull/9012) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#1](https://github.com/dzimine/demo-magic/pull/1#issuecomment-1823440545) in [dzimine/demo-magic](https://github.com/dzimine/demo-magic)
+4. 💪 Opened PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#8962](https://github.com/wolfi-dev/os/pull/8962) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#4470](https://github.com/grafana/grafana/issues/4470#issuecomment-1822724391) in [grafana/grafana](https://github.com/grafana/grafana)
+7. 💪 Opened PR [#8917](https://github.com/wolfi-dev/os/pull/8917) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. ❗ Opened issue [#50](https://github.com/mediawiki-utilities/python-mwoauth/issues/50) in [mediawiki-utilities/python-mwoauth](https://github.com/mediawiki-utilities/python-mwoauth)
+9. 💪 Opened PR [#8908](https://github.com/wolfi-dev/os/pull/8908) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#8907](https://github.com/wolfi-dev/os/pull/8907) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
