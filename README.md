@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9170](https://github.com/wolfi-dev/os/pull/9170) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#9163](https://github.com/wolfi-dev/os/pull/9163) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#48](https://github.com/tensorflow/tfx-bsl/issues/48#issuecomment-1829204735) in [tensorflow/tfx-bsl](https://github.com/tensorflow/tfx-bsl)
-4. 💪 Opened PR [#9108](https://github.com/wolfi-dev/os/pull/9108) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#9012](https://github.com/wolfi-dev/os/pull/9012) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 🗣 Commented on [#1](https://github.com/dzimine/demo-magic/pull/1#issuecomment-1823440545) in [dzimine/demo-magic](https://github.com/dzimine/demo-magic)
-7. 💪 Opened PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. 💪 Opened PR [#8962](https://github.com/wolfi-dev/os/pull/8962) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🗣 Commented on [#4470](https://github.com/grafana/grafana/issues/4470#issuecomment-1822724391) in [grafana/grafana](https://github.com/grafana/grafana)
-10. 💪 Opened PR [#8917](https://github.com/wolfi-dev/os/pull/8917) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#9203](https://github.com/wolfi-dev/os/pull/9203) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❌ Closed PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🗣 Commented on [#1882](https://github.com/chainguard-images/images/pull/1882#issuecomment-1832147468) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#9170](https://github.com/wolfi-dev/os/pull/9170) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#9163](https://github.com/wolfi-dev/os/pull/9163) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🗣 Commented on [#48](https://github.com/tensorflow/tfx-bsl/issues/48#issuecomment-1829204735) in [tensorflow/tfx-bsl](https://github.com/tensorflow/tfx-bsl)
+7. 💪 Opened PR [#9108](https://github.com/wolfi-dev/os/pull/9108) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. 💪 Opened PR [#9012](https://github.com/wolfi-dev/os/pull/9012) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 🗣 Commented on [#1](https://github.com/dzimine/demo-magic/pull/1#issuecomment-1823440545) in [dzimine/demo-magic](https://github.com/dzimine/demo-magic)
+10. 💪 Opened PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
