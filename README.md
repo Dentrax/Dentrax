@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1839408173) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
-2. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1839394895) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
-3. ❗ Opened issue [#1869](https://github.com/rytilahti/python-miio/issues/1869) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
-4. 💪 Opened PR [#9250](https://github.com/wolfi-dev/os/pull/9250) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#9203](https://github.com/wolfi-dev/os/pull/9203) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. ❌ Closed PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
-7. 🗣 Commented on [#1882](https://github.com/chainguard-images/images/pull/1882#issuecomment-1832147468) in [chainguard-images/images](https://github.com/chainguard-images/images)
-8. 💪 Opened PR [#9170](https://github.com/wolfi-dev/os/pull/9170) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#9163](https://github.com/wolfi-dev/os/pull/9163) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 🗣 Commented on [#48](https://github.com/tensorflow/tfx-bsl/issues/48#issuecomment-1829204735) in [tensorflow/tfx-bsl](https://github.com/tensorflow/tfx-bsl)
+1. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1845994384) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+2. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1839408173) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+3. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1839394895) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+4. ❗ Opened issue [#1869](https://github.com/rytilahti/python-miio/issues/1869) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+5. 💪 Opened PR [#9250](https://github.com/wolfi-dev/os/pull/9250) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 💪 Opened PR [#9203](https://github.com/wolfi-dev/os/pull/9203) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. ❌ Closed PR [#1882](https://github.com/chainguard-images/images/pull/1882) in [chainguard-images/images](https://github.com/chainguard-images/images)
+8. 🗣 Commented on [#1882](https://github.com/chainguard-images/images/pull/1882#issuecomment-1832147468) in [chainguard-images/images](https://github.com/chainguard-images/images)
+9. 💪 Opened PR [#9170](https://github.com/wolfi-dev/os/pull/9170) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#9163](https://github.com/wolfi-dev/os/pull/9163) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
