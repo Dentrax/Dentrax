@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9749](https://github.com/wolfi-dev/os/pull/9749) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. ❌ Closed PR [#8809](https://github.com/wolfi-dev/os/pull/8809) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#9650](https://github.com/wolfi-dev/os/pull/9650) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🎉 Merged PR [#8758](https://github.com/wolfi-dev/os/pull/8758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. ❗ Opened issue [#2407](https://github.com/anchore/syft/issues/2407) in [anchore/syft](https://github.com/anchore/syft)
-6. ❗ Opened issue [#1631](https://github.com/anchore/grype/issues/1631) in [anchore/grype](https://github.com/anchore/grype)
-7. ❗ Opened issue [#2406](https://github.com/anchore/syft/issues/2406) in [anchore/syft](https://github.com/anchore/syft)
-8. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1845994384) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
-9. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1839408173) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
-10. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1839394895) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+1. 🗣 Commented on [#9667](https://github.com/wolfi-dev/os/pull/9667#issuecomment-1861305434) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❌ Closed PR [#9667](https://github.com/wolfi-dev/os/pull/9667) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#9749](https://github.com/wolfi-dev/os/pull/9749) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. ❌ Closed PR [#8809](https://github.com/wolfi-dev/os/pull/8809) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#9650](https://github.com/wolfi-dev/os/pull/9650) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. 🎉 Merged PR [#8758](https://github.com/wolfi-dev/os/pull/8758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. ❗ Opened issue [#2407](https://github.com/anchore/syft/issues/2407) in [anchore/syft](https://github.com/anchore/syft)
+8. ❗ Opened issue [#1631](https://github.com/anchore/grype/issues/1631) in [anchore/grype](https://github.com/anchore/grype)
+9. ❗ Opened issue [#2406](https://github.com/anchore/syft/issues/2406) in [anchore/syft](https://github.com/anchore/syft)
+10. 🗣 Commented on [#1869](https://github.com/rytilahti/python-miio/issues/1869#issuecomment-1845994384) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
 <!--END_SECTION:activity-->
