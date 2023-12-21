@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10115](https://github.com/wolfi-dev/os/pull/10115) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#10082](https://github.com/wolfi-dev/os/pull/10082) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#10080](https://github.com/wolfi-dev/os/pull/10080) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#9667](https://github.com/wolfi-dev/os/pull/9667#issuecomment-1861305434) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. ❌ Closed PR [#9667](https://github.com/wolfi-dev/os/pull/9667) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-6. 💪 Opened PR [#9749](https://github.com/wolfi-dev/os/pull/9749) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-7. ❌ Closed PR [#8809](https://github.com/wolfi-dev/os/pull/8809) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 💪 Opened PR [#9650](https://github.com/wolfi-dev/os/pull/9650) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 🎉 Merged PR [#8758](https://github.com/wolfi-dev/os/pull/8758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. ❗ Opened issue [#2407](https://github.com/anchore/syft/issues/2407) in [anchore/syft](https://github.com/anchore/syft)
+1. 💪 Opened PR [#10276](https://github.com/wolfi-dev/os/pull/10276) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#10115](https://github.com/wolfi-dev/os/pull/10115) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#10082](https://github.com/wolfi-dev/os/pull/10082) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#10080](https://github.com/wolfi-dev/os/pull/10080) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#9667](https://github.com/wolfi-dev/os/pull/9667#issuecomment-1861305434) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+6. ❌ Closed PR [#9667](https://github.com/wolfi-dev/os/pull/9667) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+7. 💪 Opened PR [#9749](https://github.com/wolfi-dev/os/pull/9749) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+8. ❌ Closed PR [#8809](https://github.com/wolfi-dev/os/pull/8809) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#9650](https://github.com/wolfi-dev/os/pull/9650) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 🎉 Merged PR [#8758](https://github.com/wolfi-dev/os/pull/8758) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
