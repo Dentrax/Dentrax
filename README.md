@@ -22,14 +22,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10428](https://github.com/wolfi-dev/os/pull/10428) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#94](https://github.com/guyboertje/jrjackson/issues/94#issuecomment-1869712959) in [guyboertje/jrjackson](https://github.com/guyboertje/jrjackson)
-3. 🗣 Commented on [#34](https://github.com/cyberark/kubeletctl/issues/34#issuecomment-1869382321) in [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl)
-4. 🗣 Commented on [#94](https://github.com/guyboertje/jrjackson/issues/94#issuecomment-1869069508) in [guyboertje/jrjackson](https://github.com/guyboertje/jrjackson)
-5. ❗ Opened issue [#94](https://github.com/guyboertje/jrjackson/issues/94) in [guyboertje/jrjackson](https://github.com/guyboertje/jrjackson)
-6. 🗣 Commented on [#49](https://github.com/mkristian/jar-dependencies/issues/49#issuecomment-1867558115) in [mkristian/jar-dependencies](https://github.com/mkristian/jar-dependencies)
-7. 💪 Opened PR [#10283](https://github.com/wolfi-dev/os/pull/10283) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-8. 💪 Opened PR [#10276](https://github.com/wolfi-dev/os/pull/10276) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-9. 💪 Opened PR [#10115](https://github.com/wolfi-dev/os/pull/10115) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-10. 💪 Opened PR [#10082](https://github.com/wolfi-dev/os/pull/10082) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#1994](https://github.com/chainguard-images/images/pull/1994) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#10428](https://github.com/wolfi-dev/os/pull/10428) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#94](https://github.com/guyboertje/jrjackson/issues/94#issuecomment-1869712959) in [guyboertje/jrjackson](https://github.com/guyboertje/jrjackson)
+4. 🗣 Commented on [#34](https://github.com/cyberark/kubeletctl/issues/34#issuecomment-1869382321) in [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl)
+5. 🗣 Commented on [#94](https://github.com/guyboertje/jrjackson/issues/94#issuecomment-1869069508) in [guyboertje/jrjackson](https://github.com/guyboertje/jrjackson)
+6. ❗ Opened issue [#94](https://github.com/guyboertje/jrjackson/issues/94) in [guyboertje/jrjackson](https://github.com/guyboertje/jrjackson)
+7. 🗣 Commented on [#49](https://github.com/mkristian/jar-dependencies/issues/49#issuecomment-1867558115) in [mkristian/jar-dependencies](https://github.com/mkristian/jar-dependencies)
+8. 💪 Opened PR [#10283](https://github.com/wolfi-dev/os/pull/10283) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+9. 💪 Opened PR [#10276](https://github.com/wolfi-dev/os/pull/10276) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+10. 💪 Opened PR [#10115](https://github.com/wolfi-dev/os/pull/10115) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
